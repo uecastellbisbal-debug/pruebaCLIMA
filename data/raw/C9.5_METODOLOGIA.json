@@ -1,0 +1,19 @@
+{
+  "sheet": "C9.5_METODOLOGIA",
+  "dimensions": "A1:B3",
+  "header": [
+    "Subfactor",
+    "C.9.5 Diversidad, equidad e inclusión"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Estado",
+      "C.9.5 Diversidad, equidad e inclusión": "M4"
+    },
+    {
+      "Subfactor": "Decision",
+      "C.9.5 Diversidad, equidad e inclusión": "DM-C9-005"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "sheet": "GOBERNANZA_WM_BQ",
+  "dimensions": "A1:B9",
+  "header": [
+    "Elemento",
+    "Estado"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Elemento": "Fuente única de verdad",
+      "Estado": "WM-BQ"
+    },
+    {
+      "Elemento": "Versión gobernada",
+      "Estado": "v7.0 RC1 (preparación)"
+    },
+    {
+      "Elemento": "Normalización estructural",
+      "Estado": "Completada"
+    },
+    {
+      "Elemento": "Auditoría metodológica",
+      "Estado": "Completada"
+    },
+    {
+      "Elemento": "Cambios permitidos",
+      "Estado": "Solo mediante WM-BQ"
+    },
+    {
+      "Elemento": "Regeneración de métricas",
+      "Estado": "Automática desde WM-BQ"
+    },
+    {
+      "Elemento": "Trazabilidad",
+      "Estado": "ID permanente obligatorio"
+    },
+    {
+      "Elemento": "Estado",
+      "Estado": "APROBADO"
+    }
+  ]
+}

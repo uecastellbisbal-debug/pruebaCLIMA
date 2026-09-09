@@ -1,0 +1,27 @@
+{
+  "sheet": "D10.3_METODOLOGIA",
+  "dimensions": "A1:B5",
+  "header": [
+    "Campo",
+    "Valor"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Campo": "Subfactor",
+      "Valor": "D.10.3. Vocación profesional"
+    },
+    {
+      "Campo": "Objetivo",
+      "Valor": "Evaluar el grado de alineación vocacional entre la persona y su actividad profesional."
+    },
+    {
+      "Campo": "Decision",
+      "Valor": "DM-D10-003"
+    },
+    {
+      "Campo": "Estado",
+      "Valor": "M4"
+    }
+  ]
+}

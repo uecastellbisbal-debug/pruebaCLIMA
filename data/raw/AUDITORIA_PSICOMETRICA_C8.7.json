@@ -1,0 +1,42 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C8.7",
+  "dimensions": "A1:C7",
+  "header": [
+    "Pregunta",
+    "Estado",
+    "Comentario"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q264",
+      "Estado": "Seleccionada",
+      "Comentario": "Promueve aprendizaje continuo"
+    },
+    {
+      "Pregunta": "Q265",
+      "Estado": "Seleccionada",
+      "Comentario": "Aprendizaje desde errores"
+    },
+    {
+      "Pregunta": "Q266",
+      "Estado": "Reserva v6.27.0",
+      "Comentario": "Comparte conocimiento"
+    },
+    {
+      "Pregunta": "Q267",
+      "Estado": "Reserva",
+      "Comentario": "Redundancia parcial"
+    },
+    {
+      "Pregunta": "Q268",
+      "Estado": "Reserva",
+      "Comentario": "Menor accionabilidad"
+    },
+    {
+      "Pregunta": "Q269",
+      "Estado": "Descartada",
+      "Comentario": "Baja discriminación"
+    }
+  ]
+}

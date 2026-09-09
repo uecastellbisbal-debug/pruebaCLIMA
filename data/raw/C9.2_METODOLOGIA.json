@@ -1,0 +1,28 @@
+{
+  "sheet": "C9.2_METODOLOGIA",
+  "dimensions": "A1:B5",
+  "header": null,
+  "rows_raw": [
+    [
+      "C9.2_METODOLOGIA",
+      null
+    ],
+    [
+      "Subfactor",
+      "C.9.2 Coherencia entre valores y acciones"
+    ],
+    [
+      "Objetivo",
+      "Evaluar la percepción de coherencia entre los valores declarados y las acciones de la organización y sus líderes."
+    ],
+    [
+      "Estado",
+      "M4"
+    ],
+    [
+      "DM",
+      "DM-C9-002"
+    ]
+  ],
+  "records": null
+}

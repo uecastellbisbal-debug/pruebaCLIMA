@@ -1,0 +1,35 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_D10.1",
+  "dimensions": "A1:B7",
+  "header": [
+    "Pregunta",
+    "Estado"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q300",
+      "Estado": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q301",
+      "Estado": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q302",
+      "Estado": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q303",
+      "Estado": "Reserva"
+    },
+    {
+      "Pregunta": "Q304",
+      "Estado": "Reserva"
+    },
+    {
+      "Pregunta": "Q305",
+      "Estado": "Descartada"
+    }
+  ]
+}

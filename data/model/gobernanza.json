@@ -1,0 +1,37 @@
+{
+  "elementos": [
+    {
+      "elemento": "Fuente única de verdad",
+      "estado": "WM-BQ"
+    },
+    {
+      "elemento": "Versión gobernada",
+      "estado": "v7.0 RC1 (preparación)"
+    },
+    {
+      "elemento": "Normalización estructural",
+      "estado": "Completada"
+    },
+    {
+      "elemento": "Auditoría metodológica",
+      "estado": "Completada"
+    },
+    {
+      "elemento": "Cambios permitidos",
+      "estado": "Solo mediante WM-BQ"
+    },
+    {
+      "elemento": "Regeneración de métricas",
+      "estado": "Automática desde WM-BQ"
+    },
+    {
+      "elemento": "Trazabilidad",
+      "estado": "ID permanente obligatorio"
+    },
+    {
+      "elemento": "Estado",
+      "estado": "APROBADO"
+    }
+  ],
+  "reglas": []
+}

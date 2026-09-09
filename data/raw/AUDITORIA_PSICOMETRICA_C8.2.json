@@ -1,0 +1,70 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C8.2",
+  "dimensions": "A1:G7",
+  "header": [
+    "ID",
+    "Claridad",
+    "Unidim.",
+    "Deseabilidad",
+    "Discriminación",
+    "Accionabilidad",
+    "Estado"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "ID": "Q232",
+      "Claridad": "Alta",
+      "Unidim.": "Alta",
+      "Deseabilidad": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Estado": "Seleccionada"
+    },
+    {
+      "ID": "Q233",
+      "Claridad": "Alta",
+      "Unidim.": "Alta",
+      "Deseabilidad": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Estado": "Seleccionada"
+    },
+    {
+      "ID": "Q234",
+      "Claridad": "Alta",
+      "Unidim.": "Alta",
+      "Deseabilidad": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Estado": "Seleccionada"
+    },
+    {
+      "ID": "Q235",
+      "Claridad": "Alta",
+      "Unidim.": "Alta",
+      "Deseabilidad": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Estado": "Reserva"
+    },
+    {
+      "ID": "Q236",
+      "Claridad": "Alta",
+      "Unidim.": "Alta",
+      "Deseabilidad": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Estado": "Reserva"
+    },
+    {
+      "ID": "Q237",
+      "Claridad": "Alta",
+      "Unidim.": "Alta",
+      "Deseabilidad": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Estado": "Descartada"
+    }
+  ]
+}

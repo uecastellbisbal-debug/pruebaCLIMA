@@ -1,0 +1,42 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C9.3",
+  "dimensions": "A1:C7",
+  "header": [
+    "Pregunta",
+    "Estado",
+    "Comentario"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q282",
+      "Estado": "Seleccionada",
+      "Comentario": "Alta alineación"
+    },
+    {
+      "Pregunta": "Q283",
+      "Estado": "Reserva v6.27.0",
+      "Comentario": "Alta discriminación"
+    },
+    {
+      "Pregunta": "Q284",
+      "Estado": "Reserva v6.27.0",
+      "Comentario": "Complementaria"
+    },
+    {
+      "Pregunta": "Q285",
+      "Estado": "Reserva",
+      "Comentario": "Cobertura adicional"
+    },
+    {
+      "Pregunta": "Q286",
+      "Estado": "Reserva",
+      "Comentario": "Redacción alternativa"
+    },
+    {
+      "Pregunta": "Q287",
+      "Estado": "Descartada",
+      "Comentario": "Redundante"
+    }
+  ]
+}

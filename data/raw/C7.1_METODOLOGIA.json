@@ -1,0 +1,718 @@
+{
+  "sheet": "C7.1_METODOLOGIA",
+  "dimensions": "A1:H71",
+  "header": null,
+  "rows_raw": [
+    [
+      "C.7.1 Seguridad física · Iteraciones metodológicas 1 y 2",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Base documental para el cierre metodológico del subfactor dentro del Factor C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Campo",
+      "Definición consolidada",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Código",
+      "C.7.1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nombre",
+      "Seguridad física",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Factor",
+      "C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel de análisis",
+      "Organización",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Percepción de que la organización proporciona condiciones, instalaciones, equipos, normas y prácticas que protegen la integridad física y reducen de forma preventiva los riesgos derivados del trabajo.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objetivo específico",
+      "Evaluar hasta qué punto las personas consideran que su entorno laboral es físicamente seguro, que los riesgos están adecuadamente prevenidos y que la organización responde de manera fiable ante condiciones o incidentes que puedan afectar a su integridad.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructo principal",
+      "Seguridad física laboral percibida",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructos secundarios",
+      "Prevención de riesgos; adecuación de instalaciones y equipos; preparación ante emergencias; respuesta ante incidencias; cultura preventiva.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Frontera conceptual",
+      "Mide protección frente a riesgos físicos y condiciones inseguras. No mide seguridad psicológica, salud emocional, ergonomía general ni confort ambiental salvo cuando impliquen un riesgo directo para la integridad física.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Responsable principal",
+      "Organización / Prevención de Riesgos Laborales",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza compartida",
+      "PRL, Operaciones/Servicios Generales, RRHH y responsables de centro o equipo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Media-Alta: puede mejorar con actuaciones visibles, aunque parte de la percepción depende de infraestructuras y condiciones estructurales.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Prioridad metodológica",
+      "Alta",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Periodicidad recomendada",
+      "Anual, con seguimiento adicional tras incidentes, cambios de instalaciones o actuaciones preventivas relevantes.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dimensión",
+      "Qué evalúa",
+      "Ejemplos de evidencia",
+      "Inclusión",
+      "Exclusión / límite",
+      "Accionabilidad",
+      "Gobernanza",
+      "Prioridad"
+    ],
+    [
+      "Condiciones seguras del entorno",
+      "Ausencia o control de riesgos físicos en el lugar de trabajo.",
+      "Señalización, mantenimiento, orden, accesos, iluminación segura, protección frente a caídas o accidentes.",
+      "Preguntas generales sobre seguridad del entorno.",
+      "Confort o estética sin impacto en la seguridad.",
+      "Alta",
+      "Organización / PRL",
+      "Alta"
+    ],
+    [
+      "Equipos y medios de protección",
+      "Disponibilidad, adecuación y mantenimiento de equipos y protecciones.",
+      "EPIs, herramientas seguras, revisiones, equipos homologados.",
+      "Preguntas sobre disponibilidad y fiabilidad de medios preventivos.",
+      "Disponibilidad general de recursos de trabajo no vinculados a seguridad.",
+      "Alta",
+      "PRL / Operaciones",
+      "Alta"
+    ],
+    [
+      "Prevención e información",
+      "Conocimiento de riesgos, instrucciones y formación preventiva.",
+      "Formación PRL, instrucciones, evaluación de riesgos, comunicación preventiva.",
+      "Preguntas sobre información y preparación para trabajar con seguridad.",
+      "Formación profesional no preventiva.",
+      "Alta",
+      "PRL / RRHH",
+      "Alta"
+    ],
+    [
+      "Emergencias y respuesta",
+      "Preparación y capacidad de actuación ante incidentes.",
+      "Protocolos, simulacros, primeros auxilios, evacuación y comunicación de incidencias.",
+      "Preguntas sobre confianza en protocolos y respuesta.",
+      "Seguridad psicológica para hablar de errores.",
+      "Alta",
+      "Organización / PRL",
+      "Media-Alta"
+    ],
+    [
+      "Cultura preventiva",
+      "Coherencia entre las normas y las prácticas reales.",
+      "Corrección de riesgos, prioridad de la seguridad frente a plazos, reporte de condiciones inseguras.",
+      "Preguntas sobre comportamiento organizativo preventivo.",
+      "Clima de confianza general o liderazgo no relacionado con prevención.",
+      "Alta",
+      "Organización / Managers",
+      "Alta"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterio",
+      "Regla de selección",
+      "Señales de calidad",
+      "Riesgo a evitar",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Claridad",
+      "Una idea principal, lenguaje comprensible y referencia explícita a seguridad o prevención física.",
+      "Redacción directa y aplicable a distintos puestos.",
+      "Ambigüedad entre seguridad física y bienestar general.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Relevancia",
+      "Debe representar una dimensión sustantiva del riesgo o de la prevención.",
+      "Conecta con condiciones, medios, información o respuesta.",
+      "Preguntas demasiado específicas para un colectivo minoritario.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Accionabilidad",
+      "El resultado debe orientar una intervención identificable.",
+      "Responsable y palanca de mejora claros.",
+      "Formulaciones fatalistas o sin capacidad de intervención.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "No redundancia",
+      "Cada ítem debe aportar información incremental.",
+      "Cubre una dimensión distinta o un nivel de actuación diferente.",
+      "Duplicar la percepción global con variaciones mínimas.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Universalidad",
+      "Priorizar ítems respondibles por la mayoría de la plantilla.",
+      "Permite “No aplica” cuando proceda y evita depender de un EPI concreto.",
+      "Sesgo hacia trabajo presencial, industrial o de oficina.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Debe poder reflejar mejoras tras actuaciones preventivas.",
+      "Relacionada con prácticas o condiciones observables.",
+      "Ítems puramente normativos o demasiado estables.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Clasificación",
+      "Criterio",
+      "Uso previsto",
+      "Revisión",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Seleccionada",
+      "Alta relevancia, claridad, accionabilidad y valor incremental; cobertura esencial del constructo.",
+      "Cuestionario reducido y banco completo.",
+      "Pilotaje y validación psicométrica.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reserva",
+      "Ítem válido que cubre un matiz útil, pero con menor universalidad, redundancia parcial o dependencia del contexto.",
+      "Banco completo; posible sustitución o módulo específico.",
+      "Tras pilotaje o según sector/puesto.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Descartada",
+      "Solapamiento alto, baja universalidad, formulación ambigua o constructo fuera de C.7.1.",
+      "Mantener trazabilidad, no incluir en cuestionario reducido.",
+      "Solo si cambia la arquitectura o el contexto de aplicación.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Riesgo metodológico",
+      "Descripción",
+      "Mitigación",
+      "Control de auditoría",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgo por modalidad de trabajo",
+      "La percepción difiere entre presencial, híbrido, remoto, campo o instalaciones del cliente.",
+      "Usar formulaciones amplias y habilitar No aplica cuando corresponda.",
+      "Segmentar resultados por modalidad/centro sin comprometer anonimato.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgo sectorial",
+      "Algunos riesgos son muy visibles en entornos industriales y poco evidentes en oficinas.",
+      "Evitar ejemplos sectoriales en el ítem nuclear; trasladarlos a módulos específicos.",
+      "Revisar funcionamiento diferencial por colectivo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Deseabilidad social / cumplimiento",
+      "Las personas pueden responder sobre el cumplimiento formal y no sobre la experiencia real.",
+      "Preguntar por percepción y prácticas observables, no por conocimiento normativo.",
+      "Contrastar con incidentes, auditorías y datos PRL.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Efecto de incidentes recientes",
+      "Un accidente reciente puede elevar temporalmente la saliencia del riesgo.",
+      "Registrar acontecimientos relevantes y analizar tendencia temporal.",
+      "Interpretar cambios junto con datos operativos.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Confusión con seguridad psicológica",
+      "“Sentirse seguro” puede interpretarse de forma emocional o relacional.",
+      "Incluir referencia explícita a seguridad física, riesgos o integridad.",
+      "Auditar solapamiento con C.7.2.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador de auditoría",
+      "Criterio de aceptación",
+      "Estado iteración 1",
+      "Próximo paso",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Definición específica, accionable y delimitada respecto a subfactores próximos.",
+      "Cumplido",
+      "Validar con las preguntas originales.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Cobertura conceptual",
+      "Las cinco dimensiones quedan representadas en la matriz de análisis.",
+      "Cumplido a nivel de arquitectura",
+      "Asignar preguntas candidatas por dimensión.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza",
+      "Responsables y palancas de intervención identificados.",
+      "Cumplido",
+      "Vincular a plan de acción e indicador.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterios de selección",
+      "Reglas explícitas para seleccionar, reservar o descartar.",
+      "Cumplido",
+      "Aplicar pregunta a pregunta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgos y límites",
+      "Riesgos de modalidad, sector, saliencia y solapamiento documentados.",
+      "Cumplido",
+      "Revisar en auditoría transversal C.7.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Trazabilidad",
+      "Subfactor enlazado con indicador, plan y decisión metodológica.",
+      "Cumplido en iteración 1",
+      "Completar IDs de preguntas en iteración 2.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Madurez metodológica",
+      "M2 · Arquitectura definida.",
+      "M2",
+      "Pasar a M3 tras revisión pregunta a pregunta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen de la iteración 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "La arquitectura metodológica de C.7.1 Seguridad física queda definida y documentada. El subfactor no se considera todavía cerrado: la siguiente iteración debe identificar todas las preguntas originales, asignarlas a las dimensiones, clasificarlas (Seleccionada/Reserva/Descartada) y completar los 44 campos metodológicos en WM-BQ.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Resultado",
+      "Valor",
+      "Alcance",
+      "Criterio",
+      "Evidencia",
+      "Estado",
+      "Siguiente paso",
+      "Versión"
+    ],
+    [
+      "Banco candidato",
+      "6 preguntas",
+      "Q201 y Q203–Q207",
+      "Cobertura de las cinco dimensiones definidas",
+      "AUDITORIA_C7.1_ITER2",
+      "Cumplido",
+      "Auditoría psicométrica teórica",
+      "6.1.2"
+    ],
+    [
+      "Seleccionadas",
+      "2",
+      "Q201 y Q203",
+      "Percepción global + práctica preventiva observable",
+      "WM-BQ",
+      "Cumplido",
+      "Revisar discriminación y redundancia",
+      "6.1.2"
+    ],
+    [
+      "Reserva",
+      "2",
+      "Q204 y Q205",
+      "Información/formación y emergencias",
+      "WM-BQ",
+      "Cumplido",
+      "Definir uso modular",
+      "6.1.2"
+    ],
+    [
+      "Descartadas",
+      "2",
+      "Q206 y Q207",
+      "EPI no universal y formulación compuesta",
+      "WM-BQ",
+      "Cumplido",
+      "Mantener trazabilidad",
+      "6.1.2"
+    ],
+    [
+      "Madurez",
+      "M3",
+      "Banco candidato revisado",
+      "Criterios aplicados pregunta a pregunta",
+      "CONTROL_CALIDAD",
+      "En progreso",
+      "Avanzar a M4 tras auditoría psicométrica",
+      "6.1.2"
+    ],
+    [
+      "Dictamen",
+      "Avance metodológico validado",
+      "C.7.1 todavía no cerrado",
+      "Pendiente consistencia transversal C.7",
+      "DM-C7-001",
+      "En progreso",
+      "Iteración 3",
+      "6.1.2"
+    ]
+  ],
+  "records": null
+}

@@ -1,0 +1,33 @@
+{
+  "titulo": "WellnessMETER · Dashboard v6.28.0",
+  "filas": [
+    {
+      "etiqueta": "Indicador",
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    {
+      "etiqueta": "Seleccionadas",
+      "A": 25,
+      "B": 15,
+      "C": 44,
+      "D": 13
+    },
+    {
+      "etiqueta": "Reserva",
+      "A": 3,
+      "B": 12,
+      "C": 46,
+      "D": 12
+    },
+    {
+      "etiqueta": "Descartadas",
+      "A": 77,
+      "B": 8,
+      "C": 18,
+      "D": 5
+    }
+  ]
+}

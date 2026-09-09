@@ -1,0 +1,118 @@
+{
+  "sheet": "AUD_MET_REDUNDANCIAS",
+  "dimensions": "A1:I200",
+  "header": null,
+  "rows_raw": [
+    [
+      "AUDITORÍA AUTOMÁTICA — CANDIDATOS DE REDUNDANCIA SEMÁNTICA",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Umbral aplicado: similitud TF-IDF ≥ 0,78. Los resultados son candidatos para revisión humana, no descartes automáticos.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "ID 1",
+      "ID 2",
+      "Subfactor 1",
+      "Subfactor 2",
+      "Similitud",
+      "Ámbito",
+      "Pregunta 1",
+      "Pregunta 2",
+      "Recomendación"
+    ],
+    [
+      "WM-A02-Q052",
+      "WM-A02-Q065",
+      "A.2.3",
+      "A.2.4",
+      1,
+      "Transversal",
+      "La empresa ofrece programas de desarrollo de carrera para ayudarme a avanzar en mi trayectoria profesional.",
+      "La empresa ofrece programas de desarrollo de carrera para ayudarme a avanzar en mi trayectoria profesional.",
+      "Revisar posible redundancia"
+    ],
+    [
+      "WM-A02-Q060",
+      "WM-A02-Q066",
+      "A.2.3",
+      "A.2.4",
+      1,
+      "Transversal",
+      "Siento que mi empresa valora y promueve activamente mi desarrollo profesional.",
+      "Siento que mi empresa valora y promueve activamente mi desarrollo profesional.",
+      "Revisar posible redundancia"
+    ],
+    [
+      "WM-A02-Q061",
+      "WM-A02-Q067",
+      "A.2.3",
+      "A.2.4",
+      1,
+      "Transversal",
+      "Recibo retroalimentación constructiva sobre mi progreso y áreas de mejora en mi desarrollo profesional.",
+      "Recibo retroalimentación constructiva sobre mi progreso y áreas de mejora en mi desarrollo profesional.",
+      "Revisar posible redundancia"
+    ],
+    [
+      "WM-A02-Q062",
+      "WM-A02-Q068",
+      "A.2.3",
+      "A.2.4",
+      1,
+      "Transversal",
+      "Recibo suficiente apoyo de mis superiores para participar en programas de formación.",
+      "Recibo suficiente apoyo de mis superiores para participar en programas de formación.",
+      "Revisar posible redundancia"
+    ],
+    [
+      "WM-A02-Q063",
+      "WM-A02-Q069",
+      "A.2.3",
+      "A.2.4",
+      1,
+      "Transversal",
+      "La empresa brinda recursos adicionales para apoyar mi desarrollo profesional, como tutorías o mentorías.",
+      "La empresa brinda recursos adicionales para apoyar mi desarrollo profesional, como tutorías o mentorías.",
+      "Revisar posible redundancia"
+    ],
+    [
+      "WM-A02-Q064",
+      "WM-A02-Q070",
+      "A.2.3",
+      "A.2.4",
+      1,
+      "Transversal",
+      "Encuentro fácilmente recursos y herramientas para continuar mi desarrollo profesional dentro de la empresa.",
+      "Encuentro fácilmente recursos y herramientas para continuar mi desarrollo profesional dentro de la empresa.",
+      "Revisar posible redundancia"
+    ],
+    [
+      "WM-A03-Q078",
+      "WM-C09-Q282",
+      "A.3.2",
+      "C.9.3",
+      0.86,
+      "Transversal",
+      "Me siento parte de la comunidad y cultura de la empresa.",
+      "Me siento parte de la comunidad y la cultura de la empresa.",
+      "Revisar posible redundancia"
+    ]
+  ],
+  "records": null
+}

@@ -1,0 +1,155 @@
+{
+  "sheet": "RECONSTRUCCION_WM_BQ",
+  "dimensions": "A1:F21",
+  "header": null,
+  "rows_raw": [
+    [
+      "WM-KB v6.28.0 · Reconstrucción y consolidación del banco maestro WM-BQ",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objetivo",
+      "Restablecer WM-BQ como fuente única de verdad, incorporando los registros C–D ausentes y sincronizando la selección reducida.",
+      null,
+      null,
+      null
+    ],
+    [
+      "Base utilizada",
+      "Histórico v6.1–v6.27, hojas metodológicas por subfactor, auditorías psicométricas, matrices transversales y decisiones DM.",
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterio de cierre",
+      "95 preguntas seleccionadas; estados y bandera <100 sincronizados; trazabilidad de reservas y descartes mantenida.",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador",
+      "Resultado",
+      "Criterio",
+      "Estado",
+      "Observación"
+    ],
+    [
+      "Registros existentes preservados",
+      159,
+      "A–B y C.7 parcial",
+      "Cumple",
+      "Se mantienen IDs y decisiones consolidadas."
+    ],
+    [
+      "Registros reconstruidos",
+      119,
+      "C.7.3, C.7.5–C.9 y D.10",
+      "Cumple",
+      "Se incorporan registros canónicos con metadatos completos."
+    ],
+    [
+      "Total registros activos en WM-BQ",
+      278,
+      "Banco maestro consolidado",
+      "Cumple",
+      "Excluye filas vacías de plantilla."
+    ],
+    [
+      "Preguntas seleccionadas",
+      95,
+      "Objetivo <100",
+      "Cumple",
+      "A=25; B=13; C=44; D=13."
+    ],
+    [
+      "Preguntas reserva",
+      "Ver Dashboard",
+      "Mantener alternativas para pilotaje",
+      "Cumple",
+      "Recuento automático."
+    ],
+    [
+      "Preguntas descartadas",
+      "Ver Dashboard",
+      "Trazabilidad histórica",
+      "Cumple",
+      "Recuento automático."
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reconciliaciones metodológicas",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "R-01",
+      "La suma declarada en v6.27.0 (C7=16, C8=18, C9=11) equivalía a 45 ítems C y llevaba el total a 96, no 95.",
+      "Se corrige C.8 a 17 ítems para obtener 95 totales.",
+      "Resuelta",
+      "Se mantiene cobertura de los siete subfactores C.8."
+    ],
+    [
+      "R-02",
+      "C.8.1 y C.8.2 compartían referencias Q232–Q237 en hojas históricas.",
+      "Se crean IDs canónicos TRF para C.8.2 y se preservan Q232–Q236 para C.8.1.",
+      "Resuelta",
+      "Evita colisiones de identificadores."
+    ],
+    [
+      "R-03",
+      "C.7.6 figuraba sin IDs maestros.",
+      "Se asignan IDs canónicos ACC-S/R.",
+      "Resuelta",
+      "Accesibilidad física, digital e informacional."
+    ],
+    [
+      "R-04",
+      "WM-BQ solo contenía 45 seleccionadas y no incluía C.8, C.9 ni D.10.",
+      "Se reconstruyen y sincronizan los registros ausentes.",
+      "Resuelta",
+      "El filtro Estado muestra todos los subfactores seleccionados."
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen",
+      "WM-BQ queda reconstruido y consolidado como banco maestro operativo. La selección de 95 preguntas es candidata a pilotaje y sigue pendiente de validación empírica.",
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

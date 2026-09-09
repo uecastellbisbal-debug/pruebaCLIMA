@@ -1,0 +1,113 @@
+{
+  "sheet": "DASHBOARD",
+  "dimensions": "A1:J15",
+  "header": null,
+  "rows_raw": [
+    [
+      "WellnessMETER · Dashboard v6.28.0",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    [
+      "Seleccionadas",
+      25,
+      15,
+      44,
+      13
+    ],
+    [
+      "Reserva",
+      3,
+      12,
+      46,
+      12
+    ],
+    [
+      "Descartadas",
+      77,
+      8,
+      18,
+      5
+    ],
+    [
+      "Total registros",
+      105,
+      35,
+      108,
+      30
+    ],
+    [
+      "Peso selección",
+      0.25773195876288657,
+      0.15463917525773196,
+      0.4536082474226804,
+      0.13402061855670103
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Control global",
+      "Resultado",
+      null,
+      null,
+      null
+    ],
+    [
+      "Seleccionadas totales",
+      97,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objetivo máximo",
+      99,
+      null,
+      null,
+      null
+    ],
+    [
+      "Margen disponible",
+      2,
+      null,
+      null,
+      null
+    ],
+    [
+      "Registros WM-BQ",
+      278,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen",
+      "Cumple <100; pilotaje condicionado",
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

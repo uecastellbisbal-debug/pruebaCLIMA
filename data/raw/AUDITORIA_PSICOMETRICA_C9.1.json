@@ -1,0 +1,42 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C9.1",
+  "dimensions": "A1:C7",
+  "header": [
+    "Pregunta",
+    "Estado",
+    "Comentario"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q270",
+      "Estado": "Seleccionada",
+      "Comentario": "Alta claridad y accionabilidad"
+    },
+    {
+      "Pregunta": "Q271",
+      "Estado": "Seleccionada",
+      "Comentario": "Evalúa alineación cultural"
+    },
+    {
+      "Pregunta": "Q272",
+      "Estado": "Reserva v6.27.0",
+      "Comentario": "Orgullo de pertenencia"
+    },
+    {
+      "Pregunta": "Q273",
+      "Estado": "Reserva",
+      "Comentario": "Complementaria"
+    },
+    {
+      "Pregunta": "Q274",
+      "Estado": "Reserva",
+      "Comentario": "Complementaria"
+    },
+    {
+      "Pregunta": "Q275",
+      "Estado": "Descartada",
+      "Comentario": "Redundante"
+    }
+  ]
+}

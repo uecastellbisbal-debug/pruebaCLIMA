@@ -1,0 +1,80 @@
+{
+  "sheet": "ROADMAP_AUDITORIA_CD",
+  "dimensions": "A1:K60",
+  "header": null,
+  "rows_raw": [
+    [
+      "Roadmap de auditoría conjunta C–D · actualizado v6.26.0",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Versión",
+      "Objetivo",
+      "Entregables",
+      "Estado",
+      "Criterio de cierre",
+      "Dependencias"
+    ],
+    [
+      "Versión",
+      "Objetivo",
+      "Entregables",
+      "Estado",
+      "Criterio de cierre",
+      "Dependencias"
+    ],
+    [
+      "v6.24.0",
+      "Auditoría estructural transversal",
+      "Auditoría, matriz de constructos, checklist y roadmap",
+      "Completada",
+      "Arquitectura evaluada y no conformidades identificadas",
+      "Base v6.23.0"
+    ],
+    [
+      "v6.24.1",
+      "Corrección estructural y consolidación",
+      "Recuperación D.10.2, sincronización maestra, cierre de anomalías",
+      "Completada",
+      "Integridad D.10 y trazabilidad estructural restablecidas",
+      "v6.24.0"
+    ],
+    [
+      "v6.25.0",
+      "Auditoría psicométrica teórica transversal",
+      "Matriz de redundancias, equilibrio de ítems, riesgos de sesgo y plan AFE/AFC",
+      "Completada",
+      "Redundancias clasificadas, equilibrio revisado y plan empírico definido",
+      "v6.24.1"
+    ],
+    [
+      "v6.26.0",
+      "Cierre metodológico C–D",
+      "Acciones correctivas, resumen ejecutivo, dictamen final y madurez",
+      "Completada",
+      "Acciones correctivas formalizadas, dictamen emitido y madurez M5 alcanzada",
+      "v6.25.0"
+    ],
+    [
+      "v6.27.0",
+      "Auditoría global WellnessMETER",
+      "Revisión transversal A–D, equilibrio <100 y gobernanza del instrumento",
+      "Siguiente hito",
+      "Modelo global coherente y listo para pilotaje",
+      "Cierre C–D"
+    ]
+  ],
+  "records": null
+}

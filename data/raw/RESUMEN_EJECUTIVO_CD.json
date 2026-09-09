@@ -1,0 +1,144 @@
+{
+  "sheet": "RESUMEN_EJECUTIVO_CD",
+  "dimensions": "A1:F17",
+  "header": null,
+  "rows_raw": [
+    [
+      "Resumen ejecutivo · Cierre metodológico C–D · v6.26.0",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Elemento",
+      "Conclusión",
+      null,
+      "KPI de cierre",
+      "Valor",
+      "Estado"
+    ],
+    [
+      "Alcance",
+      "23 subfactores de los niveles C y D, con 67 ítems seleccionados como base teórica de pilotaje.",
+      null,
+      "Subfactores cerrados",
+      23,
+      "Completo"
+    ],
+    [
+      "Resultado general",
+      "Cierre metodológico teórico completado. La arquitectura es coherente y utilizable para pilotaje condicionado.",
+      null,
+      "Ítems seleccionados C–D",
+      67,
+      "Base de pilotaje"
+    ],
+    [
+      "Nivel C",
+      "18 subfactores cerrados metodológicamente; los mayores riesgos se concentran en liderazgo, desarrollo y pertenencia.",
+      null,
+      "Acciones correctivas",
+      14,
+      "Formalizadas"
+    ],
+    [
+      "Nivel D",
+      "5 subfactores cerrados metodológicamente; D se mantiene como nivel de síntesis/FIT y no como duplicación de antecedentes.",
+      null,
+      "Riesgos críticos",
+      2,
+      "Control obligatorio"
+    ],
+    [
+      "Acciones correctivas",
+      "14 acciones formalizadas: 8 cerradas teóricamente, 4 cerradas con condición y 2 transferidas a la auditoría global A–D.",
+      null,
+      "Riesgos altos",
+      7,
+      "Control prioritario"
+    ],
+    [
+      "Riesgos críticos",
+      "C.8.4–D.10.4 (desarrollo) y C.9.3 frente a pertenencia en A/B/D.",
+      null,
+      "Escalas de 2 ítems",
+      2,
+      "Reserva activa"
+    ],
+    [
+      "Riesgos altos",
+      "Liderazgo general/transformacional/confianza; valores-misión; ajuste persona-puesto; intereses frente a metas/valores.",
+      null,
+      "Subfactores M5",
+      23,
+      "100%"
+    ],
+    [
+      "Puntuación",
+      "No se autoriza una puntuación global simple de C o D hasta confirmar la estructura factorial.",
+      null,
+      "Cierre estructural",
+      1,
+      "Completo"
+    ],
+    [
+      "Pilotaje",
+      "Debe incluir análisis de ítems, omega, AFE/ESEM, AFC, HTMT, invariancia y validez incremental de D.10.",
+      null,
+      "Cierre metodológico teórico",
+      1,
+      "Completo"
+    ],
+    [
+      "Dictamen",
+      "Aprobado para pilotaje metodológico con condiciones explícitas y riesgos residuales documentados.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "Próximo hito",
+      "Objetivo",
+      "Condición"
+    ],
+    [
+      null,
+      null,
+      null,
+      "v6.27.0",
+      "Auditoría global A–D y optimización <100",
+      "Resolver duplicidades transversales y equilibrar longitud."
+    ],
+    [
+      null,
+      null,
+      null,
+      "Pilotaje empírico",
+      "Validar estructura y funcionamiento",
+      "Disponer de muestra y datos suficientes."
+    ]
+  ],
+  "records": null
+}

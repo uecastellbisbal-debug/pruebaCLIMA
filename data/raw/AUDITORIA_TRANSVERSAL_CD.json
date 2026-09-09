@@ -1,0 +1,168 @@
+{
+  "sheet": "AUDITORIA_TRANSVERSAL_CD",
+  "dimensions": "A1:K60",
+  "header": null,
+  "rows_raw": [
+    [
+      "WM-KB v6.24.1 · Auditoría estructural transversal C–D corregida",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Alcance intermedio: coherencia de arquitectura, nomenclatura, cobertura y trazabilidad documental. No sustituye la auditoría psicométrica transversal ni la validación empírica.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Código",
+      "Área revisada",
+      "Hallazgo estructural",
+      "Severidad",
+      "Conclusión / criterio",
+      "Acción para siguiente versión",
+      "Estado",
+      "Evidencia"
+    ],
+    [
+      "AT-CD-EST-001",
+      "Arquitectura global",
+      "Los niveles C y D siguen una lógica coherente: C mide condiciones organizativas antecedentes y D sintetiza el ajuste persona–organización (FIT).",
+      "Baja",
+      "La relación causal/interpretativa es conceptualmente consistente.",
+      "Mantener esta separación en la auditoría global y en el modelo de análisis.",
+      "Validado",
+      "C.7, C.8, C.9 y D.10"
+    ],
+    [
+      "AT-CD-EST-002",
+      "Cobertura del Nivel C",
+      "C cubre entorno de trabajo, liderazgo y cultura organizativa mediante 18 subfactores, con una granularidad suficiente para diagnóstico organizativo.",
+      "Baja",
+      "Cobertura amplia y equilibrada a nivel arquitectónico.",
+      "Revisar en v6.24.1 el peso relativo de cada factor según número de ítems seleccionados.",
+      "Validado preliminar",
+      "C.7 (6), C.8 (7), C.9 (5)"
+    ],
+    [
+      "AT-CD-EST-003",
+      "Cobertura del Nivel D",
+      "D.10 integra cinco facetas de FIT: misión, puesto, vocación, desarrollo e intereses personales.",
+      "Baja",
+      "La estructura cubre ajuste de propósito, capacidad, identidad profesional, crecimiento e intereses.",
+      "Contrastar validez discriminante entre las cinco facetas en la fase psicométrica.",
+      "Validado preliminar",
+      "D.10.1–D.10.5"
+    ],
+    [
+      "AT-CD-EST-004",
+      "Nomenclatura y jerarquía",
+      "La codificación C.7/C.8/C.9 y D.10 es consistente con el modelo de niveles y factores.",
+      "Baja",
+      "No se detectan conflictos jerárquicos en los nombres declarados.",
+      "Conservar códigos permanentes y evitar renombrados posteriores sin decisión DM.",
+      "Validado",
+      "Códigos de factor y subfactor"
+    ],
+    [
+      "AT-CD-EST-005",
+      "Solapamiento pertenencia/identidad",
+      "C.9.3 Sentimiento de pertenencia puede aproximarse a A.3.2, B.5.1 y algunas facetas de FIT.",
+      "Media",
+      "El constructo es aceptable si se mantiene el foco organizativo: cultura compartida y vínculo con la empresa.",
+      "Revisar redacción e indicadores para asegurar foco de nivel y evitar ítems equivalentes.",
+      "Revisar en v6.24.1",
+      "C.9.3 vs A.3.2/B.5.1/D.10"
+    ],
+    [
+      "AT-CD-EST-006",
+      "Solapamiento desarrollo",
+      "D.10.4 Desarrollo profesional se aproxima a A.2 Desarrollo y C.8.4 Fomento del desarrollo profesional.",
+      "Alta",
+      "Debe distinguirse entre oportunidades ofrecidas (A/C) y percepción de encaje del propio itinerario profesional (D).",
+      "Aplicar prueba de discriminación conceptual ítem a ítem y reservar los ítems ambiguos.",
+      "Acción prioritaria",
+      "D.10.4 vs A.2/C.8.4"
+    ],
+    [
+      "AT-CD-EST-007",
+      "Solapamiento cultura/FIT",
+      "C.9 Cultura organizativa y D.10 FIT comparten valores, identificación y pertenencia.",
+      "Media",
+      "La coexistencia es metodológicamente defendible: C evalúa atributos de la organización; D evalúa compatibilidad personal.",
+      "Formalizar reglas de foco: 'la empresa hace/es' frente a 'yo encajo/me identifico'.",
+      "Revisar en v6.24.1",
+      "C.9 vs D.10"
+    ],
+    [
+      "AT-CD-EST-008",
+      "Trazabilidad del libro",
+      "Las hojas maestras principales se han sincronizado con la arquitectura completada de C y D.",
+      "Baja",
+      "Trazabilidad estructural restablecida para esta fase.",
+      "Mantener sincronización en cada nueva versión.",
+      "Cerrado v6.24.1",
+      "README, FACTORES, SUBFACTORES, DECISIONES_DM, PROGRESO y roadmap"
+    ],
+    [
+      "AT-CD-EST-009",
+      "Integridad del Nivel D",
+      "D.10.2 ha sido reconstruido con metodología, decisión DM y auditoría teórica.",
+      "Baja",
+      "La cadena documental del Nivel D vuelve a estar completa.",
+      "Verificar discriminación empírica durante el pilotaje.",
+      "Cerrado v6.24.1",
+      "D10.2_METODOLOGIA y AUDITORIA_PSICOMETRICA_D10.2"
+    ],
+    [
+      "AT-CD-EST-010",
+      "Uniformidad documental",
+      "Las estructuras históricas siguen siendo heterogéneas, pero se adopta una plantilla mínima común para nuevas correcciones.",
+      "Media",
+      "La heterogeneidad no impide la auditoría transversal, aunque deberá normalizarse en el cierre metodológico.",
+      "Normalizar progresivamente sin reescribir evidencia histórica.",
+      "Aceptado con plan",
+      "Plantilla D.10.2 y roadmap v6.26.0"
+    ],
+    [
+      "AT-CD-EST-011",
+      "Preparación para validación",
+      "La arquitectura admite AFE/AFC y análisis de validez convergente/discriminante, pero la suficiencia por subfactor dependerá del número final de ítems.",
+      "Media",
+      "Estructura teórica preparada; evidencia empírica aún inexistente.",
+      "Mantener al menos 3 ítems candidatos por constructo en pilotaje cuando sea posible.",
+      "Condicionado",
+      "Validación empírica pendiente"
+    ],
+    [
+      "AT-CD-EST-012",
+      "Dictamen intermedio",
+      "La arquitectura C–D queda estructuralmente consolidada tras recuperar D.10.2 y sincronizar las hojas maestras.",
+      "Baja",
+      "Aprobación estructural para iniciar la auditoría psicométrica transversal.",
+      "Continuar con v6.25.0.",
+      "Aprobado",
+      "Resultado de v6.24.1"
+    ]
+  ],
+  "records": null
+}

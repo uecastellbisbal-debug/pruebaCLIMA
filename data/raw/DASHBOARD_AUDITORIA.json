@@ -1,0 +1,80 @@
+{
+  "sheet": "DASHBOARD_AUDITORIA",
+  "dimensions": "A1:F9",
+  "header": null,
+  "rows_raw": [
+    [
+      "WELLNESSMETER — DASHBOARD DE AUDITORÍA METODOLÓGICA",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador",
+      "Valor",
+      null,
+      "Nivel",
+      "Seleccionadas",
+      "ICM"
+    ],
+    [
+      "Registros WM-BQ",
+      278,
+      null,
+      "A · Persona",
+      25,
+      94.16153846153846
+    ],
+    [
+      "Subfactores oficiales",
+      51,
+      null,
+      "B · Equipo",
+      15,
+      89.76666666666667
+    ],
+    [
+      "Preguntas seleccionadas",
+      97,
+      null,
+      "C · Empresa",
+      44,
+      94.61666666666666
+    ],
+    [
+      "Incidencias estructurales",
+      0,
+      null,
+      "D · Propósito/FIT",
+      13,
+      94.6
+    ],
+    [
+      "Redundancias candidatas",
+      7,
+      null,
+      "TOTAL",
+      97,
+      93.07254901960783
+    ],
+    [
+      "Estado Fase 2",
+      "Completada",
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

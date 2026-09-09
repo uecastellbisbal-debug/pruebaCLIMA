@@ -1,0 +1,39 @@
+{
+  "sheet": "C8.2_METODOLOGIA",
+  "dimensions": "A1:B8",
+  "header": [
+    "Subfactor",
+    "C.8.2 Liderazgo transformacional y modelo de rol"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Estado",
+      "C.8.2 Liderazgo transformacional y modelo de rol": "M4"
+    },
+    {
+      "Subfactor": "Objetivo",
+      "C.8.2 Liderazgo transformacional y modelo de rol": "Evaluar si el liderazgo inspira, desarrolla y actúa como ejemplo."
+    },
+    {
+      "Subfactor": "Dimensiones",
+      "C.8.2 Liderazgo transformacional y modelo de rol": "Visión inspiradora; Ejemplo; Desarrollo; Cambio; Empoderamiento"
+    },
+    {
+      "Subfactor": "Preguntas seleccionadas",
+      "C.8.2 Liderazgo transformacional y modelo de rol": "Q232,Q233,Q234"
+    },
+    {
+      "Subfactor": "Reserva",
+      "C.8.2 Liderazgo transformacional y modelo de rol": "Q235,Q236"
+    },
+    {
+      "Subfactor": "Descartadas",
+      "C.8.2 Liderazgo transformacional y modelo de rol": "Q237"
+    },
+    {
+      "Subfactor": "Decision",
+      "C.8.2 Liderazgo transformacional y modelo de rol": "DM-C8-002"
+    }
+  ]
+}

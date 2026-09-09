@@ -1,0 +1,23 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_D10.3",
+  "dimensions": "A1:B4",
+  "header": [
+    "Categoría",
+    "Preguntas"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Categoría": "Seleccionadas",
+      "Preguntas": "Q312, Q313, Q314"
+    },
+    {
+      "Categoría": "Reserva",
+      "Preguntas": "Q315, Q316"
+    },
+    {
+      "Categoría": "Descartada",
+      "Preguntas": "Q317"
+    }
+  ]
+}

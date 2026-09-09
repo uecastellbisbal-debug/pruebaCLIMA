@@ -1,0 +1,73 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C7.5",
+  "dimensions": "A1:I6",
+  "header": [
+    "Pregunta",
+    "Claridad",
+    "Unidimensionalidad",
+    "Deseabilidad social",
+    "Discriminación",
+    "Accionabilidad",
+    "Universalidad",
+    "Redundancias",
+    "Recomendación"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q1",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Universalidad": "Alta",
+      "Redundancias": "No",
+      "Recomendación": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q2",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Baja",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Universalidad": "Alta",
+      "Redundancias": "No",
+      "Recomendación": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q3",
+      "Claridad": "Media",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Media",
+      "Discriminación": "Media",
+      "Accionabilidad": "Alta",
+      "Universalidad": "Alta",
+      "Redundancias": "No",
+      "Recomendación": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q4",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Media",
+      "Deseabilidad social": "Media",
+      "Discriminación": "Media",
+      "Accionabilidad": "Media",
+      "Universalidad": "Alta",
+      "Redundancias": "Parcial",
+      "Recomendación": "Reserva"
+    },
+    {
+      "Pregunta": "Q5",
+      "Claridad": "Media",
+      "Unidimensionalidad": "Media",
+      "Deseabilidad social": "Alta",
+      "Discriminación": "Baja",
+      "Accionabilidad": "Media",
+      "Universalidad": "Media",
+      "Redundancias": "Sí",
+      "Recomendación": "Descartada"
+    }
+  ]
+}

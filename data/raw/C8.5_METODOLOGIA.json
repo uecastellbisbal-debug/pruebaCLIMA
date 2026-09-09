@@ -1,0 +1,23 @@
+{
+  "sheet": "C8.5_METODOLOGIA",
+  "dimensions": "A1:B4",
+  "header": [
+    "Subfactor",
+    "C.8.5 Modelos de comunicación eficaces"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Objetivo",
+      "C.8.5 Modelos de comunicación eficaces": "Evaluar la eficacia de los modelos de comunicación ejercidos por el liderazgo."
+    },
+    {
+      "Subfactor": "Estado",
+      "C.8.5 Modelos de comunicación eficaces": "M4"
+    },
+    {
+      "Subfactor": "DM",
+      "C.8.5 Modelos de comunicación eficaces": "DM-C8-005"
+    }
+  ]
+}

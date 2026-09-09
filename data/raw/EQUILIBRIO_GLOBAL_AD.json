@@ -1,0 +1,173 @@
+{
+  "sheet": "EQUILIBRIO_GLOBAL_AD",
+  "dimensions": "A1:I15",
+  "header": null,
+  "rows_raw": [
+    [
+      "Equilibrio y representatividad de la versión final de 95 preguntas",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel",
+      "Preguntas",
+      "% total",
+      "Subfactores",
+      "Media por subfactor",
+      "Rango objetivo",
+      "Evaluación",
+      "Riesgo",
+      "Decisión"
+    ],
+    [
+      "A",
+      25,
+      0.2631578947368421,
+      13,
+      1.923076923076923,
+      "20–30",
+      "Equilibrado",
+      "Medio",
+      "Mantener"
+    ],
+    [
+      "B",
+      13,
+      0.1368421052631579,
+      15,
+      0.8666666666666667,
+      "12–18",
+      "Núcleo mínimo",
+      "Medio",
+      "Mantener sin reducir"
+    ],
+    [
+      "C",
+      44,
+      0.4631578947368421,
+      18,
+      2.444444444444445,
+      "40–48",
+      "Peso alto justificado",
+      "Alto",
+      "Controlar redundancias en pilotaje"
+    ],
+    [
+      "D",
+      13,
+      0.1368421052631579,
+      5,
+      2.6,
+      "10–16",
+      "Equilibrado",
+      "Alto",
+      "Control discriminante con A/C"
+    ],
+    [
+      "TOTAL",
+      95,
+      1,
+      51,
+      1.862745098039216,
+      "80–95",
+      "Objetivo alcanzado",
+      "Controlado",
+      "Aprobar para pilotaje"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Controles de equilibrio",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "E-01",
+      "Cobertura de 51 subfactores",
+      "Cumple",
+      "Todos los subfactores permanecen representados metodológicamente; varios disponen de 1–2 ítems y requieren control de fiabilidad.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "E-02",
+      "Límite de longitud",
+      "Cumple",
+      "95 preguntas: dentro del objetivo operativo de 80–95 y por debajo de 100.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "E-03",
+      "Peso del nivel C",
+      "Cumple condicionado",
+      "El 46,3% se justifica por la amplitud organizativa; revisar carga y redundancia tras el pilotaje.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "E-04",
+      "Núcleo del nivel B",
+      "Cumple condicionado",
+      "13 ítems para 15 subfactores exige interpretar algunos resultados mediante indicadores compuestos o revisar cobertura tras el pilotaje.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "E-05",
+      "Equilibrio de gobernanza",
+      "Cumple",
+      "La selección conserva focos de intervención de persona, manager, RRHH y empresa.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

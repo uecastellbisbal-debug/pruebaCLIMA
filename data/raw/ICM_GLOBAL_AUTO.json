@@ -1,0 +1,98 @@
+{
+  "sheet": "ICM_GLOBAL_AUTO",
+  "dimensions": "A1:H9",
+  "header": null,
+  "rows_raw": [
+    [
+      "ÍNDICE DE COBERTURA METODOLÓGICA (ICM) — CÁLCULO AUTOMÁTICO",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel",
+      "Subfactores",
+      "Preguntas banco",
+      "Seleccionadas",
+      "Objetivo acumulado",
+      "ICM medio",
+      "Cobertura",
+      "Dictamen"
+    ],
+    [
+      "A · Persona",
+      13,
+      105,
+      25,
+      14,
+      94.16153846153846,
+      1.7857142857142858,
+      "Muy sólido"
+    ],
+    [
+      "B · Equipo",
+      15,
+      35,
+      15,
+      15,
+      89.76666666666667,
+      1,
+      "Sólido"
+    ],
+    [
+      "C · Empresa",
+      18,
+      108,
+      44,
+      18,
+      94.61666666666666,
+      2.4444444444444446,
+      "Muy sólido"
+    ],
+    [
+      "D · Propósito/FIT",
+      5,
+      30,
+      13,
+      5,
+      94.6,
+      2.6,
+      "Muy sólido"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "TOTAL",
+      51,
+      278,
+      97,
+      52,
+      93.07254901960783,
+      1.8653846153846154,
+      "Muy sólido"
+    ]
+  ],
+  "records": null
+}

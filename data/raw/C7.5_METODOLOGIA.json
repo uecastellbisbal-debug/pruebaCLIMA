@@ -1,0 +1,658 @@
+{
+  "sheet": "C7.5_METODOLOGIA",
+  "dimensions": "A1:H65",
+  "header": null,
+  "rows_raw": [
+    [
+      "C.7.5 Disponibilidad de recursos adecuados · Iteración metodológica 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Base documental para definir la arquitectura metodológica del subfactor dentro de C.7 Entorno de trabajo.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Campo",
+      "Definición consolidada",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Código",
+      "C.7.5",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nombre",
+      "Disponibilidad de recursos adecuados",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Factor",
+      "C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel de análisis",
+      "Organización / Puesto y medios de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Percepción de que la persona dispone, en cantidad, calidad, funcionamiento y oportunidad suficientes, de las herramientas, equipos, sistemas, información y apoyos materiales necesarios para realizar su trabajo de forma eficaz y segura.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objetivo específico",
+      "Evaluar hasta qué punto la organización proporciona recursos adecuados, accesibles, fiables y actualizados para ejecutar las tareas sin obstáculos evitables, demoras o sobrecarga compensatoria.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructo principal",
+      "Disponibilidad y adecuación percibida de los recursos de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructos secundarios",
+      "Suficiencia de herramientas y equipos; funcionamiento y fiabilidad; adecuación a la tarea; acceso oportuno a información y sistemas; actualización, mantenimiento y soporte.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Frontera conceptual",
+      "Mide la disponibilidad y utilidad de herramientas, equipos, sistemas, materiales e información necesarios para trabajar. No mide ergonomía, mobiliario o configuración física del puesto (C.7.4), calidad ambiental (C.7.3), seguridad física (C.7.1), accesibilidad universal y barreras (C.7.6), ni competencias personales o formación.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Responsable principal",
+      "Organización / Operaciones / IT / Compras",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza compartida",
+      "IT, Operaciones, Compras, Facilities cuando proceda, responsables de equipo, soporte técnico y áreas propietarias de procesos e información.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Alta: la dotación, actualización, mantenimiento, reposición, permisos y soporte pueden modificarse en plazos cortos o medios.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Prioridad metodológica",
+      "Alta",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Periodicidad recomendada",
+      "Anual, con seguimiento tras implantaciones tecnológicas, cambios de procesos, incorporación de equipos o incidencias recurrentes de disponibilidad.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dimensión",
+      "Qué evalúa",
+      "Ejemplos de evidencia",
+      "Inclusión",
+      "Exclusión / límite",
+      "Accionabilidad",
+      "Gobernanza",
+      "Prioridad"
+    ],
+    [
+      "Suficiencia de herramientas, equipos y materiales",
+      "Si la cantidad y disponibilidad de medios permite realizar el trabajo sin esperas, improvisaciones o uso compartido inadecuado.",
+      "Equipos, herramientas, consumibles, materiales, licencias y dispositivos disponibles cuando se necesitan.",
+      "Preguntas sobre cantidad, disponibilidad y acceso efectivo a recursos necesarios.",
+      "Comodidad del mobiliario o amplitud del espacio, cubiertas en C.7.4.",
+      "Alta",
+      "Operaciones / Compras / IT",
+      "Alta"
+    ],
+    [
+      "Adecuación a las tareas",
+      "Si los recursos proporcionados son apropiados para las exigencias reales del puesto y permiten alcanzar los estándares esperados.",
+      "Capacidad, prestaciones, compatibilidad, precisión y ajuste al tipo de trabajo.",
+      "Preguntas sobre idoneidad funcional de herramientas, equipos y sistemas.",
+      "Diseño ergonómico del puesto o adaptación espacial, cubiertos en C.7.4.",
+      "Alta",
+      "Operaciones / IT / Responsables",
+      "Alta"
+    ],
+    [
+      "Funcionamiento y fiabilidad",
+      "Grado en que los recursos operan de forma estable, segura y con pocas interrupciones o fallos.",
+      "Disponibilidad de sistemas, estabilidad, averías, lentitud, errores, caídas y continuidad de servicio.",
+      "Preguntas sobre fiabilidad, funcionamiento y continuidad de los recursos.",
+      "Percepción general de seguridad física o prevención de accidentes, cubierta en C.7.1.",
+      "Alta",
+      "IT / Mantenimiento / Proveedores",
+      "Alta"
+    ],
+    [
+      "Acceso oportuno a información y sistemas",
+      "Si la persona puede acceder a los datos, aplicaciones, permisos y documentación necesarios en el momento adecuado.",
+      "Permisos, credenciales, documentación, datos, instrucciones y sistemas accesibles sin demoras injustificadas.",
+      "Preguntas sobre acceso funcional a información y sistemas de trabajo.",
+      "Calidad de la comunicación interpersonal o claridad de objetivos, cubiertas en otros factores.",
+      "Alta",
+      "IT / Propietarios de proceso / Managers",
+      "Alta"
+    ],
+    [
+      "Actualización, mantenimiento y soporte",
+      "Capacidad de la organización para mantener los recursos actualizados, corregir incidencias y prestar apoyo cuando surgen problemas.",
+      "Reposición, mantenimiento preventivo, actualizaciones, soporte técnico, tiempos de respuesta y resolución.",
+      "Preguntas sobre mantenimiento, renovación, soporte y resolución de incidencias.",
+      "Formación para usar herramientas o desarrollo de competencias, cubiertos en A.2.",
+      "Media-Alta",
+      "IT / Compras / Soporte / Operaciones",
+      "Media-Alta"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterio",
+      "Regla de selección",
+      "Señales de calidad",
+      "Riesgo a evitar",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Claridad",
+      "Un recurso o condición principal por ítem, formulado con referencia directa al trabajo habitual.",
+      "Menciona herramientas, equipos, sistemas, materiales, información, funcionamiento, acceso o soporte.",
+      "Ítems globales que mezclen recursos, entorno físico, carga de trabajo y liderazgo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Relevancia",
+      "Debe representar un medio indispensable o facilitador directo de la ejecución laboral.",
+      "Conecta con eficacia, continuidad, calidad y capacidad real para completar las tareas.",
+      "Incluir recursos periféricos o preferencias individuales sin impacto funcional.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Accionabilidad",
+      "El resultado debe orientar decisiones de dotación, mantenimiento, actualización, acceso o soporte.",
+      "Permite asignar responsables y actuar mediante compra, reposición, permisos, actualización o resolución de incidencias.",
+      "Formulaciones vagas como «la empresa me da todo lo necesario» sin diagnóstico posible.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "No redundancia",
+      "Cada ítem debe aportar una dimensión distinta de disponibilidad, adecuación, funcionamiento, acceso o soporte.",
+      "Diferencia cantidad, idoneidad, fiabilidad, acceso y mantenimiento.",
+      "Repetir distintas versiones de «dispongo de recursos suficientes».",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Universalidad",
+      "Priorizar formulaciones aplicables a puestos tecnológicos y no tecnológicos, presenciales, remotos o itinerantes.",
+      "Referencia a los recursos necesarios para el trabajo habitual, sin limitarse a un dispositivo o aplicación concreta.",
+      "Sesgo hacia oficinas, ordenadores o herramientas digitales como único contexto.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Debe captar mejoras tras dotación, renovación, mantenimiento, concesión de accesos o refuerzo del soporte.",
+      "Relacionada con palancas organizativas modificables y tiempos de respuesta observables.",
+      "Ítems basados en restricciones estructurales o regulatorias difícilmente controlables.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Clasificación",
+      "Criterio",
+      "Uso previsto",
+      "Revisión",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Seleccionada",
+      "Alta claridad, relevancia, accionabilidad, universalidad y aporte incremental al conjunto del subfactor.",
+      "Cuestionario reducido y banco completo.",
+      "Pilotaje y validación psicométrica.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reserva",
+      "Ítem válido que aporta un matiz útil, pero depende del tipo de puesto, modalidad, tecnología o proceso.",
+      "Banco completo; posible módulo por colectivo, sede o familia de puestos.",
+      "Tras pilotaje o según contexto de aplicación.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Descartada",
+      "Solapamiento alto, formulación multidimensional, baja universalidad o foco fuera del constructo.",
+      "Mantener trazabilidad, no incluir en cuestionario reducido.",
+      "Solo si cambia la arquitectura o el contexto.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Riesgo metodológico",
+      "Descripción",
+      "Mitigación",
+      "Control de auditoría",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Solapamiento con C.7.4",
+      "Las preguntas pueden mezclar equipamiento, mobiliario, ergonomía y espacio en una sola valoración.",
+      "Reservar C.7.5 para herramientas, equipos, sistemas, materiales e información; mantener puesto, mobiliario y espacio en C.7.4.",
+      "Revisión transversal C.7.4–C.7.5 por constructo dominante.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgo tecnológico",
+      "El banco puede quedar excesivamente centrado en ordenadores, software o conectividad.",
+      "Usar lenguaje amplio sobre recursos de trabajo y comprobar aplicabilidad en puestos operativos, de campo y atención.",
+      "Revisar cobertura por familias de puestos y modalidad.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dependencia del proceso o puesto",
+      "Los recursos necesarios varían sustancialmente entre colectivos, sedes y tareas.",
+      "Priorizar formulaciones generales y utilizar módulos específicos cuando exista un recurso crítico no universal.",
+      "Analizar funcionamiento diferencial por colectivo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Confusión entre disponibilidad y competencia",
+      "Un recurso puede estar disponible, pero la persona no saber utilizarlo adecuadamente.",
+      "Formular sobre acceso, adecuación y funcionamiento; tratar formación y competencia en A.2.",
+      "Auditar referencias a conocimientos, capacitación o habilidad personal.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Ítems excesivamente globales",
+      "Una valoración general puede ocultar si el problema es cantidad, fiabilidad, permisos, actualización o soporte.",
+      "Combinar como máximo un ítem global con preguntas específicas y unidimensionales.",
+      "Revisar capacidad diagnóstica y redundancia del banco candidato.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador de auditoría",
+      "Criterio de aceptación",
+      "Estado iteración 1",
+      "Próximo paso",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Definición específica y delimitada respecto a ergonomía, ambiente, seguridad y accesibilidad.",
+      "Cumplido.",
+      "Recuperar y mapear preguntas originales del subfactor.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Cobertura conceptual",
+      "Las cinco dimensiones quedan representadas en la matriz metodológica.",
+      "Cumplido teóricamente.",
+      "Contrastar cobertura con el banco candidato.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza",
+      "Responsables y palancas de intervención identificados.",
+      "Cumplido.",
+      "Vincular indicador, plan y decisión metodológica.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterios de selección",
+      "Reglas explícitas para seleccionar, reservar o descartar.",
+      "Cumplido.",
+      "Aplicar criterios pregunta a pregunta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgos y límites",
+      "Riesgos tecnológicos, de puesto, modalidad y solapamiento documentados.",
+      "Cumplido.",
+      "Revisar universalidad y opción No aplica.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Trazabilidad",
+      "Subfactor enlazado con indicador, plan y decisión metodológica.",
+      "Preparada en iteración 1.",
+      "Incorporar IDs permanentes del banco candidato.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Madurez metodológica",
+      "M2 · Arquitectura metodológica definida.",
+      "M2",
+      "Pasar a Iteración 2 · Banco candidato.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen de la iteración 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "C.7.5 queda definido como la disponibilidad, adecuación, fiabilidad, acceso y mantenimiento de los recursos necesarios para trabajar. La arquitectura establece cinco dimensiones y delimita el subfactor respecto a ergonomía, ambiente físico, seguridad, accesibilidad y formación. El subfactor alcanza M2 y queda preparado para revisar y clasificar su banco candidato.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Iteración 1 completada · Arquitectura metodológica definida (M2).",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

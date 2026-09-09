@@ -1,0 +1,42 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C8.6",
+  "dimensions": "A1:C7",
+  "header": [
+    "Pregunta",
+    "Estado",
+    "Observación"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q258",
+      "Estado": "Seleccionada",
+      "Observación": "Alta claridad"
+    },
+    {
+      "Pregunta": "Q259",
+      "Estado": "Seleccionada",
+      "Observación": "Alta discriminación"
+    },
+    {
+      "Pregunta": "Q260",
+      "Estado": "Seleccionada",
+      "Observación": "Accionable"
+    },
+    {
+      "Pregunta": "Q261",
+      "Estado": "Reserva",
+      "Observación": "Complementaria"
+    },
+    {
+      "Pregunta": "Q262",
+      "Estado": "Reserva",
+      "Observación": "Contextual"
+    },
+    {
+      "Pregunta": "Q263",
+      "Estado": "Descartada",
+      "Observación": "Redundante"
+    }
+  ]
+}

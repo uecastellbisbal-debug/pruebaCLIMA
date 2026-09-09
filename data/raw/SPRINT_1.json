@@ -1,0 +1,31 @@
+{
+  "sheet": "SPRINT_1",
+  "dimensions": "A1:B7",
+  "header": [
+    "Sprint",
+    "Inicio Nivel B — Equipo"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Sprint": "Versión",
+      "Inicio Nivel B — Equipo": "3.7"
+    },
+    {
+      "Sprint": "Alcance",
+      "Inicio Nivel B — Equipo": "B.4.1 Flexibilidad laboral + B.4.2 Conciliación familiar/social"
+    },
+    {
+      "Sprint": "Resultado",
+      "Inicio Nivel B — Equipo": "12 preguntas documentadas; 4 seleccionadas"
+    },
+    {
+      "Sprint": "Estado",
+      "Inicio Nivel B — Equipo": "Cerrado"
+    },
+    {
+      "Sprint": "Siguiente",
+      "Inicio Nivel B — Equipo": "B.4.3 Apoyo ante dificultades personales + B.4.4 Ambiente laboral inclusivo"
+    }
+  ]
+}

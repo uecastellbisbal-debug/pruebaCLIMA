@@ -1,0 +1,19 @@
+{
+  "sheet": "D10.4_METODOLOGIA",
+  "dimensions": "A1:D2",
+  "header": [
+    "Subfactor",
+    "Objetivo",
+    "Decision",
+    "Estado"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "D.10.4 Desarrollo profesional",
+      "Objetivo": "Evaluar percepción de oportunidades de desarrollo profesional y crecimiento.",
+      "Decision": "DM-D10-004",
+      "Estado": "M4"
+    }
+  ]
+}

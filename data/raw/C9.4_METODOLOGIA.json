@@ -1,0 +1,40 @@
+{
+  "sheet": "C9.4_METODOLOGIA",
+  "dimensions": "A1:B8",
+  "header": null,
+  "rows_raw": [
+    [
+      "C9.4_METODOLOGIA",
+      null
+    ],
+    [
+      "Subfactor",
+      "C.9.4 Promoción de la cultura organizativa"
+    ],
+    [
+      "Objetivo",
+      "Evaluar cómo la organización impulsa y comunica su cultura."
+    ],
+    [
+      "Preguntas seleccionadas",
+      "Q288,Q289,Q290"
+    ],
+    [
+      "Reserva",
+      "Q291,Q292"
+    ],
+    [
+      "Descartada",
+      "Q293"
+    ],
+    [
+      "Decisión",
+      "DM-C9-004"
+    ],
+    [
+      "Estado",
+      "M4"
+    ]
+  ],
+  "records": null
+}

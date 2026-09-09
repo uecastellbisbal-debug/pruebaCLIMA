@@ -1,0 +1,88 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_D10.2",
+  "dimensions": "A1:F10",
+  "header": null,
+  "rows_raw": [
+    [
+      "D.10.2 · Auditoría psicométrica teórica reconstruida",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Pregunta",
+      "Estado",
+      "Función conceptual",
+      "Riesgo principal",
+      "Recomendación",
+      "Trazabilidad"
+    ],
+    [
+      "Q306",
+      "Seleccionada",
+      "Ajuste entre capacidades y exigencias del puesto",
+      "Autovaloración favorable",
+      "Mantener redacción específica y centrada en correspondencia.",
+      "DM-D10-002"
+    ],
+    [
+      "Q307",
+      "Seleccionada",
+      "Adecuación de conocimientos y experiencia",
+      "Solapamiento con competencia/desempeño",
+      "Evitar formularlo como evaluación del rendimiento.",
+      "DM-D10-002"
+    ],
+    [
+      "Q308",
+      "Seleccionada",
+      "Compatibilidad entre preferencias y características del trabajo",
+      "Solapamiento con intereses personales",
+      "Mantener foco en el puesto actual, no en intereses vitales generales.",
+      "DM-D10-002"
+    ],
+    [
+      "Q309",
+      "Reserva",
+      "Capacidad para responder a las demandas del puesto",
+      "Redundancia con Q306/Q307",
+      "Conservar para pilotaje y análisis de discriminación.",
+      "DM-D10-002"
+    ],
+    [
+      "Q310",
+      "Reserva",
+      "Correspondencia global persona–puesto",
+      "Ítem demasiado global",
+      "Usar como contraste o indicador global, no como núcleo único.",
+      "DM-D10-002"
+    ],
+    [
+      "Q311",
+      "Descartada",
+      "Satisfacción/encaje general",
+      "Ambigüedad y contaminación con satisfacción laboral",
+      "Excluir de la escala breve; mantener trazabilidad histórica.",
+      "DM-D10-002"
+    ],
+    [
+      "Dictamen",
+      "Cierre provisional",
+      "Escala breve multidimensional de tres ítems",
+      "Validación empírica pendiente",
+      "Contrastar validez discriminante frente a C.7.4, C.7.5 y D.10.5.",
+      "v6.24.1"
+    ]
+  ],
+  "records": null
+}

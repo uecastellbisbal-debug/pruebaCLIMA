@@ -1,0 +1,35 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C9.5",
+  "dimensions": "A1:B7",
+  "header": [
+    "Pregunta",
+    "Estado"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q294",
+      "Estado": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q295",
+      "Estado": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q296",
+      "Estado": "Seleccionada"
+    },
+    {
+      "Pregunta": "Q297",
+      "Estado": "Reserva"
+    },
+    {
+      "Pregunta": "Q298",
+      "Estado": "Reserva"
+    },
+    {
+      "Pregunta": "Q299",
+      "Estado": "Descartada"
+    }
+  ]
+}

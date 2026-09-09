@@ -1,0 +1,29 @@
+{
+  "sheet": "REGLAS_GOBERNANZA",
+  "dimensions": "A1:A7",
+  "header": null,
+  "rows_raw": [
+    [
+      "Reglas"
+    ],
+    [
+      "Todo cambio metodológico se realiza primero en WM-BQ."
+    ],
+    [
+      "WM-BQ es la fuente única de verdad."
+    ],
+    [
+      "Las hojas de auditoría se regeneran desde WM-BQ."
+    ],
+    [
+      "No se editan manualmente dashboards o métricas."
+    ],
+    [
+      "Todo registro conserva un ID permanente."
+    ],
+    [
+      "Todo subfactor debe pertenecer al diccionario oficial."
+    ]
+  ],
+  "records": null
+}

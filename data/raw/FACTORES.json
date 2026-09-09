@@ -1,0 +1,57 @@
+{
+  "sheet": "FACTORES",
+  "dimensions": "A1:K60",
+  "header": [
+    "Código",
+    "Nombre",
+    "Definición",
+    "Objetivo",
+    "Estado",
+    "Madurez",
+    "Preguntas originales",
+    "Seleccionadas <100"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Código": "A",
+      "Nombre": "Nivel Individual: la Persona",
+      "Definición": "Dimensiones del bienestar percibidas directamente por la persona y condicionadas por la experiencia laboral individual.",
+      "Objetivo": "Evaluar cómo la experiencia individual, la compensación, el desarrollo y la plenitud personal influyen en el bienestar organizacional.",
+      "Estado": "Cerrado metodológicamente",
+      "Madurez": "M5",
+      "Preguntas originales": 70,
+      "Seleccionadas <100": 25
+    },
+    {
+      "Código": "B",
+      "Nombre": "Nivel de grupo: el Equipo",
+      "Definición": "Dimensiones del bienestar que emergen de las prácticas, relaciones y condiciones compartidas dentro del equipo.",
+      "Objetivo": "Evaluar cómo la dinámica, el ambiente de trabajo y el reconocimiento dentro del equipo influyen en el bienestar.",
+      "Estado": "Cerrado metodológicamente",
+      "Madurez": "M5",
+      "Preguntas originales": 12,
+      "Seleccionadas <100": 13
+    },
+    {
+      "Código": "C",
+      "Nombre": "Nivel organizativo: la Empresa",
+      "Definición": "Dimensiones del bienestar vinculadas a condiciones, sistemas, liderazgo y cultura de la organización.",
+      "Objetivo": "Evaluar cómo el entorno, el liderazgo y la cultura organizativa sostienen la seguridad, el bienestar y la experiencia laboral.",
+      "Estado": "Cerrado metodológicamente",
+      "Madurez": "M5",
+      "Preguntas originales": 99,
+      "Seleccionadas <100": 44
+    },
+    {
+      "Código": "D",
+      "Nombre": "Nivel de síntesis: FIT persona–organización",
+      "Definición": "Dimensiones de ajuste entre la persona, su puesto, su vocación, su desarrollo, sus intereses y el propósito organizativo.",
+      "Objetivo": "Evaluar el grado de compatibilidad y encaje entre la persona y los distintos componentes de su experiencia profesional.",
+      "Estado": "Cerrado metodológicamente",
+      "Madurez": "M5",
+      "Preguntas originales": 30,
+      "Seleccionadas <100": 13
+    }
+  ]
+}

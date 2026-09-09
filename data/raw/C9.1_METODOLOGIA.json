@@ -1,0 +1,35 @@
+{
+  "sheet": "C9.1_METODOLOGIA",
+  "dimensions": "A1:B7",
+  "header": [
+    "Subfactor",
+    "C.9.1 Identificación con la cultura y valores de la empresa"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Objetivo",
+      "C.9.1 Identificación con la cultura y valores de la empresa": "Evaluar el grado de identificación de las personas con la cultura y los valores organizativos."
+    },
+    {
+      "Subfactor": "Dimensiones",
+      "C.9.1 Identificación con la cultura y valores de la empresa": "Alineación de valores; Orgullo de pertenencia; Coherencia cultural; Conductas observables"
+    },
+    {
+      "Subfactor": "Indicador",
+      "C.9.1 Identificación con la cultura y valores de la empresa": "IND-C9-CULT-01"
+    },
+    {
+      "Subfactor": "Plan de acción",
+      "C.9.1 Identificación con la cultura y valores de la empresa": "PA-C9-01"
+    },
+    {
+      "Subfactor": "Decisión",
+      "C.9.1 Identificación con la cultura y valores de la empresa": "DM-C9-001"
+    },
+    {
+      "Subfactor": "Estado",
+      "C.9.1 Identificación con la cultura y valores de la empresa": "M4"
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "sheet": "AUDITORIA_FACTOR_B",
+  "dimensions": "A1:H45",
+  "header": null,
+  "rows_raw": [
+    [
+      "WM-KB v5.0 — Auditoría de arquitectura metodológica del Factor B",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objeto de la iteración",
+      "Validar la delimitación y coherencia transversal de B.4, B.5 y B.6 antes de la auditoría psicométrica y la selección final <100.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Alcance",
+      "32 registros del Factor B presentes en WM-BQ y los 15 subfactores definidos en la arquitectura metodológica.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen",
+      "ARQUITECTURA VALIDADA CON OBSERVACIONES. La estructura de constructos es coherente, pero el archivo actual presenta cobertura documental limitada en varios subfactores.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Corrección principal aplicada",
+      "WM-B04-Q116 se reclasifica de B.4.4 a B.5.5 porque mide aprovechamiento de perspectivas diversas, no trato inclusivo.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Delimitación principal aplicada",
+      "WM-B04-Q114 se redefine como 'Seguridad para solicitar apoyo personal' para evitar confundirla con la seguridad psicológica general de C.7.2.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Bloque",
+      "Subfactor",
+      "Definición operativa validada",
+      "Límite conceptual",
+      "Solapamientos controlados",
+      "Dictamen",
+      "Valoración /10",
+      "Cobertura / observación"
+    ],
+    [
+      "B.4",
+      "B.4.1 Flexibilidad laboral",
+      "Capacidad del equipo para adaptar horarios y formas de trabajo a necesidades operativas, manteniendo previsibilidad y coordinación.",
+      "No incluye conciliación como resultado, autonomía general ni política corporativa de teletrabajo.",
+      "Leve con B.4.2 y B.6.3",
+      "Validado",
+      9.5,
+      "Suficiente: adaptación temporal y previsibilidad horaria."
+    ],
+    [
+      "B.4",
+      "B.4.2 Conciliación familiar/social",
+      "Compatibilidad percibida entre responsabilidades laborales y vida personal, facilitada por prácticas y normas del equipo.",
+      "No mide carga de trabajo ni beneficios corporativos específicos.",
+      "Leve con B.4.1",
+      "Validado",
+      9.6,
+      "Suficiente: apoyo del equipo y promoción activa del equilibrio."
+    ],
+    [
+      "B.4",
+      "B.4.3 Apoyo ante dificultades personales",
+      "Disponibilidad de apoyo humano y operativo del equipo o responsable ante dificultades personales.",
+      "No mide seguridad psicológica general ni atención clínica.",
+      "Moderado con C.7.2 Seguridad psicológica",
+      "Validado con delimitación",
+      9.1,
+      "Suficiente, manteniendo el foco en pedir y recibir apoyo."
+    ],
+    [
+      "B.4",
+      "B.4.4 Ambiente laboral inclusivo",
+      "Percepción de respeto, aceptación y trato digno con independencia de las características personales.",
+      "No mide el aprovechamiento de la diversidad para mejorar decisiones; eso pertenece a B.5.5.",
+      "Moderado con B.5.5",
+      "Validado tras reclasificación",
+      9.7,
+      "Suficiente tras centrarlo en respeto e inclusión percibida."
+    ],
+    [
+      "B.4",
+      "B.4.5 Liderazgo",
+      "Conductas cotidianas del responsable que orientan, apoyan y sirven de ejemplo al equipo.",
+      "No incluye el modelo organizativo de liderazgo del Nivel C.",
+      "Leve con C.8 y B.6.3",
+      "Validado con observación",
+      8.8,
+      "Cobertura documental limitada en el archivo actual: solo consta una pregunta de reserva."
+    ],
+    [
+      "B.5",
+      "B.5.1 Sentido de pertenencia",
+      "Identificación de la persona con su equipo inmediato y percepción de formar parte significativa de él.",
+      "No mide compromiso organizativo ni satisfacción general.",
+      "Leve con A.3.2",
+      "Validado con observación",
+      8.8,
+      "Cobertura documental limitada en el archivo actual: solo consta una pregunta de reserva."
+    ],
+    [
+      "B.5",
+      "B.5.2 Confianza en el equipo",
+      "Expectativa de fiabilidad, honestidad y cumplimiento mutuo entre compañeros.",
+      "La seguridad para reconocer errores es un constructo secundario, no el núcleo.",
+      "Moderado con C.7.2",
+      "Validado con delimitación",
+      9.2,
+      "Cobertura documental limitada; la fiabilidad interpersonal está bien representada."
+    ],
+    [
+      "B.5",
+      "B.5.3 Colaboración efectiva",
+      "Cooperación activa, ayuda mutua y coordinación orientadas al logro compartido.",
+      "No mide únicamente buen clima ni comunicación.",
+      "Leve con B.5.2 y B.5.4",
+      "Validado con observación",
+      8.9,
+      "Cobertura documental limitada en el archivo actual: solo consta una pregunta de reserva."
+    ],
+    [
+      "B.5",
+      "B.5.4 Comunicación asertiva",
+      "Capacidad del equipo para expresar información, necesidades y desacuerdos con claridad, respeto y orientación constructiva.",
+      "No mide la receptividad específica hacia propuestas de mejora.",
+      "Leve con B.6.5",
+      "Validado con observación",
+      9,
+      "Cobertura documental limitada; la gestión constructiva del desacuerdo está representada."
+    ],
+    [
+      "B.5",
+      "B.5.5 Diversidad y enriquecimiento mutuo",
+      "Valoración y uso de perspectivas, experiencias y formas de pensar diferentes para aprender y decidir mejor.",
+      "No mide trato inclusivo o ausencia de discriminación, que pertenecen a B.4.4.",
+      "Moderado con B.4.4 antes de la reclasificación",
+      "Validado tras reclasificación",
+      9.6,
+      "Mejorada al incorporar la valoración constructiva de diferencias de opinión."
+    ],
+    [
+      "B.6",
+      "B.6.1 Autoeficacia",
+      "Creencia de la persona en su capacidad para afrontar responsabilidades, retos y situaciones nuevas.",
+      "No mide desempeño real, autoestima global ni disponibilidad de recursos.",
+      "Leve con A.3.3 y B.6.3",
+      "Validado con observación",
+      9.1,
+      "Cobertura documental limitada; está representada la resolución de situaciones nuevas."
+    ],
+    [
+      "B.6",
+      "B.6.2 Valoración personal",
+      "Percepción de que la contribución individual es útil, visible y apreciada por el equipo.",
+      "No equivale a remuneración, reconocimiento económico ni autoestima profesional.",
+      "Leve con A.1.3",
+      "Validado con observación",
+      9,
+      "Cobertura documental limitada; está representado el valor percibido de la contribución."
+    ],
+    [
+      "B.6",
+      "B.6.3 Autonomía de decisión",
+      "Grado de libertad para decidir cómo organizar y ejecutar el trabajo dentro de responsabilidades y límites claros.",
+      "No mide flexibilidad horaria ni ausencia de supervisión.",
+      "Leve con B.4.1 y B.4.5",
+      "Validado con observación",
+      9.1,
+      "Cobertura documental limitada; la autonomía operativa está bien formulada."
+    ],
+    [
+      "B.6",
+      "B.6.4 Claridad en los objetivos",
+      "Conocimiento claro de expectativas, objetivos, prioridades y alineación con el equipo.",
+      "No mide planificación ni calidad de la comunicación del responsable.",
+      "Leve con B.4.5",
+      "Validado",
+      9.7,
+      "Suficiente: claridad de rol, alineación y prioridades en contextos cambiantes."
+    ],
+    [
+      "B.6",
+      "B.6.5 Libertad para aportar ideas",
+      "Percepción de poder proponer mejoras sin temor y de que las ideas son escuchadas y consideradas.",
+      "No mide creatividad personal ni comunicación asertiva general.",
+      "Moderado con B.5.4 y C.7.2",
+      "Validado",
+      9.6,
+      "Suficiente: voz, ausencia de temor y receptividad hacia propuestas."
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Hallazgos transversales y decisiones de arquitectura",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "ID",
+      "Cruce / ámbito",
+      "Nivel",
+      "Decisión metodológica",
+      "Estado",
+      null,
+      null,
+      null
+    ],
+    [
+      "A-01",
+      "B.4.4 ↔ B.5.5",
+      "Solapamiento moderado",
+      "Reclasificar Q116 a B.5.5 y reservar B.4.4 para respeto, aceptación y trato inclusivo.",
+      "Aplicado",
+      null,
+      null,
+      null
+    ],
+    [
+      "A-02",
+      "B.4.3 ↔ C.7.2",
+      "Solapamiento moderado",
+      "Delimitar Q114 a la seguridad para solicitar apoyo personal; C.7.2 medirá seguridad psicológica general.",
+      "Aplicado",
+      null,
+      null,
+      null
+    ],
+    [
+      "A-03",
+      "B.5.4 ↔ B.6.5",
+      "Solapamiento leve",
+      "B.5.4 mide cómo se expresan desacuerdos; B.6.5 mide si las ideas pueden proponerse y son consideradas.",
+      "Validado",
+      null,
+      null,
+      null
+    ],
+    [
+      "A-04",
+      "B.4.1 ↔ B.6.3",
+      "Solapamiento leve",
+      "B.4.1 se limita a flexibilidad temporal/modal; B.6.3 a libertad para organizar y ejecutar el trabajo.",
+      "Validado",
+      null,
+      null,
+      null
+    ],
+    [
+      "A-05",
+      "B.4.5 ↔ C.8",
+      "Solapamiento leve",
+      "B.4.5 mide conductas cotidianas del responsable; C.8 abordará el modelo organizativo de liderazgo.",
+      "Validado",
+      null,
+      null,
+      null
+    ],
+    [
+      "A-06",
+      "Cobertura del archivo",
+      "Riesgo documental",
+      "Varios subfactores solo muestran una pregunta de reserva en la versión recibida. Debe verificarse la recuperación/importación de las preguntas nucleares antes del cierre definitivo.",
+      "Pendiente iteración 2",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterios para dar por cerrado el Nivel B",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "#",
+      "Criterio",
+      "Estado",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "1",
+      "Arquitectura y delimitación de los 15 subfactores",
+      "Cumplido en v5.0",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "2",
+      "Corrección de solapamientos conceptuales críticos",
+      "Cumplido en v5.0",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "3",
+      "Cobertura documental mínima por subfactor y recuperación de preguntas nucleares",
+      "Pendiente de verificación",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "4",
+      "Auditoría psicométrica de formulación, sesgo y discriminación",
+      "Siguiente iteración",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "5",
+      "Optimización y selección final de preguntas para encuesta <100",
+      "Iteración posterior",
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

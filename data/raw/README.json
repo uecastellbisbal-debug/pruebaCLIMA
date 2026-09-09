@@ -1,0 +1,308 @@
+{
+  "sheet": "README",
+  "dimensions": "A1:K75",
+  "header": null,
+  "rows_raw": [
+    [
+      "WM-KB v6.27.0-I3 — Consolidación del modelo final A–D",
+      null
+    ],
+    [
+      "Estado",
+      null
+    ],
+    [
+      "Fecha",
+      "2026-07-23"
+    ],
+    [
+      "Propósito",
+      "Fuente única de verdad para preguntas, criterios, selección, indicadores, acciones y trazabilidad."
+    ],
+    [
+      "Regla 1",
+      "Una fila representa una pregunta y su ID es permanente."
+    ],
+    [
+      "Regla 2",
+      "Las preguntas no se eliminan; cambian de estado y versión."
+    ],
+    [
+      "Regla 3",
+      "La selección <100 se justifica pregunta a pregunta."
+    ],
+    [
+      "Regla 4",
+      "WM-MM referencia los IDs, indicadores, planes y decisiones del WM-KB."
+    ],
+    [
+      "Factor A",
+      "105 registros metodológicos consolidados; 25 seleccionados; nivel auditado."
+    ],
+    [
+      "Siguiente hito",
+      "v6.28.0 — Preparación del pilotaje empírico."
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Versión 3.7",
+      "Inicio del Nivel B — Equipo. Incorporados y documentados B.4.1 Flexibilidad laboral y B.4.2 Conciliación familiar/social."
+    ],
+    [
+      "Versión actual",
+      "v6.27.0-I3 — Consolidación del modelo final."
+    ],
+    [
+      "Estado",
+      "Selección candidata de 95 preguntas consolidada y equilibrada para pilotaje condicionado."
+    ],
+    [
+      "Versión",
+      "6.27.0-I3"
+    ],
+    [
+      "Hito",
+      "Arquitectura A–D, equilibrio, gobernanza y controles de consolidación formalizados."
+    ],
+    [
+      "Dictamen",
+      "Modelo consolidado; falta el dictamen final y el roadmap de pilotaje de la Iteración 4."
+    ],
+    [
+      "Siguiente hito",
+      "v6.27.0-I4 — Dictamen global final, resumen ejecutivo y roadmap de pilotaje."
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "v6.27.0-I4",
+      "Dictamen final"
+    ],
+    [
+      "Versión actual",
+      "v6.28.0 · Reconstrucción y consolidación definitiva de WM-BQ"
+    ],
+    [
+      "Hito",
+      "Banco maestro sincronizado con 95 preguntas seleccionadas (<100)"
+    ],
+    [
+      "Fuente única de verdad",
+      "WM-BQ"
+    ],
+    [
+      "Estado",
+      "Diseño metodológico consolidado; preparado para pilotaje condicionado"
+    ],
+    [
+      "Advertencia",
+      "Validación psicométrica empírica pendiente; no usar puntuación global A–D hasta confirmación factorial."
+    ],
+    [
+      "Versión actual",
+      "v6.29.0 — Cobertura B y auditoría psicométrica de 51 subfactores"
+    ],
+    [
+      "Resultado",
+      "97 preguntas seleccionadas: A 25 · B 15 · C 44 · D 13"
+    ],
+    [
+      "Nuevas hojas",
+      "REVISION_COBERTURA_B · AUDITORIA_COBERTURA_51 · RESUMEN_COBERTURA_51"
+    ],
+    [
+      "Dictamen",
+      "Cobertura estructural completa; validación psicométrica empírica pendiente."
+    ],
+    [
+      "Versión actual",
+      "v6.30.0 — Normalización estructural completa del WM-BQ"
+    ],
+    [
+      "Versión metodológica",
+      "v6.31.0 — Auditoría metodológica automática"
+    ],
+    [
+      "Fase completada",
+      "Fase 2: cobertura, redundancias, inconsistencias, ICM y dictamen"
+    ],
+    [
+      "Fuente de verdad",
+      "WM-BQ normalizado (278 registros; 51 subfactores)"
+    ],
+    [
+      "Estado",
+      "Preparado para revisión de redundancias y posterior pilotaje"
+    ]
+  ],
+  "records": null
+}

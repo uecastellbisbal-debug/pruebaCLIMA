@@ -1,0 +1,27 @@
+{
+  "sheet": "ROADMAP_PILOTAJE",
+  "dimensions": "A1:B5",
+  "header": [
+    "Fase",
+    "Descripción"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Fase": "Piloto",
+      "Descripción": "Muestra"
+    },
+    {
+      "Fase": "Fiabilidad",
+      "Descripción": "Alpha"
+    },
+    {
+      "Fase": "Validez",
+      "Descripción": "AFE/AFC"
+    },
+    {
+      "Fase": "v7.0",
+      "Descripción": "Liberación"
+    }
+  ]
+}

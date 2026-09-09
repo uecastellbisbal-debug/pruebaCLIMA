@@ -1,0 +1,191 @@
+[
+  {
+    "id": "PA-A1-01",
+    "subdimension": "A.1.1 Salario",
+    "responsablePrincipal": "Empresa / RRHH",
+    "objetivo": "Mejorar equidad, competitividad y comprensión de la política salarial.",
+    "accionesSugeridas": "Revisar bandas y equidad interna; contrastar mercado; transparentar criterios; revisar incentivos.",
+    "horizonte": "Medio plazo",
+    "indicadorAsociado": "IND-A1-SAL"
+  },
+  {
+    "id": "PA-A1-02",
+    "subdimension": "A.1.2 Beneficios Sociales",
+    "responsablePrincipal": "RRHH",
+    "objetivo": "Aumentar valor percibido y adecuación del paquete de beneficios.",
+    "accionesSugeridas": "Analizar uso y preferencias; flexibilizar opciones; comunicar compensación total; revisar competitividad.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-A1-BEN"
+  },
+  {
+    "id": "PA-A1-03",
+    "subdimension": "A.1.3 Reconocimiento Económico",
+    "responsablePrincipal": "Empresa / Manager",
+    "objetivo": "Alinear compensación y reconocimiento de la contribución.",
+    "accionesSugeridas": "Explicar criterios; vincular reconocimiento a aportaciones observables; mejorar consistencia de decisiones.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-A1-REC"
+  },
+  {
+    "id": "PA-A1-04",
+    "subdimension": "A.1.4 Impacto Calidad de Vida",
+    "responsablePrincipal": "Empresa / RRHH / Persona",
+    "objetivo": "Reforzar seguridad financiera y bienestar asociado a la compensación.",
+    "accionesSugeridas": "Revisar suficiencia; ofrecer educación financiera y beneficios de protección; segmentar necesidades.",
+    "horizonte": "Medio plazo",
+    "indicadorAsociado": "IND-A1-CV"
+  },
+  {
+    "id": "PA-A2-01",
+    "subdimension": "A.2.1 Formación de calidad",
+    "responsablePrincipal": "RRHH / Empresa",
+    "objetivo": "Mejorar calidad, acceso y suficiencia de la formación.",
+    "accionesSugeridas": "Revisar necesidades; ampliar formatos y horarios; asegurar calidad de contenidos; comunicar la oferta; medir aplicación.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-A2-FOR"
+  },
+  {
+    "id": "PA-A2-02",
+    "subdimension": "A.2.2 Relevancia de la formación recibida",
+    "responsablePrincipal": "RRHH / Manager",
+    "objetivo": "Alinear la formación con puesto, mercado y desempeño.",
+    "accionesSugeridas": "Mapear competencias; actualizar contenidos; involucrar managers; facilitar aplicación; medir transferencia al puesto.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-A2-REL"
+  },
+  {
+    "id": "PA-A2-03",
+    "subdimension": "A.2.3 Oportunidades de promoción profesional",
+    "responsablePrincipal": "Empresa / RRHH / Manager",
+    "objetivo": "Clarificar y hacer equitativas las oportunidades de crecimiento.",
+    "accionesSugeridas": "Definir itinerarios; publicar criterios; revisar promoción interna; reforzar feedback y mentoría; facilitar recursos.",
+    "horizonte": "Medio plazo",
+    "indicadorAsociado": "IND-A2-PRO"
+  },
+  {
+    "id": "PA-A2-04",
+    "subdimension": "A.2.4 Desafíos y retos",
+    "responsablePrincipal": "Manager / RRHH",
+    "objetivo": "Incrementar retos con apoyo, feedback y acompañamiento.",
+    "accionesSugeridas": "Asignar retos progresivos; establecer feedback periódico; activar mentoría; facilitar recursos; reconocer avances.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-A2-RET"
+  },
+  {
+    "id": "PA-A3-01",
+    "subdimension": "A.3.1 Alcance de metas personales",
+    "responsablePrincipal": "Empresa / Manager / Persona",
+    "objetivo": "Mejorar la compatibilidad entre trabajo, desarrollo y metas personales.",
+    "accionesSugeridas": "Incorporar conversaciones de carrera y metas; flexibilizar itinerarios; conectar tareas y desarrollo con aspiraciones; revisar progreso periódicamente.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-A3-MET"
+  },
+  {
+    "id": "PA-A3-02",
+    "subdimension": "A.3.2 Sentido de pertenencia a la empresa",
+    "responsablePrincipal": "Empresa / RRHH / Manager",
+    "objetivo": "Reforzar integración, comunidad, inclusión y orgullo de pertenencia.",
+    "accionesSugeridas": "Fortalecer acogida y rituales de comunidad; comunicar propósito y logros; reconocer contribuciones; promover inclusión, autenticidad y conexión entre personas.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-A3-PER"
+  },
+  {
+    "id": "PA-A3-03 · Reforzar propósito, autonomía, reto y significado del trabajo",
+    "subdimension": "A.3.3 Motivación laboral",
+    "responsablePrincipal": "Revisar propósito del rol, autonomía, retos, feedback y conexión entre tareas e impacto.",
+    "objetivo": "Manager / RRHH",
+    "accionesSugeridas": "IND-A3-MOT · Motivación, propósito y energía laboral",
+    "horizonte": "3.4",
+    "indicadorAsociado": "Activo"
+  },
+  {
+    "id": "PA-A3-04 · Reforzar coherencia ética y alineación entre valores y prácticas",
+    "subdimension": "A.3.4 Alineación con valores personales",
+    "responsablePrincipal": "Alinear decisiones, comportamientos y prácticas con valores declarados y facilitar conversaciones sobre dilemas y coherencia cultural.",
+    "objetivo": "Empresa / RRHH / Liderazgo",
+    "accionesSugeridas": "IND-A3-VAL · Alineación y coherencia con valores personales",
+    "horizonte": "3.4",
+    "indicadorAsociado": "Activo"
+  },
+  {
+    "id": "PA-A3-05 · Reforzar logro, progreso, impacto y desarrollo del potencial",
+    "subdimension": "A.3.5 Sentimiento de realización",
+    "responsablePrincipal": "Reforzar visibilidad de logros, feedback de impacto, oportunidades de crecimiento y conversaciones sobre desarrollo y propósito profesional.",
+    "objetivo": "Manager / RRHH",
+    "accionesSugeridas": "IND-A3-REA · Sentimiento de realización personal y profesional",
+    "horizonte": "3.5",
+    "indicadorAsociado": "Activo"
+  },
+  {
+    "id": "PA-A2-04 · Enriquecer puestos con retos, autonomía y aprendizaje",
+    "subdimension": "A.2.4 Desafíos y retos",
+    "responsablePrincipal": "Revisar diseño del puesto, asignar retos progresivos, ampliar autonomía y promover resolución creativa de problemas y aprendizaje en el trabajo.",
+    "objetivo": "Manager / RRHH",
+    "accionesSugeridas": "IND-A2-RET · Desafío intelectual y aprendizaje en el trabajo",
+    "horizonte": "3.6",
+    "indicadorAsociado": "Activo"
+  },
+  {
+    "id": "PA-B4-01",
+    "subdimension": "B.4.1 Flexibilidad laboral",
+    "responsablePrincipal": "Manager / Equipo",
+    "objetivo": "Mejorar la flexibilidad práctica y la capacidad de planificación de los horarios.",
+    "accionesSugeridas": "Definir márgenes de flexibilidad; anticipar turnos y cambios; acordar reglas claras; revisar excepciones; adaptar modalidades al tipo de puesto.",
+    "horizonte": "Corto plazo",
+    "indicadorAsociado": "IND-B4-FLE"
+  },
+  {
+    "id": "PA-B4-02",
+    "subdimension": "B.4.2 Conciliación familiar/social",
+    "responsablePrincipal": "Manager / Equipo / RRHH",
+    "objetivo": "Reforzar una cultura de apoyo y prácticas que permitan conciliar sin penalización.",
+    "accionesSugeridas": "Acordar coberturas; normalizar conversaciones sobre necesidades; proteger descansos; evitar disponibilidad innecesaria; revisar medidas y recursos.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-B4-CON"
+  },
+  {
+    "id": "PA-C7-01",
+    "subdimension": "C.7.1 Seguridad física",
+    "responsablePrincipal": "Organización / PRL",
+    "objetivo": "Reducir riesgos físicos y reforzar la confianza en la prevención y respuesta organizativa.",
+    "accionesSugeridas": "Revisar evaluaciones de riesgos e instalaciones; asegurar equipos y protecciones; reforzar formación e información preventiva; mejorar reporte y corrección de condiciones inseguras; revisar protocolos de emergencia.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-C7-SEG"
+  },
+  {
+    "id": "PA-C7-02",
+    "subdimension": "C.7.2 Seguridad psicológica",
+    "responsablePrincipal": "Organización / Liderazgo / RRHH",
+    "objetivo": "Reforzar la posibilidad de hablar, reconocer errores, pedir ayuda y discrepar sin temor a represalias.",
+    "accionesSugeridas": "Desarrollar liderazgo inclusivo; establecer normas de interacción respetuosa; revisar la respuesta a errores; reforzar canales de escucha; proteger frente a represalias; entrenar conversaciones difíciles; analizar diferencias entre equipos.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-C7-PSI"
+  },
+  {
+    "id": "PA-C7-03",
+    "subdimension": "C.7.3 Ambiente físico saludable",
+    "responsablePrincipal": "Organización / Facilities / PRL",
+    "objetivo": "Mejorar la salubridad y el confort ambiental de los espacios de trabajo.",
+    "accionesSugeridas": "Revisar ventilación y calidad del aire; ajustar climatización; mejorar iluminación y control del ruido; reforzar limpieza, higiene y mantenimiento; segmentar incidencias por sede y zona.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-C7-AMB"
+  },
+  {
+    "id": "PA-C7-04",
+    "subdimension": "C.7.4 Condiciones idóneas en el lugar de trabajo",
+    "responsablePrincipal": "Organización / Facilities / PRL / Operaciones",
+    "objetivo": "Mejorar la adecuación ergonómica, funcional y espacial de los puestos de trabajo.",
+    "accionesSugeridas": "Revisar ergonomía y configuración; ajustar o sustituir mobiliario; redistribuir espacios; adaptar puestos a tareas y necesidades; habilitar ajustes razonables; priorizar incidencias por sede, colectivo y criticidad.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-C7-CON"
+  },
+  {
+    "id": "PA-C7-05",
+    "subdimension": "C.7.5 Disponibilidad de recursos adecuados",
+    "responsablePrincipal": "Organización / Operaciones / IT / Compras",
+    "objetivo": "Asegurar que las personas dispongan de recursos suficientes, adecuados, fiables y accesibles para realizar su trabajo.",
+    "accionesSugeridas": "Inventariar necesidades por puesto; revisar dotación y licencias; renovar equipos obsoletos; mejorar permisos y acceso a información; reforzar mantenimiento y soporte; priorizar incidencias críticas y recurrentes.",
+    "horizonte": "Corto–medio plazo",
+    "indicadorAsociado": "IND-C7-REC"
+  }
+]

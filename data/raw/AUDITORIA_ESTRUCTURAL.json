@@ -1,0 +1,148 @@
+{
+  "sheet": "AUDITORIA_ESTRUCTURAL",
+  "dimensions": "A1:H16",
+  "header": null,
+  "rows_raw": [
+    [
+      "AUDITORÍA ESTRUCTURAL DEL LIBRO — WM-KB v6.2.3",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Área revisada",
+      "Hallazgo",
+      "Severidad",
+      "Causa probable",
+      "Corrección aplicada",
+      "Impacto",
+      "Estado",
+      "Control futuro"
+    ],
+    [
+      "WM-BQ · ubicación de registros",
+      "Existía un bloque de 40 preguntas entre las filas 1001 y 1040, separado del banco principal por 887 filas vacías.",
+      "Media",
+      "Las iteraciones posteriores se añadieron usando una zona de reserva al final de la hoja.",
+      "Bloque trasladado a las filas 114–153 y rango antiguo vaciado.",
+      "Banco continuo, filtros y navegación más claros; no se alteran los IDs permanentes.",
+      "Corregido",
+      "Añadir siempre nuevas preguntas en la primera fila libre contigua."
+    ],
+    [
+      "WM-BQ · referencias",
+      "No se detectaron fórmulas ni nombres definidos dependientes de las filas 1001–1040.",
+      "Baja",
+      "Las hojas de análisis usan columnas completas o IDs.",
+      "Se mantuvieron IDs y contenido; únicamente cambió la posición física.",
+      "Sin impacto funcional esperado.",
+      "Validado",
+      "Mantener referencias por ID o columnas completas, no por número fijo de fila."
+    ],
+    [
+      "SUBFACTORES · A.3.3–A.3.5",
+      "Tres filas estaban desplazadas respecto al esquema de 11 columnas y contenían campos de una estructura anterior.",
+      "Alta",
+      "Migración incompleta entre versiones del modelo de datos.",
+      "Filas reconstruidas con código, factor, definición, objetivo, influencia, sensibilidad, indicador, plan y recuentos.",
+      "Restaurada la coherencia del catálogo.",
+      "Corregido",
+      "Validar siempre que Código esté en columna A y Factor en B."
+    ],
+    [
+      "FACTORES",
+      "El catálogo solo incluía A y B pese a existir registros y subfactores del nivel C.",
+      "Media",
+      "El inicio del nivel C no se propagó al catálogo maestro.",
+      "Añadido Factor C con 12 preguntas desarrolladas y 4 seleccionadas.",
+      "Catálogo maestro alineado con WM-BQ.",
+      "Corregido",
+      "Actualizar FACTORES al iniciar un nuevo nivel."
+    ],
+    [
+      "README / Dashboard / Progreso",
+      "Las portadas describían el cierre de B y no reflejaban el avance actual de C.",
+      "Baja",
+      "Contenido editorial no actualizado en cada iteración.",
+      "Actualizados el estado, la versión y el siguiente hito.",
+      "Mejora de trazabilidad del estado del proyecto.",
+      "Corregido",
+      "Actualizar portada y panel en cada hito mayor."
+    ],
+    [
+      "Fórmulas",
+      "No se detectaron errores de referencia o cálculo en el libro.",
+      "Baja",
+      "—",
+      "Sin cambios adicionales.",
+      "Integridad de cálculo preservada.",
+      "Validado",
+      "Repetir escaneo antes de cada entrega."
+    ],
+    [
+      "Modelo de datos",
+      "Las fechas de algunas filas de B aparecen como seriales de Excel mientras otras se almacenan como texto ISO.",
+      "Baja",
+      "Importaciones y ediciones realizadas en momentos distintos.",
+      "No se normalizan en esta iteración para evitar cambios masivos no funcionales.",
+      "Sin impacto metodológico; inconsistencia visual menor.",
+      "Pendiente menor",
+      "Normalizar fechas en una futura iteración técnica específica."
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen estructural",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "El libro es funcional y conserva la trazabilidad por ID. La aparición de preguntas a partir de la fila 1000 no respondía a preguntas ocultas ni duplicadas, sino a una decisión técnica de anexar nuevas iteraciones en una zona lejana del banco principal. Esta separación se elimina en v6.2.3. Se corrigen además tres filas mal estructuradas de SUBFACTORES y se incorpora el Factor C al catálogo maestro.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

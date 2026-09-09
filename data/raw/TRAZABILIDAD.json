@@ -1,0 +1,23 @@
+{
+  "sheet": "TRAZABILIDAD",
+  "dimensions": "A1:F2",
+  "header": [
+    "ID",
+    "Nivel",
+    "Factor",
+    "Subfactor",
+    "Estado",
+    "Última acción"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "ID": "<desde WM-BQ>",
+      "Nivel": "Automático",
+      "Factor": "Automático",
+      "Subfactor": "Automático",
+      "Estado": "Automático",
+      "Última acción": "Controlado"
+    }
+  ]
+}

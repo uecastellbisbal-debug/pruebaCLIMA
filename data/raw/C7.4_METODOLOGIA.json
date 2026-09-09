@@ -1,0 +1,658 @@
+{
+  "sheet": "C7.4_METODOLOGIA",
+  "dimensions": "A1:H65",
+  "header": null,
+  "rows_raw": [
+    [
+      "C.7.4 Condiciones idóneas en el lugar de trabajo · Iteración metodológica 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Base documental para definir la arquitectura metodológica del subfactor dentro del Factor C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Campo",
+      "Definición consolidada",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Código",
+      "C.7.4",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nombre",
+      "Condiciones idóneas en el lugar de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Factor",
+      "C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel de análisis",
+      "Organización / Puesto y espacio de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Percepción de que el puesto y el espacio habitual de trabajo disponen de una configuración, distribución, ergonomía, mobiliario y espacio funcional adecuados para realizar las tareas con comodidad, eficacia y sin molestias evitables.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objetivo específico",
+      "Evaluar hasta qué punto la adecuación funcional y ergonómica del puesto y del espacio permite trabajar de forma cómoda, eficiente y sostenible, identificando limitaciones de diseño, espacio, mobiliario o adaptación a las necesidades reales de la tarea.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructo principal",
+      "Adecuación funcional y ergonómica percibida del puesto y del espacio de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructos secundarios",
+      "Ergonomía del puesto; adecuación y funcionalidad del mobiliario; suficiencia y distribución del espacio; adaptación del puesto a la tarea; capacidad de ajuste y personalización razonable.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Frontera conceptual",
+      "Mide si el puesto y el espacio están configurados de forma adecuada para trabajar. No mide la salubridad ambiental —aire, temperatura, luz, ruido o limpieza— (C.7.3), riesgos físicos o prevención de accidentes (C.7.1), disponibilidad o funcionamiento de herramientas y recursos tecnológicos (C.7.5), ni accesibilidad universal y eliminación de barreras (C.7.6).",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Responsable principal",
+      "Organización / Facilities / Prevención de Riesgos Laborales",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza compartida",
+      "Facilities/Servicios Generales, PRL, Ergonomía, Operaciones, IT cuando afecte a la configuración del puesto, RRHH y responsables de centro",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Alta: el diseño, mobiliario, distribución y adaptación del puesto pueden mejorarse mediante ajustes físicos, rediseño, mantenimiento, reubicación o provisión de soluciones ergonómicas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Prioridad metodológica",
+      "Alta",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Periodicidad recomendada",
+      "Anual, con seguimiento adicional tras mudanzas, reformas, cambios relevantes de puesto, implantación de nuevas modalidades o aparición de incidencias ergonómicas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dimensión",
+      "Qué evalúa",
+      "Ejemplos de evidencia",
+      "Inclusión",
+      "Exclusión / límite",
+      "Accionabilidad",
+      "Gobernanza",
+      "Prioridad"
+    ],
+    [
+      "Ergonomía del puesto",
+      "Grado en que la configuración del puesto favorece posturas adecuadas, comodidad y prevención de molestias durante la tarea.",
+      "Altura y regulación de mesa/silla, disposición de pantalla, apoyos y configuración básica del puesto.",
+      "Preguntas generales sobre diseño ergonómico, postura y comodidad funcional.",
+      "Diagnósticos clínicos, dolor o condiciones de salud individuales; riesgos agudos propios de C.7.1.",
+      "Alta",
+      "PRL / Ergonomía / Facilities",
+      "Alta"
+    ],
+    [
+      "Mobiliario cómodo y funcional",
+      "Adecuación del mobiliario para las tareas, tanto en comodidad como en funcionalidad cotidiana.",
+      "Sillas, mesas, superficies, almacenamiento y elementos auxiliares adecuados al trabajo.",
+      "Preguntas sobre comodidad, utilidad, estado y adecuación del mobiliario.",
+      "Equipos informáticos y herramientas de trabajo, que corresponden a C.7.5.",
+      "Alta",
+      "Facilities / Compras / PRL",
+      "Alta"
+    ],
+    [
+      "Suficiencia y distribución del espacio",
+      "Disponibilidad de espacio físico y distribución que permitan trabajar, moverse y organizar materiales sin obstáculos innecesarios.",
+      "Espacio suficiente, circulación, distribución, densidad y organización del área.",
+      "Preguntas sobre amplitud, saturación, orden funcional y posibilidad de realizar las tareas.",
+      "Accesibilidad universal o barreras para personas con discapacidad, cubiertas en C.7.6.",
+      "Media-Alta",
+      "Facilities / Operaciones",
+      "Alta"
+    ],
+    [
+      "Adaptación a las necesidades de la tarea",
+      "Correspondencia entre el diseño del espacio y las exigencias reales del trabajo que se realiza.",
+      "Zonas para concentración, colaboración, atención, confidencialidad o manipulación de materiales.",
+      "Preguntas sobre adecuación del puesto y espacio al tipo de actividad.",
+      "Disponibilidad de recursos o herramientas específicas, cubierta en C.7.5.",
+      "Alta",
+      "Operaciones / Facilities / Responsables",
+      "Alta"
+    ],
+    [
+      "Capacidad de ajuste y personalización razonable",
+      "Posibilidad de realizar ajustes básicos para adaptar el puesto a diferencias individuales y necesidades operativas.",
+      "Regulación de silla, pantalla, superficie, ubicación o elementos auxiliares.",
+      "Preguntas sobre capacidad de ajuste dentro de límites organizativos razonables.",
+      "Preferencias estéticas o personalización decorativa sin impacto funcional.",
+      "Media-Alta",
+      "PRL / Facilities / Manager",
+      "Media-Alta"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterio",
+      "Regla de selección",
+      "Señales de calidad",
+      "Riesgo a evitar",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Claridad",
+      "Una condición funcional o ergonómica principal por ítem, expresada en términos observables y comprensibles.",
+      "Referencia concreta a puesto, mobiliario, espacio, ergonomía, adecuación o ajuste.",
+      "Ítems globales que mezclen iluminación, temperatura, ruido, recursos y ergonomía.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Relevancia",
+      "Debe representar una condición del puesto o espacio que influya directamente en comodidad, eficacia o sostenibilidad del trabajo.",
+      "Conecta con la forma real de realizar las tareas y con una palanca física de mejora.",
+      "Incluir preferencias estéticas o aspectos poco relacionados con la función laboral.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Accionabilidad",
+      "El resultado debe orientar una intervención concreta sobre diseño, distribución, mobiliario, ergonomía o adaptación.",
+      "Permite actuar mediante rediseño, ajuste, sustitución, reubicación o mantenimiento.",
+      "Formulaciones abstractas sin responsable o sin posibilidad clara de intervención.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "No redundancia",
+      "Cada ítem debe aportar información distinta del ambiente saludable general y de la disponibilidad de recursos.",
+      "Diferencia ergonomía, funcionalidad, espacio y adaptación a la tarea.",
+      "Repetir en distintas formas que «las condiciones son adecuadas».",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Universalidad",
+      "Priorizar formulaciones aplicables a distintos puestos, sedes y modalidades, incorporando “No aplica” cuando sea necesario.",
+      "Lenguaje no limitado a oficinas y centrado en el puesto habitual de trabajo.",
+      "Sesgo hacia un único tipo de instalación, mobiliario o modalidad presencial.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Debe captar mejoras tras modificaciones visibles del puesto o del espacio.",
+      "Relacionada con condiciones que pueden ajustarse o rediseñarse.",
+      "Ítems basados solo en características estructurales difícilmente modificables.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Clasificación",
+      "Criterio",
+      "Uso previsto",
+      "Revisión",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Seleccionada",
+      "Alta claridad, relevancia, accionabilidad, universalidad y aporte incremental; representa un componente nuclear del constructo.",
+      "Cuestionario reducido y banco completo.",
+      "Pilotaje y validación psicométrica.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reserva",
+      "Ítem válido que aporta un matiz útil, pero con dependencia del tipo de puesto, menor universalidad o redundancia parcial.",
+      "Banco completo; posible módulo por modalidad, sede o colectivo.",
+      "Tras pilotaje o según contexto de aplicación.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Descartada",
+      "Solapamiento alto, formulación multidimensional, baja universalidad o constructo fuera de C.7.4.",
+      "Mantener trazabilidad, no incluir en cuestionario reducido.",
+      "Solo si cambia la arquitectura o el contexto.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Riesgo metodológico",
+      "Descripción",
+      "Mitigación",
+      "Control de auditoría",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Solapamiento con C.7.3",
+      "Las condiciones generales del puesto suelen formularse mezclando espacio, luz, temperatura, ruido y ergonomía.",
+      "Reservar C.7.4 para adecuación funcional y ergonómica; remitir condiciones ambientales a C.7.3.",
+      "Revisión transversal de ítems y constructos C.7.3–C.7.4.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Solapamiento con C.7.5",
+      "Mobiliario, equipamiento y herramientas pueden aparecer juntos en una misma pregunta.",
+      "Mantener mobiliario y configuración física en C.7.4; recursos tecnológicos y herramientas en C.7.5.",
+      "Auditar doble contenido y asignar por constructo dominante.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgo por modalidad o tipo de puesto",
+      "La experiencia difiere entre oficina, remoto, itinerancia, planta, atención al público y trabajo de campo.",
+      "Usar referencia al puesto habitual, permitir No aplica y segmentar cuando el anonimato lo permita.",
+      "Revisar funcionamiento diferencial por modalidad y colectivo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Heterogeneidad individual",
+      "La comodidad y la ergonomía dependen parcialmente de características personales y ajustes específicos.",
+      "Formular sobre adecuación y capacidad de ajuste, evitando inferir diagnósticos o condiciones de salud.",
+      "Complementar con evaluación ergonómica cuando proceda.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Ítems excesivamente globales",
+      "Una valoración general puede ocultar qué componente del espacio necesita intervención.",
+      "Combinar, como máximo, un ítem global con ítems específicos y unidimensionales.",
+      "Revisar capacidad diagnóstica y redundancia del banco candidato.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador de auditoría",
+      "Criterio de aceptación",
+      "Estado iteración 1",
+      "Próximo paso",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Definición específica y delimitada respecto a ambiente saludable, recursos, seguridad y accesibilidad.",
+      "Confirmada tras auditoría psicométrica teórica.",
+      "Mantener en revisión transversal C.7.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Cobertura conceptual",
+      "Las cinco dimensiones quedan representadas en la matriz metodológica.",
+      "Tres dimensiones seleccionadas y dos cubiertas mediante reservas.",
+      "Validar empíricamente Q224 y Q225.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza",
+      "Responsables y palancas de intervención identificados.",
+      "Vinculada a indicador, plan y DM-C7-006.",
+      "Mantener seguimiento en pilotaje.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterios de selección",
+      "Reglas explícitas para seleccionar, reservar o descartar.",
+      "Confirmados por auditoría psicométrica teórica.",
+      "Revisar con resultados de campo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgos y límites",
+      "Riesgos de modalidad, heterogeneidad y solapamiento documentados.",
+      "Universalidad condicionada en espacio y capacidad de ajuste.",
+      "Segmentar por modalidad y tipo de puesto.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Trazabilidad",
+      "Subfactor enlazado con indicador, plan y decisión metodológica.",
+      "IDs WM-C07-Q219–Q225 actualizados a M4.",
+      "Mantener historial de redacciones.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Madurez metodológica",
+      "M4 · Auditoría psicométrica teórica.",
+      "M4",
+      "Pendientes validación empírica y revisión transversal.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen de la iteración 3",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "La auditoría psicométrica teórica confirma Q221, Q222 y Q223 como selección provisional del subfactor. Q221 y Q222 se simplifican para mejorar comprensión y unidimensionalidad; Q224 queda como reserva prioritaria y Q225 como reserva condicionada por aplicabilidad. Q219 y Q220 permanecen descartadas. C.7.4 alcanza M4, pendiente de validación empírica y revisión transversal con C.7.3, C.7.5 y C.7.6.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Iteración 3 completada",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Auditoría psicométrica teórica finalizada; cierre provisional M4.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

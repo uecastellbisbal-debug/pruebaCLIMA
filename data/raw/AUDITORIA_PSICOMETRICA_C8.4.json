@@ -1,0 +1,42 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C8.4",
+  "dimensions": "A1:C7",
+  "header": [
+    "ID",
+    "Estado",
+    "Observación"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "ID": "Q246",
+      "Estado": "Seleccionada",
+      "Observación": "Alta claridad"
+    },
+    {
+      "ID": "Q247",
+      "Estado": "Seleccionada",
+      "Observación": "Buen poder discriminativo"
+    },
+    {
+      "ID": "Q248",
+      "Estado": "Reserva v6.27.0",
+      "Observación": "Accionable"
+    },
+    {
+      "ID": "Q249",
+      "Estado": "Reserva",
+      "Observación": "Complementaria"
+    },
+    {
+      "ID": "Q250",
+      "Estado": "Reserva",
+      "Observación": "Específica"
+    },
+    {
+      "ID": "Q251",
+      "Estado": "Descartada",
+      "Observación": "Redundante"
+    }
+  ]
+}

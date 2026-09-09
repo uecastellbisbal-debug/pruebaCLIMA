@@ -1,0 +1,125 @@
+{
+  "sheet": "CHECKLIST_AUDITORIA_CD",
+  "dimensions": "A1:K60",
+  "header": null,
+  "rows_raw": [
+    [
+      "Checklist de cierre metodológico C–D · v6.26.0",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dimensión",
+      "Criterio",
+      "Nivel C",
+      "Nivel D",
+      "Resultado conjunto",
+      "Evidencia / observación",
+      "Próximo control"
+    ],
+    [
+      "Arquitectura",
+      "Jerarquía nivel-factor-subfactor coherente",
+      "Cumple",
+      "Cumple",
+      "Cumple",
+      "Arquitectura C.7–C.9 y D.10 estable.",
+      "Auditoría global A–D"
+    ],
+    [
+      "Cobertura",
+      "Constructos nucleares cubiertos",
+      "Cumple",
+      "Cumple",
+      "Cumple",
+      "23 subfactores con cobertura teórica suficiente.",
+      "Pilotaje"
+    ],
+    [
+      "Delimitación",
+      "Diferencia clara entre antecedentes y síntesis",
+      "Cumple",
+      "Cumple con condiciones",
+      "Cumple con condiciones",
+      "Reglas de foco formalizadas en acciones correctivas.",
+      "Pilotaje"
+    ],
+    [
+      "Redundancia",
+      "Sin solapamientos críticos no controlados",
+      "Controlado",
+      "Controlado",
+      "Controlado con riesgos residuales",
+      "Dos riesgos críticos transferidos con reglas explícitas.",
+      "Auditoría global / pilotaje"
+    ],
+    [
+      "Nomenclatura",
+      "Nombres consistentes y no ambiguos",
+      "Cumple",
+      "Cumple",
+      "Cumple",
+      "Nomenclatura estable.",
+      "Control de versión"
+    ],
+    [
+      "Trazabilidad",
+      "Hojas maestras alineadas con iteraciones",
+      "Cumple",
+      "Cumple",
+      "Cumple",
+      "Hojas maestras y cierres actualizados.",
+      "Control de versión"
+    ],
+    [
+      "Integridad de versión",
+      "Todos los subfactores desarrollados están presentes",
+      "Cumple",
+      "Cumple",
+      "Cumple",
+      "Todos los subfactores presentes.",
+      "Control de versión"
+    ],
+    [
+      "Uniformidad documental",
+      "Misma plantilla y profundidad por subfactor",
+      "Aceptado",
+      "Aceptado",
+      "Aceptado con plantilla mínima",
+      "No se reescribe evidencia histórica válida.",
+      "v6.27.0"
+    ],
+    [
+      "Preparación psicométrica",
+      "Suficiencia teórica para pilotaje",
+      "Cumple teóricamente",
+      "Cumple teóricamente",
+      "Cumple teóricamente",
+      "Validación estadística pendiente.",
+      "Pilotaje"
+    ],
+    [
+      "Dictamen",
+      "Aprobación estructural",
+      "Aprobado condicionado",
+      "Aprobado condicionado",
+      "Cierre metodológico aprobado",
+      "23 subfactores alcanzan M5.",
+      "v6.27.0 / pilotaje"
+    ]
+  ],
+  "records": null
+}

@@ -1,0 +1,36 @@
+{
+  "sheet": "AUD_MET_INCONSISTENCIAS",
+  "dimensions": "A1:E4",
+  "header": null,
+  "rows_raw": [
+    [
+      "AUDITORÍA AUTOMÁTICA — HUÉRFANAS E INCONSISTENCIAS ESTRUCTURALES",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "ID",
+      "Tipo de incidencia",
+      "Detalle",
+      "Severidad",
+      "Acción recomendada"
+    ],
+    [
+      "—",
+      "Sin incidencias",
+      "0 preguntas huérfanas, 0 códigos inválidos, 0 IDs duplicados",
+      "—",
+      "Sin acción"
+    ]
+  ],
+  "records": null
+}

@@ -1,0 +1,27 @@
+{
+  "sheet": "CHECKLIST_FINAL",
+  "dimensions": "A1:B5",
+  "header": [
+    "Requisito",
+    "Estado"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Requisito": "Cobertura",
+      "Estado": "Cumple"
+    },
+    {
+      "Requisito": "Trazabilidad",
+      "Estado": "Cumple"
+    },
+    {
+      "Requisito": "Redundancias",
+      "Estado": "Cumple con observaciones"
+    },
+    {
+      "Requisito": "Validación empírica",
+      "Estado": "Pendiente"
+    }
+  ]
+}

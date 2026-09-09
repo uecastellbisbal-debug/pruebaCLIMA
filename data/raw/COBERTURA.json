@@ -1,0 +1,558 @@
+{
+  "sheet": "COBERTURA",
+  "dimensions": "A1:H55",
+  "header": null,
+  "rows_raw": [
+    [
+      "Matriz de Cobertura · Factor A",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Subdimensión",
+      "Factor",
+      "Originales",
+      "Seleccionadas",
+      "Descartadas",
+      "Pendientes",
+      "% documentado",
+      "Estado"
+    ],
+    [
+      "A.1.1 Salario",
+      "A",
+      8,
+      2,
+      6,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.1.2 Beneficios Sociales",
+      "A",
+      9,
+      1,
+      8,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.1.3 Reconocimiento Económico",
+      "A",
+      8,
+      1,
+      7,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.1.4 Impacto Calidad de Vida",
+      "A",
+      6,
+      1,
+      5,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.2.1 Formación de calidad",
+      "A",
+      11,
+      2,
+      9,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.2.2 Relevancia de la formación recibida",
+      "A",
+      9,
+      2,
+      7,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.2.3 Oportunidades de promoción profesional",
+      "A",
+      13,
+      2,
+      11,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.2.4 Desafíos y retos",
+      "A",
+      6,
+      2,
+      4,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "TOTAL A.1 + A.2",
+      "A",
+      70,
+      13,
+      57,
+      0,
+      1,
+      "A.1 y A.2 cerrados"
+    ],
+    [
+      "A.3.1 Alcance de metas personales",
+      "A",
+      6,
+      2,
+      4,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "A.3.2 Sentido de pertenencia a la empresa",
+      "A",
+      6,
+      2,
+      4,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "TOTAL A.1 + A.2 + A.3.1 + A.3.2",
+      "A",
+      82,
+      17,
+      65,
+      0,
+      1,
+      "A.1, A.2, A.3.1 y A.3.2 cerrados"
+    ],
+    [
+      "B.4.1 Flexibilidad laboral",
+      "B",
+      6,
+      2,
+      4,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "B.4.2 Conciliación familiar/social",
+      "B",
+      6,
+      2,
+      4,
+      0,
+      1,
+      "Cerrada"
+    ],
+    [
+      "TOTAL B.4.1 + B.4.2",
+      "B",
+      12,
+      4,
+      8,
+      0,
+      1,
+      "Primer bloque B.4 cerrado"
+    ],
+    [
+      "A.3.2",
+      "A",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "A.3.3",
+      "A",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "A.3.4",
+      "A",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "A.3.5",
+      "A",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.7.1",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.7.2",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.7.3",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.7.4",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.7.5",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.7.6",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.8.1",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.8.2",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.8.3",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.8.4",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.8.5",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.8.6",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.8.7",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.9.1",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.9.2",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.9.3",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.9.4",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "C.9.5",
+      "C",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "D.10.1",
+      "D",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "D.10.2",
+      "D",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "D.10.3",
+      "D",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "D.10.4",
+      "D",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      "D.10.5",
+      "D",
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      "Sin iniciar"
+    ]
+  ],
+  "records": null
+}

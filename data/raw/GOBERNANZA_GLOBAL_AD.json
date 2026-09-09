@@ -1,0 +1,88 @@
+{
+  "sheet": "GOBERNANZA_GLOBAL_AD",
+  "dimensions": "A1:H8",
+  "header": null,
+  "rows_raw": [
+    [
+      "Gobernanza del modelo consolidado WellnessMETER A–D",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dominio",
+      "Responsable primario",
+      "Corresponsables",
+      "Unidad de decisión",
+      "Resultado esperado",
+      "Escalado",
+      "Frecuencia",
+      "Regla"
+    ],
+    [
+      "A · Persona",
+      "RRHH",
+      "Manager / Persona",
+      "Política y experiencia individual",
+      "Mejoras en compensación, desarrollo y plenitud",
+      "Comité de Personas",
+      "Semestral",
+      "No atribuir a la persona problemas sistémicos."
+    ],
+    [
+      "B · Equipo",
+      "Manager",
+      "Equipo / RRHH",
+      "Equipo y liderazgo directo",
+      "Mejoras en dinámica, confianza, reconocimiento y autonomía",
+      "Dirección de área",
+      "Trimestral",
+      "Interpretar junto con contexto y tamaño del equipo."
+    ],
+    [
+      "C · Empresa",
+      "Dirección / RRHH",
+      "PRL / Managers / Operaciones",
+      "Sistema organizativo",
+      "Mejoras de entorno, liderazgo y cultura",
+      "Comité de Dirección",
+      "Semestral",
+      "Priorizar acciones transversales y trazables."
+    ],
+    [
+      "D · Propósito/FIT",
+      "Dirección / RRHH",
+      "Manager / Persona",
+      "Encaje y experiencia de propósito",
+      "Alineación sostenible persona–organización",
+      "Comité de Personas",
+      "Anual",
+      "Evitar convertir el FIT en juicio de adecuación personal."
+    ],
+    [
+      "Psicometría",
+      "Propietario metodológico WM",
+      "Analítica / expertos externos",
+      "Instrumento",
+      "Validez, fiabilidad e invariancia",
+      "Comité metodológico",
+      "Por ola",
+      "No modificar ítems sin control de versión y trazabilidad."
+    ]
+  ],
+  "records": null
+}

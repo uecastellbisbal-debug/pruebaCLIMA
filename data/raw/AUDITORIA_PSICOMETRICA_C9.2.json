@@ -1,0 +1,40 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C9.2",
+  "dimensions": "A1:B8",
+  "header": null,
+  "rows_raw": [
+    [
+      "AUDITORIA_PSICOMETRICA_C9.2",
+      null
+    ],
+    [
+      "Pregunta",
+      "Estado"
+    ],
+    [
+      "Q276",
+      "Seleccionada"
+    ],
+    [
+      "Q277",
+      "Seleccionada"
+    ],
+    [
+      "Q278",
+      "Seleccionada"
+    ],
+    [
+      "Q279",
+      "Reserva"
+    ],
+    [
+      "Q280",
+      "Reserva"
+    ],
+    [
+      "Q281",
+      "Descartada"
+    ]
+  ],
+  "records": null
+}

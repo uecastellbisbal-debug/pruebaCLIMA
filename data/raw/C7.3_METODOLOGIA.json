@@ -1,0 +1,658 @@
+{
+  "sheet": "C7.3_METODOLOGIA",
+  "dimensions": "A1:H65",
+  "header": null,
+  "rows_raw": [
+    [
+      "C.7.3 Ambiente físico saludable · Iteración metodológica 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Base documental para definir la arquitectura metodológica del subfactor dentro del Factor C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Campo",
+      "Definición consolidada",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Código",
+      "C.7.3",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nombre",
+      "Ambiente físico saludable",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Factor",
+      "C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel de análisis",
+      "Organización / Centro de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Percepción de que las condiciones ambientales del lugar de trabajo —calidad del aire, temperatura, iluminación, ruido, limpieza e higiene— favorecen de forma sostenida la salud, el confort y la capacidad de trabajar sin molestias evitables.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objetivo específico",
+      "Evaluar hasta qué punto el ambiente físico cotidiano protege el bienestar y facilita una experiencia de trabajo saludable, identificando exposiciones o molestias ambientales que puedan afectar a la concentración, la comodidad o la salud.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructo principal",
+      "Salubridad y confort ambiental percibidos",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructos secundarios",
+      "Calidad del aire y ventilación; confort térmico; iluminación saludable; entorno acústico; limpieza, higiene y mantenimiento ambiental.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Frontera conceptual",
+      "Mide la calidad saludable del ambiente físico cotidiano. No mide riesgos agudos de accidente o protección física (C.7.1), seguridad psicológica (C.7.2), ergonomía y adecuación funcional del puesto o espacio (C.7.4), disponibilidad de recursos (C.7.5) ni accesibilidad (C.7.6).",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Responsable principal",
+      "Organización / Servicios Generales / Prevención de Riesgos Laborales",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza compartida",
+      "PRL, Servicios Generales/Facilities, Operaciones, RRHH y responsables de centro",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Alta: muchas condiciones ambientales pueden mejorar mediante mantenimiento, regulación, ventilación, limpieza, acondicionamiento y ajustes operativos visibles.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Prioridad metodológica",
+      "Alta",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Periodicidad recomendada",
+      "Anual, con seguimiento adicional tras cambios de sede, reformas, incidencias ambientales o variaciones estacionales relevantes.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dimensión",
+      "Qué evalúa",
+      "Ejemplos de evidencia",
+      "Inclusión",
+      "Exclusión / límite",
+      "Accionabilidad",
+      "Gobernanza",
+      "Prioridad"
+    ],
+    [
+      "Calidad del aire y ventilación",
+      "Renovación del aire, ausencia de olores persistentes y percepción de un ambiente respirable.",
+      "Ventilación suficiente, aire no cargado, control de olores, mantenimiento de sistemas.",
+      "Preguntas generales sobre aire, ventilación y sensación de ambiente saludable.",
+      "Riesgos químicos específicos o exposición industrial que requieran evaluación técnica especializada.",
+      "Alta",
+      "Facilities / PRL",
+      "Alta"
+    ],
+    [
+      "Confort térmico",
+      "Adecuación y estabilidad razonable de la temperatura para trabajar con comodidad.",
+      "Climatización, control de temperaturas extremas, adaptación estacional.",
+      "Preguntas sobre temperatura y posibilidad de corregir molestias térmicas.",
+      "Preferencias individuales aisladas o seguridad frente a calor/frío extremos ya cubierta como riesgo físico.",
+      "Alta",
+      "Facilities / Operaciones",
+      "Alta"
+    ],
+    [
+      "Iluminación saludable",
+      "Suficiencia, adecuación y ausencia de molestias relevantes derivadas de la iluminación.",
+      "Luz natural o artificial adecuada, ausencia de deslumbramientos, fatiga visual reducida.",
+      "Preguntas sobre calidad lumínica y confort visual general.",
+      "Ergonomía específica de pantallas o configuración individual del puesto.",
+      "Media-Alta",
+      "Facilities / PRL",
+      "Media-Alta"
+    ],
+    [
+      "Entorno acústico",
+      "Nivel de ruido compatible con la concentración, la comunicación y el bienestar.",
+      "Control de ruido, aislamiento, zonas silenciosas, gestión de fuentes molestas.",
+      "Preguntas sobre ruido ambiental habitual y su impacto en el trabajo.",
+      "Conflictos interpersonales, interrupciones organizativas o privacidad conversacional.",
+      "Alta",
+      "Facilities / Operaciones",
+      "Alta"
+    ],
+    [
+      "Limpieza, higiene y mantenimiento ambiental",
+      "Condiciones de limpieza y mantenimiento que evitan suciedad, olores, deterioro y focos insalubres.",
+      "Limpieza regular, aseos adecuados, gestión de residuos, mantenimiento preventivo.",
+      "Preguntas sobre limpieza e higiene percibidas en espacios comunes y de trabajo.",
+      "Orden personal del puesto o disponibilidad de consumibles como recurso.",
+      "Alta",
+      "Facilities / Proveedores",
+      "Alta"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterio",
+      "Regla de selección",
+      "Señales de calidad",
+      "Riesgo a evitar",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Claridad",
+      "Una idea ambiental principal por ítem, formulada con lenguaje cotidiano y observable.",
+      "Referencia directa a aire, temperatura, luz, ruido, limpieza o ambiente físico.",
+      "Usar expresiones vagas como “buen ambiente” que puedan confundirse con clima social.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Relevancia",
+      "Debe representar una condición ambiental con impacto plausible en salud, confort o capacidad de trabajo.",
+      "Conecta con una dimensión sustantiva y frecuente del entorno físico.",
+      "Incluir detalles técnicos que la mayoría de personas no puede valorar.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Accionabilidad",
+      "El resultado debe señalar una palanca de intervención concreta.",
+      "Permite actuar mediante mantenimiento, regulación, limpieza, diseño o gestión del espacio.",
+      "Formulaciones globales sin responsable o sin posibilidad de mejora identificable.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "No redundancia",
+      "Cada ítem debe aportar información incremental y no repetir el confort general.",
+      "Cubre una dimensión distinta o un efecto ambiental específico.",
+      "Duplicar “el entorno es agradable” con variaciones mínimas.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Universalidad",
+      "Priorizar formulaciones respondibles en distintas sedes, modalidades y tipos de puesto.",
+      "Lenguaje amplio y opción “No aplica” cuando la exposición sea limitada.",
+      "Sesgo hacia oficinas, plantas industriales o una instalación concreta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Debe captar mejoras tras actuaciones ambientales visibles.",
+      "Relacionada con condiciones cotidianas que pueden variar y ser corregidas.",
+      "Ítems excesivamente estables, normativos o dependientes solo del edificio.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Clasificación",
+      "Criterio",
+      "Uso previsto",
+      "Revisión",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Seleccionada",
+      "Alta relevancia, claridad, accionabilidad, universalidad y valor incremental; cobertura esencial del constructo.",
+      "Cuestionario reducido y banco completo.",
+      "Pilotaje y validación psicométrica.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reserva",
+      "Ítem válido que cubre un matiz útil, pero con menor universalidad, redundancia parcial o dependencia del contexto físico.",
+      "Banco completo; posible sustitución o módulo por sede/puesto.",
+      "Tras pilotaje o según modalidad y centro.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Descartada",
+      "Solapamiento alto, baja universalidad, formulación ambigua o constructo fuera de C.7.3.",
+      "Mantener trazabilidad, no incluir en cuestionario reducido.",
+      "Solo si cambia la arquitectura o el contexto de aplicación.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Riesgo metodológico",
+      "Descripción",
+      "Mitigación",
+      "Control de auditoría",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Confusión con clima social",
+      "La expresión “ambiente de trabajo” puede interpretarse como relaciones, liderazgo o cultura.",
+      "Nombrar explícitamente condiciones físicas o ambientales.",
+      "Auditar solapamiento con B.5 y C.7.2.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgo por modalidad o sede",
+      "Personas remotas, itinerantes o ubicadas en centros distintos viven entornos muy diferentes.",
+      "Permitir No aplica y segmentar por modalidad, sede o centro cuando el anonimato lo permita.",
+      "Revisar funcionamiento diferencial por colectivo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Estacionalidad",
+      "Temperatura, ventilación y calidad del aire pueden variar según época del año.",
+      "Registrar periodo de aplicación y contrastar tendencias estacionales.",
+      "Evitar interpretar una única medición como condición estructural permanente.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Adaptación perceptiva",
+      "La exposición prolongada puede normalizar condiciones deficientes o intensificar molestias.",
+      "Combinar percepción global con preguntas específicas y datos operativos cuando existan.",
+      "Contrastar con incidencias, mantenimiento y evaluaciones técnicas.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Solapamiento con ergonomía y seguridad física",
+      "Una condición ambiental puede afectar al confort, la ergonomía o la seguridad según su intensidad.",
+      "Aplicar la frontera conceptual: C.7.3 para exposición ambiental cotidiana; C.7.1 para riesgo agudo; C.7.4 para adecuación funcional del puesto.",
+      "Revisión transversal C.7.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador de auditoría",
+      "Criterio de aceptación",
+      "Estado iteración 1",
+      "Próximo paso",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Definición específica, accionable y delimitada respecto a subfactores próximos.",
+      "Cumplido",
+      "Validar con las preguntas originales.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Cobertura conceptual",
+      "Las cinco dimensiones quedan representadas en la matriz de análisis.",
+      "Cumplido a nivel de arquitectura",
+      "Asignar preguntas candidatas por dimensión.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza",
+      "Responsables y palancas de intervención identificados.",
+      "Cumplido",
+      "Vincular a plan de acción e indicador.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterios de selección",
+      "Reglas explícitas para seleccionar, reservar o descartar.",
+      "Cumplido",
+      "Aplicar pregunta a pregunta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgos y límites",
+      "Riesgos de modalidad, sede, estacionalidad y solapamiento documentados.",
+      "Cumplido",
+      "Revisar en auditoría transversal C.7.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Trazabilidad",
+      "Subfactor enlazado con indicador, plan y decisión metodológica.",
+      "Cumplido en iteración 1",
+      "Completar IDs de preguntas en iteración 2.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Madurez metodológica",
+      "M2 · Arquitectura definida.",
+      "M2",
+      "Pasar a M3 tras revisión pregunta a pregunta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen de la iteración 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "La arquitectura metodológica de C.7.3 Ambiente físico saludable queda definida y documentada. El subfactor no se considera todavía cerrado: la siguiente iteración debe identificar todas las preguntas originales, asignarlas a las cinco dimensiones, clasificarlas (Seleccionada/Reserva/Descartada) y completar sus campos metodológicos en WM-BQ.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Iteración 3",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Auditoría psicométrica teórica completada. Madurez M4.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

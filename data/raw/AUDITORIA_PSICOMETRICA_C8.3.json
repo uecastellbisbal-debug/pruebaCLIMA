@@ -1,0 +1,77 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C8.3",
+  "dimensions": "A1:H7",
+  "header": [
+    "ID",
+    "Pregunta",
+    "Claridad",
+    "Unidimensionalidad",
+    "Deseabilidad social",
+    "Discriminación",
+    "Accionabilidad",
+    "Recomendación"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "ID": "Q240",
+      "Pregunta": "Mi responsable me apoya cuando encuentro dificultades.",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Recomendación": "Seleccionada"
+    },
+    {
+      "ID": "Q241",
+      "Pregunta": "Recibo orientación útil para mejorar profesionalmente.",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Media",
+      "Discriminación": "Alta",
+      "Accionabilidad": "Alta",
+      "Recomendación": "Seleccionada"
+    },
+    {
+      "ID": "Q242",
+      "Pregunta": "Dispongo de oportunidades de mentoría dentro de la organización.",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Media",
+      "Discriminación": "Media",
+      "Accionabilidad": "Alta",
+      "Recomendación": "Seleccionada"
+    },
+    {
+      "ID": "Q243",
+      "Pregunta": "El seguimiento de mi desarrollo es periódico.",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Media",
+      "Discriminación": "Media",
+      "Accionabilidad": "Alta",
+      "Recomendación": "Reserva"
+    },
+    {
+      "ID": "Q244",
+      "Pregunta": "Sé a quién acudir cuando necesito apoyo.",
+      "Claridad": "Alta",
+      "Unidimensionalidad": "Alta",
+      "Deseabilidad social": "Baja",
+      "Discriminación": "Media",
+      "Accionabilidad": "Alta",
+      "Recomendación": "Reserva"
+    },
+    {
+      "ID": "Q245",
+      "Pregunta": "Nunca recibo ayuda cuando la necesito.",
+      "Claridad": "Media",
+      "Unidimensionalidad": "Media",
+      "Deseabilidad social": "Alta",
+      "Discriminación": "Media",
+      "Accionabilidad": "Media",
+      "Recomendación": "Descartada"
+    }
+  ]
+}

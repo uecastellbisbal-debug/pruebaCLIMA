@@ -1,0 +1,360 @@
+{
+  "sheet": "CONTROL_CALIDAD",
+  "dimensions": "A1:H88",
+  "header": null,
+  "rows_raw": [
+    [
+      "Control de calidad · Nivel A y Nivel B",
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Control",
+      "Incidencias"
+    ],
+    [
+      "Sin objetivo",
+      0
+    ],
+    [
+      "Sin constructo",
+      0
+    ],
+    [
+      "Sin justificación",
+      0
+    ],
+    [
+      "Sin indicador",
+      0
+    ],
+    [
+      "Sin plan de acción",
+      0
+    ],
+    [
+      "Sin responsable",
+      0
+    ],
+    [
+      "Sin sensibilidad",
+      0
+    ],
+    [
+      "Sin decisión metodológica",
+      0
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Control transversal Nivel B",
+      null
+    ],
+    [
+      "Preguntas B sin objetivo",
+      0
+    ],
+    [
+      "Preguntas B sin constructo",
+      0
+    ],
+    [
+      "Preguntas B sin indicador",
+      0
+    ],
+    [
+      "Preguntas B sin plan de acción",
+      0
+    ],
+    [
+      "Preguntas B sin madurez M6",
+      0
+    ],
+    [
+      "Dictamen",
+      "Cerrado para pilotaje"
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Control inicial · C.7.1 Seguridad física",
+      null
+    ],
+    [
+      "Definición operativa",
+      "Cumplido"
+    ],
+    [
+      "Frontera conceptual",
+      "Cumplido"
+    ],
+    [
+      "Dimensiones y gobernanza",
+      "Cumplido"
+    ],
+    [
+      "Criterios de selección y sesgos",
+      "Cumplido"
+    ],
+    [
+      "Integración indicador/plan/DM",
+      "Cumplido"
+    ],
+    [
+      "Revisión pregunta a pregunta",
+      "Cumplido v6.1.2"
+    ],
+    [
+      "Banco candidato documentado",
+      "6 preguntas"
+    ],
+    [
+      "Clasificación Seleccionada/Reserva/Descartada",
+      "Cumplido"
+    ],
+    [
+      "Campos metodológicos completos",
+      "Cumplido"
+    ],
+    [
+      "Trazabilidad pregunta a pregunta",
+      "Cumplido"
+    ],
+    [
+      "Madurez metodológica C.7.1",
+      "M3 · Banco candidato revisado"
+    ],
+    [
+      "Cierre metodológico",
+      "Pendiente auditoría psicométrica y transversal"
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Control · C.7.2 Seguridad psicológica",
+      null
+    ],
+    [
+      "Definición operativa",
+      "Cumplido"
+    ],
+    [
+      "Frontera conceptual",
+      "Cumplido"
+    ],
+    [
+      "Dimensiones y gobernanza",
+      "Cumplido"
+    ],
+    [
+      "Criterios de selección y sesgos",
+      "Cumplido"
+    ],
+    [
+      "Integración indicador/plan/DM",
+      "Cumplido"
+    ],
+    [
+      "Revisión pregunta a pregunta",
+      "Cumplido v6.2.2"
+    ],
+    [
+      "Banco candidato documentado",
+      "6 preguntas"
+    ],
+    [
+      "Clasificación completa",
+      "2 seleccionadas / 3 reservas / 1 descartada"
+    ],
+    [
+      "Auditoría psicométrica teórica",
+      "Cumplido v6.2.3"
+    ],
+    [
+      "Unidimensionalidad seleccionadas",
+      "Cumplido teóricamente"
+    ],
+    [
+      "Validez discriminante",
+      "Provisionalmente adecuada"
+    ],
+    [
+      "Madurez metodológica C.7.2",
+      "M4 · Auditoría psicométrica teórica"
+    ],
+    [
+      "Cierre definitivo",
+      "Pendiente transversal C.7 y pilotaje"
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Control inicial · C.7.3 Ambiente físico saludable",
+      null
+    ],
+    [
+      "Definición operativa",
+      "Cumplido"
+    ],
+    [
+      "Frontera conceptual",
+      "Cumplido"
+    ],
+    [
+      "Dimensiones y gobernanza",
+      "Cumplido"
+    ],
+    [
+      "Criterios de selección y sesgos",
+      "Cumplido"
+    ],
+    [
+      "Integración indicador/plan/DM",
+      "Cumplido"
+    ],
+    [
+      "Banco candidato documentado",
+      "Pendiente iteración 6.3.2"
+    ],
+    [
+      "Clasificación Seleccionada/Reserva/Descartada",
+      "Pendiente iteración 6.3.2"
+    ],
+    [
+      "Madurez metodológica C.7.3",
+      "M2 · Arquitectura definida"
+    ],
+    [
+      "Cierre metodológico",
+      "Pendiente banco candidato, auditoría psicométrica y transversal"
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "C7.3 Iteración 2 completada - Banco candidato",
+      null
+    ],
+    [
+      "Actualización C7.3 M4 - Auditoría psicométrica",
+      null
+    ],
+    [
+      "Control inicial · C.7.4 Condiciones idóneas en el lugar de trabajo",
+      null
+    ],
+    [
+      "Definición operativa",
+      "Cumplido"
+    ],
+    [
+      "Frontera conceptual",
+      "Cumplido"
+    ],
+    [
+      "Dimensiones y gobernanza",
+      "Cumplido"
+    ],
+    [
+      "Criterios de selección y sesgos",
+      "Cumplido"
+    ],
+    [
+      "Integración indicador/plan/DM",
+      "Cumplido"
+    ],
+    [
+      "Banco candidato documentado",
+      "Cumplido"
+    ],
+    [
+      "Clasificación Seleccionada/Reserva/Descartada",
+      "Cumplido"
+    ],
+    [
+      "Madurez metodológica C.7.4",
+      "M4 · Auditoría psicométrica teórica"
+    ],
+    [
+      "Cierre metodológico",
+      "Cierre provisional; pendientes validación empírica y revisión transversal C.7"
+    ],
+    [
+      "Auditoría psicométrica C.7.4",
+      null
+    ],
+    [
+      "Claridad y unidimensionalidad",
+      "Cumplido"
+    ],
+    [
+      "Deseabilidad social y discriminación esperada",
+      "Cumplido"
+    ],
+    [
+      "Accionabilidad, universalidad y redundancia",
+      "Cumplido"
+    ],
+    [
+      "Dictamen final por pregunta",
+      "Cumplido"
+    ],
+    [
+      "Selección provisional y reservas documentadas",
+      "Cumplido"
+    ],
+    [
+      "Control inicial · C.7.5 Disponibilidad de recursos adecuados",
+      null
+    ],
+    [
+      "Definición operativa",
+      "Cumplido"
+    ],
+    [
+      "Frontera conceptual",
+      "Cumplido"
+    ],
+    [
+      "Dimensiones y gobernanza",
+      "Cumplido"
+    ],
+    [
+      "Criterios de selección y sesgos",
+      "Cumplido"
+    ],
+    [
+      "Integración indicador/plan/DM",
+      "Cumplido"
+    ],
+    [
+      "Banco candidato documentado",
+      "Pendiente iteración 6.5.2"
+    ],
+    [
+      "Clasificación Seleccionada/Reserva/Descartada",
+      "Pendiente iteración 6.5.2"
+    ],
+    [
+      "Madurez metodológica C.7.5",
+      "M2 · Arquitectura definida"
+    ],
+    [
+      "Cierre metodológico",
+      "Pendiente banco candidato, auditoría psicométrica y transversal"
+    ]
+  ],
+  "records": null
+}

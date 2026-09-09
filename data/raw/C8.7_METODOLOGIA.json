@@ -1,0 +1,35 @@
+{
+  "sheet": "C8.7_METODOLOGIA",
+  "dimensions": "A1:B7",
+  "header": [
+    "Subfactor",
+    "C.8.7 Cultura de aprendizaje"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Estado",
+      "C.8.7 Cultura de aprendizaje": "M4"
+    },
+    {
+      "Subfactor": "Objetivo",
+      "C.8.7 Cultura de aprendizaje": "Evaluar si el liderazgo fomenta una cultura de aprendizaje continuo."
+    },
+    {
+      "Subfactor": "DM",
+      "C.8.7 Cultura de aprendizaje": "DM-C8-007"
+    },
+    {
+      "Subfactor": "Seleccionadas",
+      "C.8.7 Cultura de aprendizaje": "Q264,Q265,Q266"
+    },
+    {
+      "Subfactor": "Reserva",
+      "C.8.7 Cultura de aprendizaje": "Q267,Q268"
+    },
+    {
+      "Subfactor": "Descartada",
+      "C.8.7 Cultura de aprendizaje": "Q269"
+    }
+  ]
+}

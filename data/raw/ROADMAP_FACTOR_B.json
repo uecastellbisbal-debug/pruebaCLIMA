@@ -1,0 +1,37 @@
+{
+  "sheet": "ROADMAP_FACTOR_B",
+  "dimensions": "A1:C11",
+  "header": [
+    "Factor / subfactor",
+    "Estado",
+    "Siguiente acción"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Factor / subfactor": "B.4 Dinámica",
+      "Estado": "Cerrada",
+      "Siguiente acción": "Pilotaje y validación empírica"
+    },
+    {
+      "Factor / subfactor": "B.5 Ambiente de trabajo",
+      "Estado": "Cerrada con coberturas exploratorias",
+      "Siguiente acción": "Mantener reservas; ampliar B.5.1–B.5.4 solo si el piloto lo aconseja"
+    },
+    {
+      "Factor / subfactor": "B.6 Reconocimiento",
+      "Estado": "Cerrada con coberturas exploratorias",
+      "Siguiente acción": "Mantener reservas; ampliar B.6.1–B.6.3 solo si el piloto lo aconseja"
+    },
+    {
+      "Factor / subfactor": "Nivel B — Equipo",
+      "Estado": "Cerrado metodológicamente",
+      "Siguiente acción": "Pilotaje; después análisis psicométrico empírico"
+    },
+    {
+      "Factor / subfactor": "v6.0 · Auditoría transversal B.4–B.6",
+      "Estado": "Completada",
+      "Siguiente acción": "Nivel B cerrado; siguiente fase: Nivel C — Empresa"
+    }
+  ]
+}

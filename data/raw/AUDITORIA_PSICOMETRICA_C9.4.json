@@ -1,0 +1,42 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C9.4",
+  "dimensions": "A1:C7",
+  "header": [
+    "Pregunta",
+    "Estado",
+    "Observación"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q288",
+      "Estado": "Seleccionada",
+      "Observación": "Alta claridad"
+    },
+    {
+      "Pregunta": "Q289",
+      "Estado": "Seleccionada",
+      "Observación": "Buen poder discriminativo"
+    },
+    {
+      "Pregunta": "Q290",
+      "Estado": "Reserva v6.27.0",
+      "Observación": "Alta accionabilidad"
+    },
+    {
+      "Pregunta": "Q291",
+      "Estado": "Reserva",
+      "Observación": "Cobertura complementaria"
+    },
+    {
+      "Pregunta": "Q292",
+      "Estado": "Reserva",
+      "Observación": "Redundancia parcial"
+    },
+    {
+      "Pregunta": "Q293",
+      "Estado": "Descartada",
+      "Observación": "Baja discriminación"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sheet": "C7.5_BANCO_CANDIDATO",
+  "dimensions": "A1:E7",
+  "header": [
+    "ID",
+    "Pregunta",
+    "Cobertura",
+    "Estado",
+    "Justificación"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "ID": "Q226",
+      "Pregunta": "Dispongo de las herramientas necesarias para realizar mi trabajo eficazmente.",
+      "Cobertura": "Herramientas",
+      "Estado": "Seleccionada",
+      "Justificación": "Alta validez"
+    },
+    {
+      "ID": "Q227",
+      "Pregunta": "Los recursos materiales están disponibles cuando los necesito.",
+      "Cobertura": "Materiales",
+      "Estado": "Seleccionada",
+      "Justificación": "Disponibilidad"
+    },
+    {
+      "ID": "Q228",
+      "Pregunta": "Los sistemas informáticos funcionan de forma fiable.",
+      "Cobertura": "Tecnología",
+      "Estado": "Seleccionada",
+      "Justificación": "Cobertura TI"
+    },
+    {
+      "ID": "Q229",
+      "Pregunta": "Recibo la información necesaria para realizar mi trabajo.",
+      "Cobertura": "Información",
+      "Estado": "Reserva",
+      "Justificación": "Posible solapamiento"
+    },
+    {
+      "ID": "Q230",
+      "Pregunta": "El soporte técnico responde con rapidez cuando surge un problema.",
+      "Cobertura": "Soporte",
+      "Estado": "Reserva",
+      "Justificación": "Dependiente del contexto"
+    },
+    {
+      "ID": "Q231",
+      "Pregunta": "Con frecuencia debo improvisar por falta de recursos.",
+      "Cobertura": "General",
+      "Estado": "Descartada",
+      "Justificación": "Ítem inverso"
+    }
+  ]
+}

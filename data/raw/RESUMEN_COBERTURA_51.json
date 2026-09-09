@@ -1,0 +1,168 @@
+{
+  "sheet": "RESUMEN_COBERTURA_51",
+  "dimensions": "A1:Z200",
+  "header": null,
+  "rows_raw": [
+    [
+      "v6.29.0 · Resumen ejecutivo de equilibrio y cobertura psicométrica",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel",
+      "Subfactores",
+      "Ítems seleccionados",
+      "Media ítems/subfactor",
+      "Adecuados",
+      "Mínimos/insuf.",
+      "Sobre-representados",
+      "ICM medio"
+    ],
+    [
+      "A",
+      13,
+      25,
+      1.92,
+      10,
+      3,
+      0,
+      94.6
+    ],
+    [
+      "B",
+      15,
+      15,
+      1,
+      3,
+      12,
+      0,
+      67.3
+    ],
+    [
+      "C",
+      18,
+      44,
+      2.44,
+      8,
+      6,
+      4,
+      92.2
+    ],
+    [
+      "D",
+      5,
+      13,
+      2.6,
+      3,
+      1,
+      1,
+      95.3
+    ],
+    [
+      "Total",
+      51,
+      97,
+      1.9,
+      24,
+      22,
+      5,
+      85.8
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen metodológico",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Aspecto",
+      "Resultado",
+      "Interpretación",
+      "Decisión",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Cobertura estructural",
+      "51/51 subfactores con al menos un ítem",
+      "No quedan constructos activos sin evidencia directa.",
+      "Aprobada",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel B",
+      "15/15 subfactores; 15 ítems",
+      "Se corrige la brecha de cobertura manteniendo una versión global de 97 ítems.",
+      "Aprobado para cribado",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Cobertura psicométrica",
+      "22 subfactores por debajo del objetivo teórico",
+      "La versión es adecuada como instrumento diagnóstico breve, no como conjunto de 51 escalas independientes.",
+      "Aprobación condicionada",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Pilotaje",
+      "Pendiente",
+      "El ICM es teórico; debe contrastarse con cargas, omega/alfa, HTMT, invariancia y sensibilidad.",
+      "Obligatorio",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Puntuación",
+      "Sin score global único",
+      "Interpretar por niveles, factores y subfactores; los subfactores de un ítem son indicadores simples.",
+      "Mantener restricción",
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

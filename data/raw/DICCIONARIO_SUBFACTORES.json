@@ -1,0 +1,527 @@
+{
+  "sheet": "DICCIONARIO_SUBFACTORES",
+  "dimensions": "A1:H52",
+  "header": [
+    "Código",
+    "Nivel",
+    "Nombre nivel",
+    "Factor",
+    "Nombre factor",
+    "Subfactor oficial",
+    "N.º preguntas banco",
+    "N.º seleccionadas"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Código": "A.1.1",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.1",
+      "Nombre factor": "Remuneración",
+      "Subfactor oficial": "Salario",
+      "N.º preguntas banco": 8,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.1.2",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.1",
+      "Nombre factor": "Remuneración",
+      "Subfactor oficial": "Beneficios sociales",
+      "N.º preguntas banco": 9,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "A.1.3",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.1",
+      "Nombre factor": "Remuneración",
+      "Subfactor oficial": "Reconocimiento económico",
+      "N.º preguntas banco": 8,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "A.1.4",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.1",
+      "Nombre factor": "Remuneración",
+      "Subfactor oficial": "Impacto en la calidad de vida",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "A.2.1",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.2",
+      "Nombre factor": "Desarrollo",
+      "Subfactor oficial": "Formación de calidad",
+      "N.º preguntas banco": 11,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.2.2",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.2",
+      "Nombre factor": "Desarrollo",
+      "Subfactor oficial": "Relevancia de la formación recibida",
+      "N.º preguntas banco": 9,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.2.3",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.2",
+      "Nombre factor": "Desarrollo",
+      "Subfactor oficial": "Oportunidades de promoción profesional",
+      "N.º preguntas banco": 13,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.2.4",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.2",
+      "Nombre factor": "Desarrollo",
+      "Subfactor oficial": "Desafíos y retos",
+      "N.º preguntas banco": 11,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.3.1",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.3",
+      "Nombre factor": "Plenitud personal",
+      "Subfactor oficial": "Alcance de metas personales",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.3.2",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.3",
+      "Nombre factor": "Plenitud personal",
+      "Subfactor oficial": "Sentido de pertenencia a la empresa",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.3.3",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.3",
+      "Nombre factor": "Plenitud personal",
+      "Subfactor oficial": "Motivación laboral",
+      "N.º preguntas banco": 7,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "A.3.4",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.3",
+      "Nombre factor": "Plenitud personal",
+      "Subfactor oficial": "Alineación con valores personales",
+      "N.º preguntas banco": 5,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "A.3.5",
+      "Nivel": "A",
+      "Nombre nivel": "Persona",
+      "Factor": "A.3",
+      "Nombre factor": "Plenitud personal",
+      "Subfactor oficial": "Sentimiento de realización",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "B.4.1",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.4",
+      "Nombre factor": "Dinámica",
+      "Subfactor oficial": "Flexibilidad laboral",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.4.2",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.4",
+      "Nombre factor": "Dinámica",
+      "Subfactor oficial": "Conciliación familiar/social",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.4.3",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.4",
+      "Nombre factor": "Dinámica",
+      "Subfactor oficial": "Apoyo ante dificultades personales",
+      "N.º preguntas banco": 2,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.4.4",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.4",
+      "Nombre factor": "Dinámica",
+      "Subfactor oficial": "Ambiente laboral inclusivo",
+      "N.º preguntas banco": 2,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.4.5",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.4",
+      "Nombre factor": "Dinámica",
+      "Subfactor oficial": "Liderazgo",
+      "N.º preguntas banco": 4,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.5.1",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.5",
+      "Nombre factor": "Ambiente de trabajo",
+      "Subfactor oficial": "Sentido de pertenencia",
+      "N.º preguntas banco": 1,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.5.2",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.5",
+      "Nombre factor": "Ambiente de trabajo",
+      "Subfactor oficial": "Confianza en el equipo",
+      "N.º preguntas banco": 1,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.5.3",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.5",
+      "Nombre factor": "Ambiente de trabajo",
+      "Subfactor oficial": "Colaboración efectiva",
+      "N.º preguntas banco": 1,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.5.4",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.5",
+      "Nombre factor": "Ambiente de trabajo",
+      "Subfactor oficial": "Comunicación asertiva",
+      "N.º preguntas banco": 1,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.5.5",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.5",
+      "Nombre factor": "Ambiente de trabajo",
+      "Subfactor oficial": "Diversidad y enriquecimiento mutuo",
+      "N.º preguntas banco": 2,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.6.1",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.6",
+      "Nombre factor": "Reconocimiento",
+      "Subfactor oficial": "Autoeficacia",
+      "N.º preguntas banco": 1,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.6.2",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.6",
+      "Nombre factor": "Reconocimiento",
+      "Subfactor oficial": "Valoración personal",
+      "N.º preguntas banco": 1,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.6.3",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.6",
+      "Nombre factor": "Reconocimiento",
+      "Subfactor oficial": "Autonomía de decisión",
+      "N.º preguntas banco": 1,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.6.4",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.6",
+      "Nombre factor": "Reconocimiento",
+      "Subfactor oficial": "Claridad en los objetivos",
+      "N.º preguntas banco": 3,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "B.6.5",
+      "Nivel": "B",
+      "Nombre nivel": "Equipo",
+      "Factor": "B.6",
+      "Nombre factor": "Reconocimiento",
+      "Subfactor oficial": "Libertad para aportar ideas",
+      "N.º preguntas banco": 3,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "C.7.1",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.7",
+      "Nombre factor": "Entorno de trabajo",
+      "Subfactor oficial": "Seguridad física",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.7.2",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.7",
+      "Nombre factor": "Entorno de trabajo",
+      "Subfactor oficial": "Seguridad psicológica",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.7.3",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.7",
+      "Nombre factor": "Entorno de trabajo",
+      "Subfactor oficial": "Ambiente físico saludable",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.7.4",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.7",
+      "Nombre factor": "Entorno de trabajo",
+      "Subfactor oficial": "Condiciones idóneas en el lugar de trabajo",
+      "N.º preguntas banco": 7,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.7.5",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.7",
+      "Nombre factor": "Entorno de trabajo",
+      "Subfactor oficial": "Disponibilidad de recursos adecuados",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.7.6",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.7",
+      "Nombre factor": "Entorno de trabajo",
+      "Subfactor oficial": "Accesibilidad",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.8.1",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.8",
+      "Nombre factor": "Liderazgo",
+      "Subfactor oficial": "Modelo de liderazgo",
+      "N.º preguntas banco": 5,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.8.2",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.8",
+      "Nombre factor": "Liderazgo",
+      "Subfactor oficial": "Liderazgo transformacional y modelo de rol",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.8.3",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.8",
+      "Nombre factor": "Liderazgo",
+      "Subfactor oficial": "Apoyo y mentoría",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.8.4",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.8",
+      "Nombre factor": "Liderazgo",
+      "Subfactor oficial": "Fomento del desarrollo profesional",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.8.5",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.8",
+      "Nombre factor": "Liderazgo",
+      "Subfactor oficial": "Modelos de comunicación eficaces",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.8.6",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.8",
+      "Nombre factor": "Liderazgo",
+      "Subfactor oficial": "Participación en la toma de decisiones",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.8.7",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.8",
+      "Nombre factor": "Liderazgo",
+      "Subfactor oficial": "Confianza en el liderazgo",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.9.1",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.9",
+      "Nombre factor": "Cultura organizativa",
+      "Subfactor oficial": "Valores corporativos",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.9.2",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.9",
+      "Nombre factor": "Cultura organizativa",
+      "Subfactor oficial": "Coherencia organizativa",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "C.9.3",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.9",
+      "Nombre factor": "Cultura organizativa",
+      "Subfactor oficial": "Sentimiento de pertenencia",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 1
+    },
+    {
+      "Código": "C.9.4",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.9",
+      "Nombre factor": "Cultura organizativa",
+      "Subfactor oficial": "Promoción de la cultura organizativa",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "C.9.5",
+      "Nivel": "C",
+      "Nombre nivel": "Empresa",
+      "Factor": "C.9",
+      "Nombre factor": "Cultura organizativa",
+      "Subfactor oficial": "Diversidad, equidad e inclusión",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "D.10.1",
+      "Nivel": "D",
+      "Nombre nivel": "Propósito/FIT",
+      "Factor": "D.10",
+      "Nombre factor": "Propósito y ajuste",
+      "Subfactor oficial": "Contribución a la misión de la empresa",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "D.10.2",
+      "Nivel": "D",
+      "Nombre nivel": "Propósito/FIT",
+      "Factor": "D.10",
+      "Nombre factor": "Propósito y ajuste",
+      "Subfactor oficial": "Adecuación al puesto de trabajo",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "D.10.3",
+      "Nivel": "D",
+      "Nombre nivel": "Propósito/FIT",
+      "Factor": "D.10",
+      "Nombre factor": "Propósito y ajuste",
+      "Subfactor oficial": "Vocación profesional",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 3
+    },
+    {
+      "Código": "D.10.4",
+      "Nivel": "D",
+      "Nombre nivel": "Propósito/FIT",
+      "Factor": "D.10",
+      "Nombre factor": "Propósito y ajuste",
+      "Subfactor oficial": "Desarrollo profesional",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    },
+    {
+      "Código": "D.10.5",
+      "Nivel": "D",
+      "Nombre nivel": "Propósito/FIT",
+      "Factor": "D.10",
+      "Nombre factor": "Propósito y ajuste",
+      "Subfactor oficial": "Intereses personales",
+      "N.º preguntas banco": 6,
+      "N.º seleccionadas": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "criterio": "Claridad",
+    "definicion": "La pregunta admite una interpretación principal y un lenguaje comprensible.",
+    "escala": "Alta / Media / Baja",
+    "usoFactorA": "Prioriza formulaciones directas y universales."
+  },
+  {
+    "criterio": "Relevancia",
+    "definicion": "El contenido representa una dimensión importante del bienestar organizacional.",
+    "escala": "Alta / Media / Baja",
+    "usoFactorA": "Determina el valor sustantivo de la pregunta."
+  },
+  {
+    "criterio": "Accionabilidad",
+    "definicion": "El resultado puede traducirse en decisiones o actuaciones identificables.",
+    "escala": "Alta / Media / Baja",
+    "usoFactorA": "Favorece preguntas sobre políticas y prácticas modificables."
+  },
+  {
+    "criterio": "No redundancia",
+    "definicion": "La pregunta aporta información incremental respecto a otras.",
+    "escala": "Alta / Media / Baja",
+    "usoFactorA": "Reduce solapamientos en la versión <100."
+  },
+  {
+    "criterio": "Sensibilidad al cambio",
+    "definicion": "La percepción puede variar tras intervenciones organizativas.",
+    "escala": "Alta / Media / Baja",
+    "usoFactorA": "Distingue efectos rápidos de condicionantes estructurales."
+  },
+  {
+    "criterio": "Prioridad",
+    "definicion": "Valor relativo para formar parte del cuestionario reducido.",
+    "escala": "Alta / Media / Baja",
+    "usoFactorA": "Alta para las cinco preguntas seleccionadas."
+  },
+  {
+    "criterio": "Madurez",
+    "definicion": "Grado de desarrollo documental y metodológico.",
+    "escala": "M0–M5",
+    "usoFactorA": "Factor A cerrado en M3 · Revisada."
+  }
+]

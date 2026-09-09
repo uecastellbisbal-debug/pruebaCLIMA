@@ -1,0 +1,98 @@
+{
+  "sheet": "EQUILIBRIO_ITEMS_CD",
+  "dimensions": "A1:H9",
+  "header": null,
+  "rows_raw": [
+    [
+      "Equilibrio de ítems seleccionados · Niveles C–D",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Bloque",
+      "Subfactores",
+      "Ítems seleccionados",
+      "Media por subfactor",
+      "Peso dentro de C–D",
+      "Lectura psicométrica",
+      "Riesgo",
+      "Recomendación"
+    ],
+    [
+      "C.7 Entorno de trabajo",
+      6,
+      16,
+      2.67,
+      0.2388059701492537,
+      "Cobertura suficiente; dos escalas de 2 ítems requieren cautela.",
+      "Medio",
+      "Mantener reservas en C.7.1 y C.7.2 para pilotaje."
+    ],
+    [
+      "C.8 Liderazgo",
+      7,
+      21,
+      3,
+      0.3134328358208955,
+      "Bloque equilibrado pero internamente muy correlacionado.",
+      "Alto",
+      "Probar factor de segundo orden y reducir si HTMT es elevado."
+    ],
+    [
+      "C.9 Cultura",
+      5,
+      15,
+      3,
+      0.2238805970149254,
+      "Cobertura equilibrada; pertenencia y valores son focos sensibles.",
+      "Alto",
+      "Revisar discriminación con A, B y D."
+    ],
+    [
+      "D.10 FIT",
+      5,
+      15,
+      3,
+      0.2238805970149254,
+      "Escalas homogéneas; alto riesgo de solapamiento con antecedentes.",
+      "Alto",
+      "Modelar D como resultados/síntesis y exigir validez incremental."
+    ],
+    [
+      "Nivel C total",
+      18,
+      52,
+      2.888888888888889,
+      0.7761194029850746,
+      "Predominio esperado por mayor amplitud arquitectónica.",
+      "Medio",
+      "No interpretar puntuación global C sin ponderación o modelo factorial."
+    ],
+    [
+      "C + D",
+      23,
+      67,
+      2.91304347826087,
+      1,
+      "Número teórico manejable para pilotaje, no para versión final <100 junto a A+B.",
+      "Alto",
+      "Auditoría global deberá optimizar el total A–D."
+    ]
+  ],
+  "records": null
+}

@@ -1,0 +1,268 @@
+{
+  "sheet": "MATRIZ_CONSTRUCTOS_CD",
+  "dimensions": "A1:H26",
+  "header": null,
+  "rows_raw": [
+    [
+      "Matriz estructural de constructos · Niveles C y D",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Código",
+      "Subfactor",
+      "Constructo nuclear",
+      "Foco de medición",
+      "Rol en el modelo",
+      "Solapamiento principal",
+      "Riesgo",
+      "Criterio de delimitación"
+    ],
+    [
+      "C.7.1",
+      "Seguridad física",
+      "Protección e integridad física",
+      "Organización / condiciones",
+      "Antecedente organizativo",
+      "C.7.3 / C.7.4",
+      "Bajo",
+      "Riesgos, prevención e incidentes; no confort general."
+    ],
+    [
+      "C.7.2",
+      "Seguridad psicológica",
+      "Libertad interpersonal sin temor",
+      "Organización / clima",
+      "Antecedente organizativo",
+      "B.5 confianza / C.8 liderazgo",
+      "Medio",
+      "Posibilidad de hablar, discrepar y pedir ayuda sin represalias."
+    ],
+    [
+      "C.7.3",
+      "Ambiente físico saludable",
+      "Salud y confort ambiental",
+      "Entorno físico",
+      "Antecedente organizativo",
+      "C.7.4",
+      "Medio",
+      "Aire, temperatura, iluminación, ruido, limpieza."
+    ],
+    [
+      "C.7.4",
+      "Condiciones idóneas en el lugar de trabajo",
+      "Ergonomía y funcionalidad del puesto",
+      "Puesto físico",
+      "Antecedente organizativo",
+      "C.7.3 / D.10.2",
+      "Medio",
+      "Adecuación del espacio y mobiliario; no ajuste competencial."
+    ],
+    [
+      "C.7.5",
+      "Disponibilidad de recursos adecuados",
+      "Recursos para ejecutar el trabajo",
+      "Sistemas y medios",
+      "Antecedente organizativo",
+      "D.10.2",
+      "Medio",
+      "Disponibilidad/fiabilidad de medios; no capacidad personal."
+    ],
+    [
+      "C.7.6",
+      "Accesibilidad",
+      "Acceso universal y ausencia de barreras",
+      "Entorno y sistemas",
+      "Antecedente organizativo",
+      "C.9.5",
+      "Medio",
+      "Accesibilidad funcional; DEI mide trato y oportunidades."
+    ],
+    [
+      "C.8.1",
+      "Modelo de liderazgo",
+      "Patrón general de dirección",
+      "Liderazgo organizativo",
+      "Antecedente organizativo",
+      "B.4.5 / C.8.2",
+      "Medio",
+      "Modelo sistémico, no conducta puntual del responsable directo."
+    ],
+    [
+      "C.8.2",
+      "Liderazgo transformacional y modelo de rol",
+      "Inspiración y ejemplaridad",
+      "Liderazgo organizativo",
+      "Antecedente organizativo",
+      "C.8.1 / C.9.2",
+      "Medio",
+      "Influencia inspiradora y coherencia ejemplar."
+    ],
+    [
+      "C.8.3",
+      "Apoyo y mentoría",
+      "Acompañamiento y orientación",
+      "Liderazgo / desarrollo",
+      "Antecedente organizativo",
+      "C.8.4 / B.4.5",
+      "Medio",
+      "Apoyo individual y mentoría, no sistema de carrera."
+    ],
+    [
+      "C.8.4",
+      "Fomento del desarrollo profesional",
+      "Impulso organizativo al crecimiento",
+      "Liderazgo / oportunidades",
+      "Antecedente organizativo",
+      "A.2 / D.10.4",
+      "Alto",
+      "Acciones y oportunidades ofrecidas por la organización."
+    ],
+    [
+      "C.8.5",
+      "Modelos de comunicación eficaces",
+      "Calidad de la comunicación institucional",
+      "Comunicación organizativa",
+      "Antecedente organizativo",
+      "B.5.4 / C.9.4",
+      "Medio",
+      "Canales y prácticas organizativas, no interacción del equipo."
+    ],
+    [
+      "C.8.6",
+      "Participación en la toma de decisiones",
+      "Voz e influencia organizativa",
+      "Gobernanza participativa",
+      "Antecedente organizativo",
+      "C.7.2 / C.9.4",
+      "Medio",
+      "Capacidad real de influir en decisiones."
+    ],
+    [
+      "C.8.7",
+      "Confianza en el liderazgo",
+      "Credibilidad y fiabilidad directiva",
+      "Liderazgo organizativo",
+      "Antecedente organizativo",
+      "B.5.2 / C.9.2",
+      "Medio",
+      "Confianza en líderes y dirección, no confianza entre pares."
+    ],
+    [
+      "C.9.1",
+      "Valores corporativos",
+      "Valores declarados y practicados",
+      "Cultura organizativa",
+      "Antecedente organizativo",
+      "A.3.4 / D.10",
+      "Alto",
+      "Qué valores encarna la empresa; no compatibilidad personal."
+    ],
+    [
+      "C.9.2",
+      "Coherencia organizativa",
+      "Consistencia entre discurso y práctica",
+      "Cultura organizativa",
+      "Antecedente organizativo",
+      "C.8.2 / C.9.1",
+      "Medio",
+      "Congruencia sistémica de decisiones y comportamientos."
+    ],
+    [
+      "C.9.3",
+      "Sentimiento de pertenencia",
+      "Vínculo con la comunidad organizativa",
+      "Cultura organizativa",
+      "Resultado intermedio",
+      "A.3.2 / B.5.1 / D.10",
+      "Alto",
+      "Pertenencia generada por la cultura; evitar identificación genérica."
+    ],
+    [
+      "C.9.4",
+      "Promoción de la cultura organizativa",
+      "Socialización y refuerzo cultural",
+      "Cultura organizativa",
+      "Antecedente organizativo",
+      "C.8.5 / C.8.6",
+      "Medio",
+      "Mecanismos para transmitir, reforzar y vivir la cultura."
+    ],
+    [
+      "C.9.5",
+      "Diversidad, equidad e inclusión",
+      "Trato justo e inclusión",
+      "Cultura organizativa",
+      "Antecedente organizativo",
+      "B.4.4 / C.7.6",
+      "Medio",
+      "Equidad, representación y trato; no accesibilidad técnica."
+    ],
+    [
+      "D.10.1",
+      "Contribución a la misión de la empresa",
+      "Encaje con propósito y contribución",
+      "FIT persona-organización",
+      "Indicador de síntesis",
+      "C.9.1 / C.9.2",
+      "Alto",
+      "Percepción personal de contribuir a la misión."
+    ],
+    [
+      "D.10.2",
+      "Adecuación al puesto de trabajo",
+      "Ajuste persona-puesto",
+      "FIT persona-puesto",
+      "Indicador de síntesis",
+      "C.7.4 / C.7.5",
+      "Alto",
+      "Correspondencia capacidades-demandas; no condiciones o recursos."
+    ],
+    [
+      "D.10.3",
+      "Vocación profesional",
+      "Identidad y llamada profesional",
+      "FIT persona-profesión",
+      "Indicador de síntesis",
+      "A.3.5 / D.10.4",
+      "Medio",
+      "Conexión con la profesión, no solo satisfacción o carrera."
+    ],
+    [
+      "D.10.4",
+      "Desarrollo profesional",
+      "Encaje del itinerario de crecimiento",
+      "FIT persona-organización",
+      "Indicador de síntesis",
+      "A.2 / C.8.4",
+      "Alto",
+      "Compatibilidad del proyecto profesional personal con la empresa."
+    ],
+    [
+      "D.10.5",
+      "Intereses personales",
+      "Compatibilidad con intereses y preferencias",
+      "FIT persona-organización",
+      "Indicador de síntesis",
+      "A.3.1 / A.3.4",
+      "Alto",
+      "Ajuste de intereses personales, no valores ni metas generales."
+    ]
+  ],
+  "records": null
+}

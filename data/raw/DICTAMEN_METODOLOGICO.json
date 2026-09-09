@@ -1,0 +1,80 @@
+{
+  "sheet": "DICTAMEN_METODOLOGICO",
+  "dimensions": "A1:F9",
+  "header": null,
+  "rows_raw": [
+    [
+      "DICTAMEN METODOLÓGICO AUTOMÁTICO — FASE 2",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Control",
+      "Resultado",
+      "Criterio",
+      "Estado",
+      "Riesgo residual",
+      "Recomendación"
+    ],
+    [
+      "Normalización estructural",
+      "51/51 subfactores válidos",
+      "100 % de registros con código oficial",
+      "CUMPLE",
+      "Bajo",
+      "Mantener validación automática"
+    ],
+    [
+      "Preguntas huérfanas",
+      0,
+      "0 incidencias estructurales",
+      "CUMPLE",
+      "Bajo",
+      "Resolver incidencias antes del pilotaje"
+    ],
+    [
+      "Redundancias candidatas",
+      7,
+      "Revisión humana de similitud ≥ 0,78",
+      "REVISAR",
+      "Medio",
+      "Decidir mantener, fusionar o descartar"
+    ],
+    [
+      "Cobertura de subfactores",
+      "51/51 representados",
+      "Ningún subfactor sin ítems seleccionados",
+      "CUMPLE",
+      "Medio",
+      "Revisar los subfactores por debajo del objetivo"
+    ],
+    [
+      "Selección total",
+      97,
+      "Instrumento <100 preguntas",
+      "CUMPLE",
+      "Bajo",
+      "Mantener control de longitud"
+    ],
+    [
+      "Validación empírica",
+      "Pendiente",
+      "Fiabilidad, validez y análisis factorial",
+      "PENDIENTE",
+      "Alto",
+      "Ejecutar pilotaje y análisis psicométrico"
+    ]
+  ],
+  "records": null
+}

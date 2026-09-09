@@ -1,0 +1,49 @@
+{
+  "sheet": "C7.3_BANCO_CANDIDATO",
+  "dimensions": "A1:D7",
+  "header": [
+    "ID",
+    "Pregunta",
+    "Estado",
+    "Observaciones"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "ID": "WM-C07-Q213",
+      "Pregunta": "El espacio de trabajo mantiene unas condiciones adecuadas de temperatura durante la mayor parte de la jornada.",
+      "Estado": "Seleccionada",
+      "Observaciones": "Confort térmico"
+    },
+    {
+      "ID": "WM-C07-Q214",
+      "Pregunta": "La iluminación del puesto de trabajo facilita realizar mi trabajo con comodidad.",
+      "Estado": "Seleccionada",
+      "Observaciones": "Iluminación"
+    },
+    {
+      "ID": "WM-C07-Q215",
+      "Pregunta": "El nivel de ruido habitual permite concentrarme en mis tareas.",
+      "Estado": "Reserva",
+      "Observaciones": "Acústica"
+    },
+    {
+      "ID": "WM-C07-Q216",
+      "Pregunta": "La ventilación y calidad del aire son adecuadas.",
+      "Estado": "Seleccionada",
+      "Observaciones": "Calidad del aire"
+    },
+    {
+      "ID": "WM-C07-Q217",
+      "Pregunta": "Las instalaciones se mantienen limpias y en buen estado.",
+      "Estado": "Reserva",
+      "Observaciones": "Mantenimiento"
+    },
+    {
+      "ID": "WM-C07-Q218",
+      "Pregunta": "El entorno físico afecta negativamente a mi bienestar.",
+      "Estado": "Descartada",
+      "Observaciones": "Ítem demasiado general"
+    }
+  ]
+}

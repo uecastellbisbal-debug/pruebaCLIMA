@@ -1,0 +1,125 @@
+{
+  "sheet": "SELECCION_FINAL_95",
+  "dimensions": "A1:G13",
+  "header": null,
+  "rows_raw": [
+    [
+      "WellnessMETER · Selección final candidata de 95 preguntas · v6.27.0",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel",
+      "Factor/Subfactor",
+      "IDs / referencia",
+      "Nº",
+      "Uso",
+      "Estado",
+      "Observación"
+    ],
+    [
+      "A",
+      "A.1 Remuneración",
+      "Q001; Q007; Q009; Q018; Q026",
+      5,
+      "Escala reducida",
+      "Seleccionadas",
+      "Sin cambios"
+    ],
+    [
+      "A",
+      "A.2 Desarrollo",
+      "Q039; Q042; Q043; Q048; Q053; Q056; Q287; Q289",
+      8,
+      "Escala reducida",
+      "Seleccionadas",
+      "Corrección consolidada"
+    ],
+    [
+      "A",
+      "A.3 Plenitud",
+      "Q073; Q076; Q078; Q080; Q083; Q085; Q090; Q092; Q094; Q095; Q097; Q100",
+      12,
+      "Escala reducida",
+      "Seleccionadas",
+      "Sin cambios"
+    ],
+    [
+      "B",
+      "B.4 Dinámica",
+      "WM-B04-Q102; Q106; Q108; Q110; Q113; Q114; Q115; Q151",
+      8,
+      "Escalas/indicadores",
+      "Seleccionadas",
+      "Núcleo mínimo"
+    ],
+    [
+      "B",
+      "B.5 Ambiente",
+      "WM-B04-Q116",
+      1,
+      "Indicador",
+      "Seleccionada",
+      "Otros subfactores en reserva"
+    ],
+    [
+      "B",
+      "B.6 Reconocimiento",
+      "WM-B06-Q135; Q136; Q137; Q138",
+      4,
+      "Escalas breves",
+      "Seleccionadas",
+      "Claridad y voz"
+    ],
+    [
+      "C",
+      "C.7 Entorno",
+      "Q201; Q203; Q208; Q209; Q213; Q214; Q216; Q221; Q222; Q223; Q226; Q227; Q228; C7.6-S1; C7.6-S2; C7.6-S3",
+      16,
+      "Escalas/índices",
+      "Seleccionadas",
+      "C7.6 sin ID maestro"
+    ],
+    [
+      "C",
+      "C.8 Liderazgo",
+      "18 referencias seleccionadas tras optimización",
+      18,
+      "Escalas reducidas",
+      "Seleccionadas",
+      "4 ítems a reserva"
+    ],
+    [
+      "C",
+      "C.9 Cultura",
+      "Q270; Q271; Q276; Q277; Q278; Q282; Q288; Q289; Q294; Q295; Q296",
+      11,
+      "Escalas/indicadores",
+      "Seleccionadas",
+      "4 ítems a reserva"
+    ],
+    [
+      "D",
+      "D.10 FIT",
+      "Q300; Q301; Q302; Q306; Q307; Q308; Q312; Q313; Q314; Q318; Q319; Q324; Q325",
+      13,
+      "Escalas breves",
+      "Seleccionadas",
+      "2 ítems a reserva"
+    ]
+  ],
+  "records": null
+}

@@ -1,0 +1,19 @@
+{
+  "sheet": "D10.1_METODOLOGIA",
+  "dimensions": "A1:B3",
+  "header": [
+    "Subfactor",
+    "D.10.1 Contribución a la misión de la empresa"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Objetivo",
+      "D.10.1 Contribución a la misión de la empresa": "Evaluar el grado en que la persona percibe que su trabajo contribuye a la misión empresarial."
+    },
+    {
+      "Subfactor": "Estado",
+      "D.10.1 Contribución a la misión de la empresa": "M4"
+    }
+  ]
+}

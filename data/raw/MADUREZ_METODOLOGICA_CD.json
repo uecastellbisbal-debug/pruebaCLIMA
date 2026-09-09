@@ -1,0 +1,158 @@
+{
+  "sheet": "MADUREZ_METODOLOGICA_CD",
+  "dimensions": "A1:H15",
+  "header": null,
+  "rows_raw": [
+    [
+      "Madurez metodológica de los niveles C y D · v6.26.0",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel / factor",
+      "Arquitectura",
+      "Banco de ítems",
+      "Auditoría por subfactor",
+      "Auditoría transversal",
+      "Cierre metodológico",
+      "Validación empírica",
+      "Madurez"
+    ],
+    [
+      "C.7 Entorno de trabajo",
+      "Completa",
+      "Completo",
+      "Completa",
+      "Completa",
+      "Completo",
+      "Pendiente",
+      "M5"
+    ],
+    [
+      "C.8 Liderazgo",
+      "Completa",
+      "Completo",
+      "Completa",
+      "Completa con condiciones",
+      "Completo condicionado",
+      "Pendiente",
+      "M5"
+    ],
+    [
+      "C.9 Cultura",
+      "Completa",
+      "Completo",
+      "Completa",
+      "Completa con condición crítica",
+      "Completo condicionado",
+      "Pendiente",
+      "M5"
+    ],
+    [
+      "Nivel C",
+      "Completa",
+      "Completo",
+      "Completa",
+      "Completa",
+      "Completo condicionado",
+      "Pendiente",
+      "M5"
+    ],
+    [
+      "D.10 FIT",
+      "Completa",
+      "Completo",
+      "Completa",
+      "Completa con condiciones",
+      "Completo condicionado",
+      "Pendiente",
+      "M5"
+    ],
+    [
+      "Conjunto C–D",
+      "Completa",
+      "Completo",
+      "Completa",
+      "Completa",
+      "Cerrado metodológicamente",
+      "Pendiente",
+      "M5"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Escala de madurez",
+      "Definición",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "M4",
+      "Auditoría psicométrica teórica por subfactor completada.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "M5",
+      "Auditoría transversal y cierre metodológico teórico completados.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "M6",
+      "Validación empírica y versión final consolidada.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

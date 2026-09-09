@@ -1,0 +1,878 @@
+{
+  "sheet": "C7.2_METODOLOGIA",
+  "dimensions": "A1:H87",
+  "header": null,
+  "rows_raw": [
+    [
+      "C.7.2 Seguridad psicológica · Iteraciones metodológicas 1 y 2",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Base documental para el cierre metodológico del subfactor dentro del Factor C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Campo",
+      "Definición consolidada",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Código",
+      "C.7.2",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nombre",
+      "Seguridad psicológica",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Factor",
+      "C.7 Entorno de trabajo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel de análisis",
+      "Organización, con manifestación directa en equipos y relaciones de liderazgo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Percepción de que la organización y sus equipos permiten expresar ideas, dudas, desacuerdos, errores y necesidades sin temor a represalias, humillación, exclusión o consecuencias desproporcionadas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Objetivo específico",
+      "Evaluar hasta qué punto las personas pueden participar, preguntar, reconocer errores, discrepar y solicitar ayuda con confianza, manteniendo el respeto interpersonal y sin experimentar temor a consecuencias negativas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructo principal",
+      "Seguridad psicológica percibida",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Constructos secundarios",
+      "Libertad de expresión; seguridad para reconocer errores; posibilidad de pedir ayuda; respeto interpersonal; tolerancia al desacuerdo; inclusión en la participación; confianza frente a represalias.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Frontera conceptual",
+      "Mide la posibilidad de participar y mostrarse interpersonalmente vulnerable sin temor. No mide seguridad física, bienestar emocional clínico, satisfacción laboral general, ausencia de conflicto ni calidad global del liderazgo, aunque estos elementos puedan influir en el constructo.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Responsable principal",
+      "Organización / Liderazgo / RRHH",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza compartida",
+      "Alta dirección, responsables de equipo, RRHH, cultura, diversidad e inclusión, compliance y canales de escucha",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Alta: puede variar de forma apreciable tras cambios en las conductas de liderazgo, normas de interacción, respuesta a errores, mecanismos de escucha y protección frente a represalias.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Prioridad metodológica",
+      "Muy alta",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Periodicidad recomendada",
+      "Anual, con pulsos adicionales tras cambios de liderazgo, reorganizaciones, conflictos relevantes o intervenciones de cultura y comunicación.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dimensión",
+      "Qué evalúa",
+      "Ejemplos de evidencia",
+      "Inclusión",
+      "Exclusión / límite",
+      "Accionabilidad",
+      "Gobernanza",
+      "Prioridad"
+    ],
+    [
+      "Expresión de ideas y desacuerdo",
+      "Capacidad de plantear opiniones, propuestas o desacuerdos sin temor a consecuencias negativas.",
+      "Debates abiertos, aportación de alternativas, posibilidad de cuestionar decisiones con respeto.",
+      "Preguntas sobre voz, opinión y discrepancia.",
+      "Participación formal sin percepción de seguridad real.",
+      "Alta",
+      "Liderazgo / Equipo / Organización",
+      "Muy alta"
+    ],
+    [
+      "Reconocimiento de errores",
+      "Seguridad para admitir fallos, aprender de ellos y comunicar incidencias sin ocultación.",
+      "Revisión de errores sin culpabilización, aprendizaje compartido, comunicación temprana.",
+      "Preguntas sobre admitir errores o señalar problemas.",
+      "Tolerancia a negligencias o ausencia de responsabilidad.",
+      "Alta",
+      "Liderazgo / Organización",
+      "Muy alta"
+    ],
+    [
+      "Petición de ayuda y dudas",
+      "Posibilidad de pedir apoyo, aclarar dudas o reconocer desconocimiento sin ser juzgado.",
+      "Consultas, aprendizaje entre iguales, ayuda temprana, acompañamiento.",
+      "Preguntas sobre pedir ayuda o hacer preguntas.",
+      "Dependencia excesiva o falta de autonomía profesional.",
+      "Alta",
+      "Manager / Equipo",
+      "Alta"
+    ],
+    [
+      "Respeto e inclusión interpersonal",
+      "Percepción de trato digno, escucha y pertenencia en las interacciones laborales.",
+      "Turnos de palabra, ausencia de ridiculización, atención a voces minoritarias.",
+      "Preguntas sobre respeto al participar.",
+      "Diversidad demográfica o pertenencia general sin relación con la posibilidad de intervenir.",
+      "Alta",
+      "Organización / Liderazgo / Equipo",
+      "Alta"
+    ],
+    [
+      "Protección frente a represalias",
+      "Confianza en que plantear problemas, discrepar o comunicar riesgos no provocará castigos o exclusión.",
+      "Canales fiables, respuesta justa, ausencia de penalización informal.",
+      "Preguntas sobre temor a consecuencias negativas.",
+      "Cumplimiento legal o canal ético sin medir la vivencia interpersonal.",
+      "Alta",
+      "Organización / RRHH / Compliance",
+      "Muy alta"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterio",
+      "Regla de selección",
+      "Señales de calidad",
+      "Riesgo a evitar",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Claridad",
+      "Una idea principal, lenguaje interpersonal comprensible y referencia explícita a hablar, preguntar, discrepar, reconocer errores o pedir ayuda.",
+      "Situación reconocible y formulación directa.",
+      "Términos vagos como confianza, libertad o seguridad sin contexto.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Relevancia",
+      "Debe representar una manifestación central de seguridad psicológica.",
+      "Conecta con voz, error, ayuda, desacuerdo o represalias.",
+      "Preguntas generales de clima, satisfacción o liderazgo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Accionabilidad",
+      "El resultado debe orientar conductas, normas o sistemas concretos.",
+      "Permite identificar palancas de liderazgo, escucha, aprendizaje o protección.",
+      "Formulaciones abstractas sin responsable de intervención.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "No redundancia",
+      "Cada ítem debe aportar una manifestación distinta del constructo.",
+      "Diferencia voz, error, ayuda, respeto o represalias.",
+      "Repetir 'puedo expresarme' con cambios mínimos.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Universalidad",
+      "Debe ser respondible por la mayoría de la plantilla con independencia del puesto.",
+      "No depende de procesos, canales o situaciones excepcionales.",
+      "Exceso de especificidad en denuncias, conflictos o incidentes.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sensibilidad al cambio",
+      "Debe reflejar mejoras o deterioros tras intervenciones culturales o de liderazgo.",
+      "Relacionada con prácticas observables y recientes.",
+      "Rasgos personales estables o expectativas generales.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Clasificación",
+      "Criterio",
+      "Uso previsto",
+      "Revisión",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Seleccionada",
+      "Alta relevancia, claridad, universalidad, accionabilidad y valor incremental; representa una manifestación esencial del constructo.",
+      "Cuestionario reducido y banco completo.",
+      "Pilotaje, fiabilidad, estructura factorial y discriminación.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reserva",
+      "Ítem válido y útil, pero con redundancia parcial, menor universalidad o mayor dependencia del contexto.",
+      "Banco completo, módulos específicos o sustitución.",
+      "Tras pilotaje o según colectivo y contexto.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Descartada",
+      "Solapamiento elevado, formulación ambigua, baja accionabilidad o pertenencia a otro subfactor.",
+      "Mantener trazabilidad, no incorporar al cuestionario reducido.",
+      "Solo si cambia la arquitectura o la evidencia empírica.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Riesgo metodológico",
+      "Descripción",
+      "Mitigación",
+      "Control de auditoría",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Deseabilidad social",
+      "Las personas pueden responder según la cultura declarada o lo que consideran socialmente esperado.",
+      "Formular situaciones concretas y centradas en la experiencia real.",
+      "Comparar resultados con participación, rotación, conflictos y uso de canales de escucha.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Temor a identificabilidad",
+      "En colectivos pequeños puede existir miedo a que las respuestas sean reconocibles.",
+      "Garantizar anonimato, mínimos de reporte y comunicación transparente del tratamiento de datos.",
+      "Revisar tasas de respuesta, no respuesta y diferencias entre unidades.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Confusión con clima positivo",
+      "Un ambiente amable o sin conflicto puede confundirse con seguridad psicológica.",
+      "Incluir desacuerdo, error, duda y petición de ayuda, no solo respeto o cordialidad.",
+      "Auditar validez discriminante frente a ambiente laboral y liderazgo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Confusión con ausencia de responsabilidad",
+      "Aceptar errores puede interpretarse como eliminar exigencia, consecuencias o rendición de cuentas.",
+      "Diferenciar aprendizaje de errores de permisividad ante conductas negligentes.",
+      "Revisar redacción y correlación con claridad de objetivos y responsabilidad.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dependencia del liderazgo inmediato",
+      "La experiencia puede variar fuertemente entre equipos dentro de una misma organización.",
+      "Mantener nivel organizativo, pero segmentar por unidad cuando el anonimato lo permita.",
+      "Analizar variabilidad entre equipos y consistencia con indicadores de liderazgo.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Efecto de acontecimientos recientes",
+      "Un conflicto, reorganización o represalia reciente puede modificar temporalmente la percepción.",
+      "Registrar eventos relevantes y analizar la tendencia temporal.",
+      "Interpretar cambios junto con hitos organizativos.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Solapamiento con inclusión y pertenencia",
+      "El respeto, la voz y la aceptación pueden confundirse con inclusión o pertenencia.",
+      "Delimitar el foco en la posibilidad de intervenir sin temor.",
+      "Auditar frontera con B.4.4, B.5.1, B.5.5 y otros subfactores de C.7.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Indicador de auditoría",
+      "Criterio de aceptación",
+      "Estado iteración 1",
+      "Próximo paso",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Definición operativa",
+      "Definición específica, observable y delimitada frente a clima positivo, liderazgo e inclusión.",
+      "Cumplido",
+      "Validar con las preguntas candidatas.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Cobertura conceptual",
+      "Las cinco dimensiones quedan representadas en la arquitectura.",
+      "Cumplido a nivel de arquitectura",
+      "Asignar preguntas candidatas por dimensión.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gobernanza",
+      "Responsables y palancas de intervención identificados.",
+      "Cumplido",
+      "Vincular a plan, indicador y decisión.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Criterios de selección",
+      "Reglas explícitas para seleccionar, reservar o descartar.",
+      "Cumplido",
+      "Aplicar pregunta a pregunta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Sesgos y límites",
+      "Deseabilidad social, anonimato, solapamientos y acontecimientos recientes documentados.",
+      "Cumplido",
+      "Revisar en auditoría transversal C.7.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Trazabilidad",
+      "Subfactor enlazado con indicador, plan y decisión metodológica.",
+      "Cumplido en iteración 1",
+      "Completar banco candidato en iteración 2.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Madurez metodológica",
+      "M2 · Arquitectura definida.",
+      "M2",
+      "Pasar a M3 tras revisión pregunta a pregunta.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen de la iteración 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "La arquitectura metodológica de C.7.2 Seguridad psicológica queda definida y documentada. El subfactor no se considera todavía cerrado: la siguiente iteración debe identificar y revisar las preguntas candidatas, asignarlas a las dimensiones, clasificarlas como Seleccionadas, Reserva o Descartadas y completar los campos metodológicos correspondientes en WM-BQ.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Iteración 2 · Revisión y clasificación del banco candidato",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Resultado",
+      "Valor",
+      "Alcance",
+      "Criterio",
+      "Evidencia",
+      "Estado",
+      "Siguiente paso",
+      "Versión"
+    ],
+    [
+      "Banco candidato",
+      "6 preguntas",
+      "Q202 y Q208–Q212",
+      "Cobertura de las cinco dimensiones definidas",
+      "AUDITORIA_C7.2_ITER2",
+      "Cumplido",
+      "Auditoría psicométrica teórica",
+      "6.2.2"
+    ],
+    [
+      "Seleccionadas",
+      "2",
+      "Q208 y Q209",
+      "Voz/desacuerdo + reconocimiento de errores",
+      "WM-BQ",
+      "Cumplido",
+      "Revisar fiabilidad y discriminación",
+      "6.2.2"
+    ],
+    [
+      "Reserva",
+      "3",
+      "Q202, Q210 y Q211",
+      "Doble contenido, ayuda/dudas y represalias",
+      "WM-BQ",
+      "Cumplido",
+      "Definir sustituciones y uso modular",
+      "6.2.2"
+    ],
+    [
+      "Descartadas",
+      "1",
+      "Q212",
+      "Solapamiento con inclusión y ambiente laboral",
+      "WM-BQ",
+      "Cumplido",
+      "Mantener trazabilidad",
+      "6.2.2"
+    ],
+    [
+      "Madurez",
+      "M3",
+      "Banco candidato revisado",
+      "Criterios aplicados pregunta a pregunta",
+      "CONTROL_CALIDAD",
+      "En progreso",
+      "Avanzar a M4 tras auditoría psicométrica",
+      "6.2.2"
+    ],
+    [
+      "Frontera crítica",
+      "Controlada",
+      "Inclusión, liderazgo y clima positivo",
+      "Validez discriminante teórica",
+      "DM-C7-002",
+      "Cumplido",
+      "Comprobación transversal C.7",
+      "6.2.2"
+    ],
+    [
+      "Dictamen",
+      "Avance metodológico validado",
+      "C.7.2 todavía no cerrado",
+      "Pendiente consistencia transversal C.7",
+      "DM-C7-002",
+      "En progreso",
+      "Iteración 3",
+      "6.2.2"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Iteración 3 · Auditoría psicométrica teórica",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Resultado",
+      "Valor",
+      "Alcance",
+      "Criterio",
+      "Evidencia",
+      "Estado",
+      "Siguiente paso",
+      "Versión"
+    ],
+    [
+      "Escala reducida",
+      "2 preguntas",
+      "Q208 y Q209",
+      "Claridad, unidimensionalidad y complementariedad",
+      "AUDITORIA_PSICOMETRICA_C7.2",
+      "Cumplido",
+      "Comprobación transversal C.7",
+      "6.2.3"
+    ],
+    [
+      "Redacción revisada",
+      "Q209",
+      "Simplificación de consecuencias negativas",
+      "Reducir carga verbal y ambigüedad",
+      "WM-BQ",
+      "Cumplido",
+      "Validación cognitiva",
+      "6.2.3"
+    ],
+    [
+      "Reservas",
+      "3",
+      "Q202, Q210 y Q211",
+      "Cobertura ampliada y sustituciones",
+      "WM-BQ",
+      "Cumplido",
+      "Revisar tras pilotaje",
+      "6.2.3"
+    ],
+    [
+      "Validez discriminante",
+      "Provisionalmente adecuada",
+      "Fronteras con apoyo, comunicación, inclusión y compliance",
+      "Baja contaminación conceptual",
+      "AUDITORIA_PSICOMETRICA_C7.2",
+      "Cumplido",
+      "Auditoría transversal C.7",
+      "6.2.3"
+    ],
+    [
+      "Madurez",
+      "M4",
+      "Auditoría psicométrica teórica completada",
+      "No equivale a validación empírica",
+      "CONTROL_CALIDAD",
+      "Cumplido",
+      "Pilotaje",
+      "6.2.3"
+    ],
+    [
+      "Cierre del subfactor",
+      "Provisional",
+      "Apto para integración transversal",
+      "Escala breve defendible",
+      "DM-C7-002",
+      "Cumplido",
+      "Cerrar C.7 completo",
+      "6.2.3"
+    ],
+    [
+      "Dictamen",
+      "Avance validado",
+      "C.7.2 listo para revisión transversal",
+      "Pendiente datos reales",
+      "DM-C7-002",
+      "Cumplido",
+      "Iteración transversal",
+      "6.2.3"
+    ]
+  ],
+  "records": null
+}

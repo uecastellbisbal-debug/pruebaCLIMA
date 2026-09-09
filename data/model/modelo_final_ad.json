@@ -1,0 +1,76 @@
+{
+  "niveles": [
+    {
+      "nivel": "A",
+      "ambito": "Persona",
+      "factores": "A.1–A.3",
+      "subfactores": 13,
+      "preguntasFinales": 25,
+      "peso": 0.2631578947368421,
+      "unidadAnalisis": "Experiencia individual",
+      "criterioConsolidacion": "Mantener el núcleo individual; evitar confundir percepción personal con prácticas del equipo o de la organización."
+    },
+    {
+      "nivel": "B",
+      "ambito": "Equipo",
+      "factores": "B.4–B.6",
+      "subfactores": 15,
+      "preguntasFinales": 13,
+      "peso": 0.1368421052631579,
+      "unidadAnalisis": "Dinámica del equipo y jefatura directa",
+      "criterioConsolidacion": "Conservar el núcleo mínimo de funcionamiento colectivo; no reducir antes del pilotaje."
+    },
+    {
+      "nivel": "C",
+      "ambito": "Empresa",
+      "factores": "C.7–C.9",
+      "subfactores": 18,
+      "preguntasFinales": 44,
+      "peso": 0.4631578947368421,
+      "unidadAnalisis": "Sistemas, entorno y prácticas organizativas",
+      "criterioConsolidacion": "Aplicar la mayor reducción por redundancia, preservando seguridad, liderazgo y cultura."
+    },
+    {
+      "nivel": "D",
+      "ambito": "Propósito/FIT",
+      "factores": "D.10",
+      "subfactores": 5,
+      "preguntasFinales": 13,
+      "peso": 0.1368421052631579,
+      "unidadAnalisis": "Encaje persona–organización y propósito",
+      "criterioConsolidacion": "Separar encaje, vocación, metas, desarrollo e intereses; mantener control discriminante con A y C."
+    },
+    {
+      "nivel": "TOTAL",
+      "ambito": "WellnessMETER",
+      "factores": "10 factores",
+      "subfactores": 51,
+      "preguntasFinales": 95,
+      "peso": 1,
+      "unidadAnalisis": "Arquitectura multinivel",
+      "criterioConsolidacion": "Versión candidata consolidada para pilotaje; validación empírica todavía pendiente."
+    }
+  ],
+  "reglasInterpretacion": [
+    {
+      "id": "R1",
+      "regla": "No calcular una puntuación global única A–D antes de confirmar la estructura factorial."
+    },
+    {
+      "id": "R2",
+      "regla": "Reportar resultados por subfactor y nivel, con agregaciones superiores solo cuando el pilotaje las respalde."
+    },
+    {
+      "id": "R3",
+      "regla": "Mantener diferenciadas las fuentes de actuación: persona, responsable, RRHH y organización."
+    },
+    {
+      "id": "R4",
+      "regla": "No declarar validación psicométrica hasta completar AFE/ESEM, AFC, fiabilidad, HTMT e invariancia."
+    },
+    {
+      "id": "R5",
+      "regla": "La selección de 95 preguntas es candidata; cualquier reducción posterior debe basarse en datos empíricos."
+    }
+  ]
+}

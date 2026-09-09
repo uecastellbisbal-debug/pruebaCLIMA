@@ -1,0 +1,35 @@
+{
+  "sheet": "C8.3_METODOLOGIA",
+  "dimensions": "A1:B7",
+  "header": [
+    "Campo",
+    "Valor"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Campo": "Subfactor",
+      "Valor": "C.8.3 Apoyo y mentoría"
+    },
+    {
+      "Campo": "Objetivo",
+      "Valor": "Evaluar el apoyo del liderazgo al desarrollo de las personas"
+    },
+    {
+      "Campo": "Constructo",
+      "Valor": "Mentoría, acompañamiento y feedback"
+    },
+    {
+      "Campo": "Dimensiones",
+      "Valor": "Disponibilidad; Orientación; Desarrollo; Seguimiento; Confianza"
+    },
+    {
+      "Campo": "Estado",
+      "Valor": "M4"
+    },
+    {
+      "Campo": "Decision",
+      "Valor": "DM-C8-003"
+    }
+  ]
+}

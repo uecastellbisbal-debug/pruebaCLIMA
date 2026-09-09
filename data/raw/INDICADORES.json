@@ -1,0 +1,227 @@
+{
+  "sheet": "INDICADORES",
+  "dimensions": "A1:H22",
+  "header": [
+    "ID",
+    "Factor",
+    "Subdimensión",
+    "Nombre",
+    "Definición",
+    "Preguntas seleccionadas",
+    "Interpretación baja",
+    "Interpretación alta"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "ID": "IND-A1-SAL",
+      "Factor": "A",
+      "Subdimensión": "A.1.1",
+      "Nombre": "Percepción salarial",
+      "Definición": "Síntesis de equidad interna y competitividad externa del salario.",
+      "Preguntas seleccionadas": "WM-A01-Q001; WM-A01-Q007",
+      "Interpretación baja": "Posible inequidad, desalineación de mercado o falta de transparencia.",
+      "Interpretación alta": "Salario percibido como justo y competitivo."
+    },
+    {
+      "ID": "IND-A1-BEN",
+      "Factor": "A",
+      "Subdimensión": "A.1.2",
+      "Nombre": "Valor de beneficios",
+      "Definición": "Satisfacción global con el paquete de beneficios sociales.",
+      "Preguntas seleccionadas": "WM-A01-Q009",
+      "Interpretación baja": "Paquete poco valorado, insuficiente o mal comunicado.",
+      "Interpretación alta": "Beneficios valorados como parte útil de la compensación."
+    },
+    {
+      "ID": "IND-A1-REC",
+      "Factor": "A",
+      "Subdimensión": "A.1.3",
+      "Nombre": "Reconocimiento económico",
+      "Definición": "Percepción de reconocimiento mediante la remuneración.",
+      "Preguntas seleccionadas": "WM-A01-Q018",
+      "Interpretación baja": "La compensación no transmite valoración de la contribución.",
+      "Interpretación alta": "La remuneración funciona como señal de reconocimiento."
+    },
+    {
+      "ID": "IND-A1-CV",
+      "Factor": "A",
+      "Subdimensión": "A.1.4",
+      "Nombre": "Impacto económico en calidad de vida",
+      "Definición": "Contribución de la remuneración a la seguridad y estabilidad financiera.",
+      "Preguntas seleccionadas": "WM-A01-Q026",
+      "Interpretación baja": "Inseguridad financiera o insuficiencia percibida.",
+      "Interpretación alta": "La compensación aporta estabilidad y tranquilidad."
+    },
+    {
+      "ID": "IND-A2-FOR",
+      "Factor": "A",
+      "Subdimensión": "A.2.1",
+      "Nombre": "Calidad y accesibilidad de la formación",
+      "Definición": "Síntesis de calidad global, acceso, variedad e inversión formativa.",
+      "Preguntas seleccionadas": "WM-A02-Q039; WM-A02-Q042",
+      "Interpretación baja": "Oferta formativa insuficiente, poco accesible o de baja calidad.",
+      "Interpretación alta": "Formación valorada y compromiso sostenido con el desarrollo."
+    },
+    {
+      "ID": "IND-A2-REL",
+      "Factor": "A",
+      "Subdimensión": "A.2.2",
+      "Nombre": "Relevancia y transferencia de la formación",
+      "Definición": "Alineación con el puesto, actualización y efecto sobre el desempeño.",
+      "Preguntas seleccionadas": "WM-A02-Q043; WM-A02-Q048",
+      "Interpretación baja": "Formación poco conectada con el puesto o difícil de aplicar.",
+      "Interpretación alta": "Aprendizaje pertinente y transferido al trabajo."
+    },
+    {
+      "ID": "IND-A2-PRO",
+      "Factor": "A",
+      "Subdimensión": "A.2.3",
+      "Nombre": "Oportunidades de crecimiento y promoción",
+      "Definición": "Percepción de posibilidades, equidad y transparencia de carrera interna.",
+      "Preguntas seleccionadas": "WM-A02-Q053; WM-A02-Q056",
+      "Interpretación baja": "Carreras poco claras, limitadas o percibidas como inequitativas.",
+      "Interpretación alta": "Oportunidades visibles y procesos de promoción confiables."
+    },
+    {
+      "ID": "IND-A2-RET",
+      "Factor": "A",
+      "Subdimensión": "A.2.4",
+      "Nombre": "Retos, apoyo y recursos para el desarrollo",
+      "Definición": "Disponibilidad de feedback, acompañamiento y recursos para progresar.",
+      "Preguntas seleccionadas": "WM-A02-Q067; WM-A02-Q069",
+      "Interpretación baja": "Escaso apoyo, feedback o recursos para asumir retos.",
+      "Interpretación alta": "Desarrollo acompañado con orientación y recursos."
+    },
+    {
+      "ID": "IND-A3-MET",
+      "Factor": "A",
+      "Subdimensión": "A.3.1",
+      "Nombre": "Alcance y compatibilidad de metas personales",
+      "Definición": "Compatibilidad entre el trabajo y las metas personales, y progreso percibido hacia ellas.",
+      "Preguntas seleccionadas": "WM-A03-Q073; WM-A03-Q076",
+      "Interpretación baja": "El trabajo se percibe desconectado de las metas personales o no facilita su avance.",
+      "Interpretación alta": "El trabajo es compatible con las metas personales y favorece un progreso visible."
+    },
+    {
+      "ID": "IND-A3-PER",
+      "Factor": "A",
+      "Subdimensión": "A.3.2",
+      "Nombre": "Sentido de pertenencia",
+      "Definición": "Integración en la comunidad organizativa y orgullo de formar parte de la empresa.",
+      "Preguntas seleccionadas": "WM-A03-Q078; WM-A03-Q080",
+      "Interpretación baja": "Débil integración, escaso vínculo emocional o bajo orgullo de pertenencia.",
+      "Interpretación alta": "Fuerte sentimiento de comunidad, identificación afectiva y orgullo de pertenencia."
+    },
+    {
+      "ID": "IND-A3-MOT · Motivación, propósito y energía laboral",
+      "Factor": "A.3.3 Motivación laboral",
+      "Subdimensión": "Media de preguntas seleccionadas",
+      "Nombre": "1-10",
+      "Definición": "Trimestral/semestre",
+      "Preguntas seleccionadas": "RRHH / Manager",
+      "Interpretación baja": "3.4",
+      "Interpretación alta": "Activo"
+    },
+    {
+      "ID": "IND-A3-VAL · Alineación y coherencia con valores personales",
+      "Factor": "A.3.4 Alineación con valores personales",
+      "Subdimensión": "Media de preguntas seleccionadas",
+      "Nombre": "1-10",
+      "Definición": "Semestral",
+      "Preguntas seleccionadas": "Empresa / RRHH",
+      "Interpretación baja": "3.4",
+      "Interpretación alta": "Activo"
+    },
+    {
+      "ID": "IND-A3-REA · Sentimiento de realización personal y profesional",
+      "Factor": "A.3.5 Sentimiento de realización",
+      "Subdimensión": "Media de preguntas seleccionadas",
+      "Nombre": "1-10",
+      "Definición": "Semestral",
+      "Preguntas seleccionadas": "RRHH / Manager",
+      "Interpretación baja": "3.5",
+      "Interpretación alta": "Activo"
+    },
+    {
+      "ID": "IND-A2-RET · Desafío intelectual y aprendizaje en el trabajo",
+      "Factor": "A.2.4 Desafíos y retos",
+      "Subdimensión": "Media de WM-A02-Q287 y WM-A02-Q289",
+      "Nombre": "1-10",
+      "Definición": "Semestral",
+      "Preguntas seleccionadas": "Manager / RRHH",
+      "Interpretación baja": "3.6",
+      "Interpretación alta": "Activo"
+    },
+    {
+      "ID": "IND-B4-FLE",
+      "Factor": "B",
+      "Subdimensión": "B.4.1",
+      "Nombre": "Flexibilidad y previsibilidad laboral",
+      "Definición": "Capacidad de adaptar el horario y anticipar su organización dentro del equipo.",
+      "Preguntas seleccionadas": "WM-B04-Q102; WM-B04-Q106",
+      "Interpretación baja": "Rigidez, baja autonomía temporal o dificultades para planificar la vida personal.",
+      "Interpretación alta": "Flexibilidad práctica y horarios previsibles que permiten organizarse."
+    },
+    {
+      "ID": "IND-B4-CON",
+      "Factor": "B",
+      "Subdimensión": "B.4.2",
+      "Nombre": "Conciliación y apoyo del equipo",
+      "Definición": "Apoyo recibido y promoción colectiva del equilibrio entre trabajo y vida personal.",
+      "Preguntas seleccionadas": "WM-B04-Q108; WM-B04-Q110",
+      "Interpretación baja": "Escaso respaldo o cultura de equipo que dificulta compatibilizar responsabilidades.",
+      "Interpretación alta": "Equipo que respalda y promueve activamente la conciliación."
+    },
+    {
+      "ID": "IND-C7-SEG",
+      "Factor": "C",
+      "Subdimensión": "C.7.1",
+      "Nombre": "Índice de seguridad física",
+      "Definición": "Síntesis de la percepción de condiciones seguras, prevención, medios de protección y respuesta ante riesgos físicos.",
+      "Preguntas seleccionadas": "Pendiente de cierre en iteración 6.1.2",
+      "Interpretación baja": "Riesgos físicos percibidos, prevención insuficiente o baja confianza en la respuesta organizativa.",
+      "Interpretación alta": "Entorno percibido como seguro, preventivo y preparado para responder ante incidencias."
+    },
+    {
+      "ID": "IND-C7-PSI",
+      "Factor": "C",
+      "Subdimensión": "C.7.2",
+      "Nombre": "Índice de seguridad psicológica",
+      "Definición": "Síntesis de la posibilidad de expresar opiniones, reconocer errores, pedir ayuda y discrepar sin temor a consecuencias negativas.",
+      "Preguntas seleccionadas": "WM-C07-Q208; WM-C07-Q209",
+      "Interpretación baja": "Temor a hablar, ocultación de errores, baja participación o riesgo de represalias.",
+      "Interpretación alta": "Entorno donde las personas pueden participar, aprender y comunicar problemas con respeto y confianza."
+    },
+    {
+      "ID": "IND-C7-AMB",
+      "Factor": "C",
+      "Subdimensión": "C.7.3",
+      "Nombre": "Índice de ambiente físico saludable",
+      "Definición": "Síntesis de la calidad percibida del aire, el confort térmico, la iluminación, el ruido y la limpieza del entorno de trabajo.",
+      "Preguntas seleccionadas": "Pendiente de identificación y revisión en iteración 6.3.2",
+      "Interpretación baja": "Molestias ambientales frecuentes, exposición a condiciones poco saludables o baja capacidad de concentración y confort.",
+      "Interpretación alta": "Entorno limpio, ventilado, térmica y acústicamente adecuado, con iluminación saludable."
+    },
+    {
+      "ID": "IND-C7-CON",
+      "Factor": "C",
+      "Subdimensión": "C.7.4",
+      "Nombre": "Índice de condiciones idóneas del puesto",
+      "Definición": "Síntesis de la adecuación ergonómica, funcional y espacial percibida del puesto y del lugar de trabajo.",
+      "Preguntas seleccionadas": "WM-C07-Q221; WM-C07-Q222; WM-C07-Q223",
+      "Interpretación baja": "Puestos poco ergonómicos, mobiliario inadecuado, espacio insuficiente o baja adaptación a las tareas.",
+      "Interpretación alta": "Puesto y espacio cómodos, funcionales, ajustables y adecuados a las exigencias del trabajo."
+    },
+    {
+      "ID": "IND-C7-REC",
+      "Factor": "C",
+      "Subdimensión": "C.7.5",
+      "Nombre": "Índice de disponibilidad de recursos adecuados",
+      "Definición": "Síntesis de la disponibilidad, adecuación, fiabilidad, acceso y soporte percibidos de las herramientas, equipos, sistemas, materiales e información necesarios para trabajar.",
+      "Preguntas seleccionadas": "Pendiente de identificación y revisión en iteración 6.5.2",
+      "Interpretación baja": "Recursos insuficientes, inadecuados, poco fiables, desactualizados o inaccesibles que dificultan la ejecución del trabajo.",
+      "Interpretación alta": "Recursos suficientes, apropiados, operativos, actualizados y disponibles cuando se necesitan."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "sheet": "DICTAMEN_GLOBAL_AD",
+  "dimensions": "A1:F15",
+  "header": null,
+  "rows_raw": [
+    [
+      "Dictamen global WellnessMETER A–D · v6.27.0",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Elemento",
+      "Dictamen",
+      null,
+      "KPI",
+      "Valor",
+      "Resultado"
+    ],
+    [
+      "Arquitectura",
+      "Aprobada: cuatro niveles diferenciados y relacionados.",
+      null,
+      "Selección inicial",
+      105,
+      "Base v6.26.0"
+    ],
+    [
+      "Cobertura",
+      "Aprobada: se conservan factores y subfactores prioritarios.",
+      null,
+      "Selección final",
+      95,
+      "Objetivo alcanzado"
+    ],
+    [
+      "Longitud",
+      "Aprobada: 95 preguntas.",
+      null,
+      "Reducción",
+      10,
+      "9,5%"
+    ],
+    [
+      "Redundancia",
+      "Controlada mediante 10 desplazamientos a reserva.",
+      null,
+      "Niveles",
+      4,
+      "A–D"
+    ],
+    [
+      "Nivel A",
+      "25 preguntas.",
+      null,
+      "Subfactores auditados",
+      51,
+      "Cobertura global"
+    ],
+    [
+      "Nivel B",
+      "13 preguntas.",
+      null,
+      "Ítems a reserva",
+      10,
+      "Trazabilidad"
+    ],
+    [
+      "Nivel C",
+      "44 preguntas.",
+      null,
+      "Riesgos críticos",
+      2,
+      "Controlados"
+    ],
+    [
+      "Nivel D",
+      "13 preguntas.",
+      null,
+      "Próximo hito",
+      "v6.28.0",
+      "Pilotaje empírico"
+    ],
+    [
+      "Puntuación",
+      "Por subfactor; sin total global hasta validar.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Madurez",
+      "M5 global.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Validación",
+      "Pendiente: AFE/ESEM, AFC, HTMT, invariancia y validez incremental.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Dictamen final",
+      "APROBADO CON CONDICIONES como candidata de pilotaje de 95 preguntas.",
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

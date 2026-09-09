@@ -1,0 +1,27 @@
+{
+  "sheet": "RESUMEN_EJECUTIVO_FINAL",
+  "dimensions": "A1:B5",
+  "header": [
+    "Indicador",
+    "Valor"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Indicador": "Madurez",
+      "Valor": "M5"
+    },
+    {
+      "Indicador": "Preguntas",
+      "Valor": 95
+    },
+    {
+      "Indicador": "Subfactores",
+      "Valor": 41
+    },
+    {
+      "Indicador": "Estado",
+      "Valor": "Cierre metodológico"
+    }
+  ]
+}

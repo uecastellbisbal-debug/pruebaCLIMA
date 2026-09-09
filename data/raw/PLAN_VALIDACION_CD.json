@@ -1,0 +1,148 @@
+{
+  "sheet": "PLAN_VALIDACION_CD",
+  "dimensions": "A1:H14",
+  "header": null,
+  "rows_raw": [
+    [
+      "Plan de validación empírica C–D · Preparación para pilotaje",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Fase",
+      "Objetivo",
+      "Análisis",
+      "Criterio orientativo",
+      "Muestra/segmentación",
+      "Decisión asociada",
+      "Prioridad",
+      "Estado"
+    ],
+    [
+      "1. Calidad de datos",
+      "Comprobar respuesta y variabilidad",
+      "Omisiones, techo/suelo, tiempos, patrones rectilíneos",
+      "Omisiones bajas; sin techos extremos generalizados",
+      "Global y por modalidad",
+      "Depuración del pilotaje",
+      "Alta",
+      "Pendiente"
+    ],
+    [
+      "2. Análisis de ítems",
+      "Evaluar funcionamiento individual",
+      "Distribución, correlación ítem-total, discriminación",
+      "Correlación corregida suficiente y variabilidad útil",
+      "Por subfactor",
+      "Mantener/revisar/retirar",
+      "Alta",
+      "Pendiente"
+    ],
+    [
+      "3. Fiabilidad",
+      "Estimar consistencia",
+      "Omega total; alfa como referencia; Spearman-Brown en escalas de 2 ítems",
+      "Fiabilidad coherente con uso diagnóstico",
+      "Por subfactor",
+      "Revisar C.7.1/C.7.2",
+      "Alta",
+      "Pendiente"
+    ],
+    [
+      "4. Estructura exploratoria",
+      "Detectar estructura real",
+      "AFE policórica o ESEM; análisis paralelo",
+      "Número de factores interpretable",
+      "Muestra dividida si es suficiente",
+      "Ajustar arquitectura",
+      "Alta",
+      "Pendiente"
+    ],
+    [
+      "5. Confirmación",
+      "Contrastar modelo C–D",
+      "AFC: factores correlacionados, segundo orden y modelo estructural",
+      "Ajuste comparativo y ausencia de cargas problemáticas",
+      "Muestra de validación",
+      "Elegir modelo final",
+      "Alta",
+      "Pendiente"
+    ],
+    [
+      "6. Validez convergente",
+      "Comprobar coherencia interna",
+      "Cargas, AVE, omega",
+      "Cargas sustantivas y convergencia aceptable",
+      "Por factor",
+      "Consolidar constructos",
+      "Media-Alta",
+      "Pendiente"
+    ],
+    [
+      "7. Validez discriminante",
+      "Separar constructos próximos",
+      "HTMT, intervalos, cargas cruzadas, comparación de modelos",
+      "Especial vigilancia a pares críticos",
+      "Pares RD-CD-001 a 015",
+      "Fusionar/reformular/eliminar",
+      "Crítica",
+      "Pendiente"
+    ],
+    [
+      "8. Invariancia",
+      "Garantizar comparabilidad",
+      "Configural, métrica y escalar",
+      "Comparabilidad razonable",
+      "Sexo/género si procede, sede, modalidad, nivel, antigüedad",
+      "Definir comparaciones válidas",
+      "Alta",
+      "Pendiente"
+    ],
+    [
+      "9. Validez incremental",
+      "Justificar D.10",
+      "Regresiones/SEM sobre resultados de bienestar",
+      "D aporta información más allá de C",
+      "Global",
+      "Mantener FIT como nivel separado",
+      "Crítica",
+      "Pendiente"
+    ],
+    [
+      "10. Versión reducida",
+      "Optimizar longitud",
+      "Información, cargas, redundancia y cobertura",
+      "Mantener cobertura con menor carga",
+      "A–D completo",
+      "Selección final <100",
+      "Crítica",
+      "Pendiente"
+    ],
+    [
+      "11. Gobernanza",
+      "Documentar decisiones",
+      "Registro DM y trazabilidad de cambios",
+      "Cada retirada o cambio justificado",
+      "Comité metodológico",
+      "Versión validada",
+      "Alta",
+      "Pendiente"
+    ]
+  ],
+  "records": null
+}

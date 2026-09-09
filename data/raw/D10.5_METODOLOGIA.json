@@ -1,0 +1,23 @@
+{
+  "sheet": "D10.5_METODOLOGIA",
+  "dimensions": "A1:B4",
+  "header": [
+    "Subfactor",
+    "D.10.5. Intereses personales"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Objetivo",
+      "D.10.5. Intereses personales": "Evaluar el grado de alineación entre los intereses personales del empleado y la actividad desarrollada en la organización."
+    },
+    {
+      "Subfactor": "Decision",
+      "D.10.5. Intereses personales": "DM-D10-005"
+    },
+    {
+      "Subfactor": "Estado",
+      "D.10.5. Intereses personales": "M4"
+    }
+  ]
+}

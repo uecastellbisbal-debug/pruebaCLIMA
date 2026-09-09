@@ -1,0 +1,42 @@
+[
+  {
+    "codigo": "A",
+    "nombre": "Nivel Individual: la Persona",
+    "definicion": "Dimensiones del bienestar percibidas directamente por la persona y condicionadas por la experiencia laboral individual.",
+    "objetivo": "Evaluar cómo la experiencia individual, la compensación, el desarrollo y la plenitud personal influyen en el bienestar organizacional.",
+    "estado": "Cerrado metodológicamente",
+    "madurez": "M5",
+    "preguntasOriginales": 70,
+    "seleccionadas": 25
+  },
+  {
+    "codigo": "B",
+    "nombre": "Nivel de grupo: el Equipo",
+    "definicion": "Dimensiones del bienestar que emergen de las prácticas, relaciones y condiciones compartidas dentro del equipo.",
+    "objetivo": "Evaluar cómo la dinámica, el ambiente de trabajo y el reconocimiento dentro del equipo influyen en el bienestar.",
+    "estado": "Cerrado metodológicamente",
+    "madurez": "M5",
+    "preguntasOriginales": 12,
+    "seleccionadas": 13
+  },
+  {
+    "codigo": "C",
+    "nombre": "Nivel organizativo: la Empresa",
+    "definicion": "Dimensiones del bienestar vinculadas a condiciones, sistemas, liderazgo y cultura de la organización.",
+    "objetivo": "Evaluar cómo el entorno, el liderazgo y la cultura organizativa sostienen la seguridad, el bienestar y la experiencia laboral.",
+    "estado": "Cerrado metodológicamente",
+    "madurez": "M5",
+    "preguntasOriginales": 99,
+    "seleccionadas": 44
+  },
+  {
+    "codigo": "D",
+    "nombre": "Nivel de síntesis: FIT persona–organización",
+    "definicion": "Dimensiones de ajuste entre la persona, su puesto, su vocación, su desarrollo, sus intereses y el propósito organizativo.",
+    "objetivo": "Evaluar el grado de compatibilidad y encaje entre la persona y los distintos componentes de su experiencia profesional.",
+    "estado": "Cerrado metodológicamente",
+    "madurez": "M5",
+    "preguntasOriginales": 30,
+    "seleccionadas": 13
+  }
+]

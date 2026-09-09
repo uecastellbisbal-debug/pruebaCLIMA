@@ -1,0 +1,40 @@
+{
+  "sheet": "C8.4_METODOLOGIA",
+  "dimensions": "A1:B8",
+  "header": null,
+  "rows_raw": [
+    [
+      "C8.4_METODOLOGIA",
+      null
+    ],
+    [
+      "Subfactor",
+      "C.8.4 Fomento del desarrollo profesional"
+    ],
+    [
+      "Objetivo",
+      "Evaluar el apoyo del liderazgo al crecimiento profesional"
+    ],
+    [
+      "Dimensiones",
+      "Desarrollo, oportunidades, feedback, carrera"
+    ],
+    [
+      "Indicador",
+      "IND-C8-DES"
+    ],
+    [
+      "Plan",
+      "PA-C8-04"
+    ],
+    [
+      "Decision",
+      "DM-C8-004"
+    ],
+    [
+      "Estado",
+      "M4"
+    ]
+  ],
+  "records": null
+}

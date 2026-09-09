@@ -1,0 +1,82 @@
+{
+  "dictamenGlobal": [
+    {
+      "clave": "Estado",
+      "valor": "Conforme con observaciones"
+    },
+    {
+      "clave": "Conclusión",
+      "valor": "Preparado para pilotaje empírico"
+    },
+    {
+      "clave": "NC Mayores",
+      "valor": 0
+    },
+    {
+      "clave": "NC Menores",
+      "valor": 3
+    },
+    {
+      "clave": "Riesgos",
+      "valor": "Validación empírica pendiente"
+    },
+    {
+      "clave": "Recomendación",
+      "valor": "Iniciar v7.0 RC1"
+    }
+  ],
+  "resumenEjecutivo": [
+    {
+      "clave": "Madurez",
+      "valor": "M5"
+    },
+    {
+      "clave": "Preguntas",
+      "valor": 95
+    },
+    {
+      "clave": "Subfactores",
+      "valor": 41
+    },
+    {
+      "clave": "Estado",
+      "valor": "Cierre metodológico"
+    }
+  ],
+  "roadmapPilotaje": [
+    {
+      "clave": "Piloto",
+      "valor": "Muestra"
+    },
+    {
+      "clave": "Fiabilidad",
+      "valor": "Alpha"
+    },
+    {
+      "clave": "Validez",
+      "valor": "AFE/AFC"
+    },
+    {
+      "clave": "v7.0",
+      "valor": "Liberación"
+    }
+  ],
+  "checklistFinal": [
+    {
+      "clave": "Cobertura",
+      "valor": "Cumple"
+    },
+    {
+      "clave": "Trazabilidad",
+      "valor": "Cumple"
+    },
+    {
+      "clave": "Redundancias",
+      "valor": "Cumple con observaciones"
+    },
+    {
+      "clave": "Validación empírica",
+      "valor": "Pendiente"
+    }
+  ]
+}

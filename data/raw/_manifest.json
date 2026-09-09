@@ -1,0 +1,772 @@
+[
+  {
+    "sheet": "SPRINT_1",
+    "file": "SPRINT_1.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 5
+  },
+  {
+    "sheet": "README",
+    "file": "README.json",
+    "dimensions": "A1:K75",
+    "hasHeader": false,
+    "recordCount": 75
+  },
+  {
+    "sheet": "CATALOGOS",
+    "file": "CATALOGOS.json",
+    "dimensions": "A1:L7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "WM-BQ",
+    "file": "WM-BQ.json",
+    "dimensions": "A1:AT1030",
+    "hasHeader": true,
+    "recordCount": 278
+  },
+  {
+    "sheet": "FACTORES",
+    "file": "FACTORES.json",
+    "dimensions": "A1:K60",
+    "hasHeader": true,
+    "recordCount": 4
+  },
+  {
+    "sheet": "SUBFACTORES",
+    "file": "SUBFACTORES.json",
+    "dimensions": "A1:K60",
+    "hasHeader": true,
+    "recordCount": 41
+  },
+  {
+    "sheet": "CRITERIOS_METODOLOGICOS",
+    "file": "CRITERIOS_METODOLOGICOS.json",
+    "dimensions": "A1:D8",
+    "hasHeader": true,
+    "recordCount": 7
+  },
+  {
+    "sheet": "DECISIONES_DM",
+    "file": "DECISIONES_DM.json",
+    "dimensions": "A1:K68",
+    "hasHeader": true,
+    "recordCount": 49
+  },
+  {
+    "sheet": "INDICADORES",
+    "file": "INDICADORES.json",
+    "dimensions": "A1:H22",
+    "hasHeader": true,
+    "recordCount": 21
+  },
+  {
+    "sheet": "PLANES_ACCION",
+    "file": "PLANES_ACCION.json",
+    "dimensions": "A1:G22",
+    "hasHeader": true,
+    "recordCount": 21
+  },
+  {
+    "sheet": "DASHBOARD",
+    "file": "DASHBOARD.json",
+    "dimensions": "A1:J15",
+    "hasHeader": false,
+    "recordCount": 15
+  },
+  {
+    "sheet": "CONTROL_CALIDAD",
+    "file": "CONTROL_CALIDAD.json",
+    "dimensions": "A1:H88",
+    "hasHeader": false,
+    "recordCount": 88
+  },
+  {
+    "sheet": "COBERTURA",
+    "file": "COBERTURA.json",
+    "dimensions": "A1:H55",
+    "hasHeader": false,
+    "recordCount": 55
+  },
+  {
+    "sheet": "PROGRESO",
+    "file": "PROGRESO.json",
+    "dimensions": "A1:K66",
+    "hasHeader": false,
+    "recordCount": 66
+  },
+  {
+    "sheet": "ROADMAP_FACTOR_B",
+    "file": "ROADMAP_FACTOR_B.json",
+    "dimensions": "A1:C11",
+    "hasHeader": true,
+    "recordCount": 5
+  },
+  {
+    "sheet": "AUDITORIA_FACTOR_B",
+    "file": "AUDITORIA_FACTOR_B.json",
+    "dimensions": "A1:H45",
+    "hasHeader": false,
+    "recordCount": 45
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_B4",
+    "file": "AUDITORIA_PSICOMETRICA_B4.json",
+    "dimensions": "A1:M46",
+    "hasHeader": false,
+    "recordCount": 46
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_B5",
+    "file": "AUDITORIA_PSICOMETRICA_B5.json",
+    "dimensions": "A1:M31",
+    "hasHeader": false,
+    "recordCount": 31
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_B6",
+    "file": "AUDITORIA_PSICOMETRICA_B6.json",
+    "dimensions": "A1:J15",
+    "hasHeader": false,
+    "recordCount": 15
+  },
+  {
+    "sheet": "AUDITORIA_TRANSVERSAL_B",
+    "file": "AUDITORIA_TRANSVERSAL_B.json",
+    "dimensions": "A1:J59",
+    "hasHeader": false,
+    "recordCount": 56
+  },
+  {
+    "sheet": "ROADMAP_FACTOR_C",
+    "file": "ROADMAP_FACTOR_C.json",
+    "dimensions": "A1:C16",
+    "hasHeader": true,
+    "recordCount": 14
+  },
+  {
+    "sheet": "C7.1_METODOLOGIA",
+    "file": "C7.1_METODOLOGIA.json",
+    "dimensions": "A1:H71",
+    "hasHeader": false,
+    "recordCount": 71
+  },
+  {
+    "sheet": "AUDITORIA_C7.1_ITER2",
+    "file": "AUDITORIA_C7.1_ITER2.json",
+    "dimensions": "A1:K22",
+    "hasHeader": false,
+    "recordCount": 21
+  },
+  {
+    "sheet": "C7.2_METODOLOGIA",
+    "file": "C7.2_METODOLOGIA.json",
+    "dimensions": "A1:H87",
+    "hasHeader": false,
+    "recordCount": 87
+  },
+  {
+    "sheet": "AUDITORIA_C7.2_ITER2",
+    "file": "AUDITORIA_C7.2_ITER2.json",
+    "dimensions": "A1:K23",
+    "hasHeader": false,
+    "recordCount": 22
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C7.2",
+    "file": "AUDITORIA_PSICOMETRICA_C7.2.json",
+    "dimensions": "A1:M27",
+    "hasHeader": false,
+    "recordCount": 25
+  },
+  {
+    "sheet": "AUDITORIA_ESTRUCTURAL",
+    "file": "AUDITORIA_ESTRUCTURAL.json",
+    "dimensions": "A1:H16",
+    "hasHeader": false,
+    "recordCount": 14
+  },
+  {
+    "sheet": "C7.3_METODOLOGIA",
+    "file": "C7.3_METODOLOGIA.json",
+    "dimensions": "A1:H65",
+    "hasHeader": false,
+    "recordCount": 65
+  },
+  {
+    "sheet": "C7.3_BANCO_CANDIDATO",
+    "file": "C7.3_BANCO_CANDIDATO.json",
+    "dimensions": "A1:D7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C7.3",
+    "file": "AUDITORIA_PSICOMETRICA_C7.3.json",
+    "dimensions": "A1:M7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C7.4_METODOLOGIA",
+    "file": "C7.4_METODOLOGIA.json",
+    "dimensions": "A1:H65",
+    "hasHeader": false,
+    "recordCount": 65
+  },
+  {
+    "sheet": "C7.4_BANCO_CANDIDATO",
+    "file": "C7.4_BANCO_CANDIDATO.json",
+    "dimensions": "A1:K22",
+    "hasHeader": false,
+    "recordCount": 22
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C7.4",
+    "file": "AUDITORIA_PSICOMETRICA_C7.4.json",
+    "dimensions": "A1:M8",
+    "hasHeader": true,
+    "recordCount": 7
+  },
+  {
+    "sheet": "C7.5_METODOLOGIA",
+    "file": "C7.5_METODOLOGIA.json",
+    "dimensions": "A1:H65",
+    "hasHeader": false,
+    "recordCount": 65
+  },
+  {
+    "sheet": "C7.5_BANCO_CANDIDATO",
+    "file": "C7.5_BANCO_CANDIDATO.json",
+    "dimensions": "A1:E7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C7.5",
+    "file": "AUDITORIA_PSICOMETRICA_C7.5.json",
+    "dimensions": "A1:I6",
+    "hasHeader": true,
+    "recordCount": 5
+  },
+  {
+    "sheet": "C7.6_COMPLETO",
+    "file": "C7.6_COMPLETO.json",
+    "dimensions": "A1:B8",
+    "hasHeader": true,
+    "recordCount": 7
+  },
+  {
+    "sheet": "C8.1_COMPLETO",
+    "file": "C8.1_COMPLETO.json",
+    "dimensions": "A1:C24",
+    "hasHeader": false,
+    "recordCount": 24
+  },
+  {
+    "sheet": "C8.2_METODOLOGIA",
+    "file": "C8.2_METODOLOGIA.json",
+    "dimensions": "A1:B8",
+    "hasHeader": true,
+    "recordCount": 7
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C8.2",
+    "file": "AUDITORIA_PSICOMETRICA_C8.2.json",
+    "dimensions": "A1:G7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C8.3_METODOLOGIA",
+    "file": "C8.3_METODOLOGIA.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C8.3",
+    "file": "AUDITORIA_PSICOMETRICA_C8.3.json",
+    "dimensions": "A1:H7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C8.4_METODOLOGIA",
+    "file": "C8.4_METODOLOGIA.json",
+    "dimensions": "A1:B8",
+    "hasHeader": false,
+    "recordCount": 8
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C8.4",
+    "file": "AUDITORIA_PSICOMETRICA_C8.4.json",
+    "dimensions": "A1:C7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C8.5_METODOLOGIA",
+    "file": "C8.5_METODOLOGIA.json",
+    "dimensions": "A1:B4",
+    "hasHeader": true,
+    "recordCount": 3
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C8.5",
+    "file": "AUDITORIA_PSICOMETRICA_C8.5.json",
+    "dimensions": "A1:C7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C8.6_METODOLOGIA",
+    "file": "C8.6_METODOLOGIA.json",
+    "dimensions": "A1:B2",
+    "hasHeader": true,
+    "recordCount": 1
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C8.6",
+    "file": "AUDITORIA_PSICOMETRICA_C8.6.json",
+    "dimensions": "A1:C7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C8.7_METODOLOGIA",
+    "file": "C8.7_METODOLOGIA.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C8.7",
+    "file": "AUDITORIA_PSICOMETRICA_C8.7.json",
+    "dimensions": "A1:C7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C9.1_METODOLOGIA",
+    "file": "C9.1_METODOLOGIA.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C9.1",
+    "file": "AUDITORIA_PSICOMETRICA_C9.1.json",
+    "dimensions": "A1:C7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C9.2_METODOLOGIA",
+    "file": "C9.2_METODOLOGIA.json",
+    "dimensions": "A1:B5",
+    "hasHeader": false,
+    "recordCount": 5
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C9.2",
+    "file": "AUDITORIA_PSICOMETRICA_C9.2.json",
+    "dimensions": "A1:B8",
+    "hasHeader": false,
+    "recordCount": 8
+  },
+  {
+    "sheet": "C9.3_METODOLOGIA",
+    "file": "C9.3_METODOLOGIA.json",
+    "dimensions": "A1:B3",
+    "hasHeader": true,
+    "recordCount": 2
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C9.3",
+    "file": "AUDITORIA_PSICOMETRICA_C9.3.json",
+    "dimensions": "A1:C7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C9.4_METODOLOGIA",
+    "file": "C9.4_METODOLOGIA.json",
+    "dimensions": "A1:B8",
+    "hasHeader": false,
+    "recordCount": 8
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C9.4",
+    "file": "AUDITORIA_PSICOMETRICA_C9.4.json",
+    "dimensions": "A1:C7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "C9.5_METODOLOGIA",
+    "file": "C9.5_METODOLOGIA.json",
+    "dimensions": "A1:B3",
+    "hasHeader": true,
+    "recordCount": 2
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_C9.5",
+    "file": "AUDITORIA_PSICOMETRICA_C9.5.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "D10.1_METODOLOGIA",
+    "file": "D10.1_METODOLOGIA.json",
+    "dimensions": "A1:B3",
+    "hasHeader": true,
+    "recordCount": 2
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_D10.1",
+    "file": "AUDITORIA_PSICOMETRICA_D10.1.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "D10.3_METODOLOGIA",
+    "file": "D10.3_METODOLOGIA.json",
+    "dimensions": "A1:B5",
+    "hasHeader": true,
+    "recordCount": 4
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_D10.3",
+    "file": "AUDITORIA_PSICOMETRICA_D10.3.json",
+    "dimensions": "A1:B4",
+    "hasHeader": true,
+    "recordCount": 3
+  },
+  {
+    "sheet": "D10.4_METODOLOGIA",
+    "file": "D10.4_METODOLOGIA.json",
+    "dimensions": "A1:D2",
+    "hasHeader": true,
+    "recordCount": 1
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_D10.4",
+    "file": "AUDITORIA_PSICOMETRICA_D10.4.json",
+    "dimensions": "A1:B4",
+    "hasHeader": true,
+    "recordCount": 3
+  },
+  {
+    "sheet": "D10.5_METODOLOGIA",
+    "file": "D10.5_METODOLOGIA.json",
+    "dimensions": "A1:B4",
+    "hasHeader": true,
+    "recordCount": 3
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_D10.5",
+    "file": "AUDITORIA_PSICOMETRICA_D10.5.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "AUDITORIA_TRANSVERSAL_CD",
+    "file": "AUDITORIA_TRANSVERSAL_CD.json",
+    "dimensions": "A1:K60",
+    "hasHeader": false,
+    "recordCount": 16
+  },
+  {
+    "sheet": "MATRIZ_CONSTRUCTOS_CD",
+    "file": "MATRIZ_CONSTRUCTOS_CD.json",
+    "dimensions": "A1:H26",
+    "hasHeader": false,
+    "recordCount": 26
+  },
+  {
+    "sheet": "CHECKLIST_AUDITORIA_CD",
+    "file": "CHECKLIST_AUDITORIA_CD.json",
+    "dimensions": "A1:K60",
+    "hasHeader": false,
+    "recordCount": 13
+  },
+  {
+    "sheet": "ROADMAP_AUDITORIA_CD",
+    "file": "ROADMAP_AUDITORIA_CD.json",
+    "dimensions": "A1:K60",
+    "hasHeader": false,
+    "recordCount": 9
+  },
+  {
+    "sheet": "D10.2_METODOLOGIA",
+    "file": "D10.2_METODOLOGIA.json",
+    "dimensions": "A1:B9",
+    "hasHeader": false,
+    "recordCount": 9
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_D10.2",
+    "file": "AUDITORIA_PSICOMETRICA_D10.2.json",
+    "dimensions": "A1:F10",
+    "hasHeader": false,
+    "recordCount": 10
+  },
+  {
+    "sheet": "AUDITORIA_PSICOMETRICA_CD",
+    "file": "AUDITORIA_PSICOMETRICA_CD.json",
+    "dimensions": "A1:K27",
+    "hasHeader": false,
+    "recordCount": 27
+  },
+  {
+    "sheet": "MATRIZ_REDUNDANCIAS_CD",
+    "file": "MATRIZ_REDUNDANCIAS_CD.json",
+    "dimensions": "A1:J18",
+    "hasHeader": false,
+    "recordCount": 18
+  },
+  {
+    "sheet": "EQUILIBRIO_ITEMS_CD",
+    "file": "EQUILIBRIO_ITEMS_CD.json",
+    "dimensions": "A1:H9",
+    "hasHeader": false,
+    "recordCount": 9
+  },
+  {
+    "sheet": "PLAN_VALIDACION_CD",
+    "file": "PLAN_VALIDACION_CD.json",
+    "dimensions": "A1:H14",
+    "hasHeader": false,
+    "recordCount": 14
+  },
+  {
+    "sheet": "ACCIONES_CORRECTIVAS_CD",
+    "file": "ACCIONES_CORRECTIVAS_CD.json",
+    "dimensions": "A1:J18",
+    "hasHeader": false,
+    "recordCount": 18
+  },
+  {
+    "sheet": "DICTAMEN_FINAL_CD",
+    "file": "DICTAMEN_FINAL_CD.json",
+    "dimensions": "A1:J27",
+    "hasHeader": false,
+    "recordCount": 27
+  },
+  {
+    "sheet": "RESUMEN_EJECUTIVO_CD",
+    "file": "RESUMEN_EJECUTIVO_CD.json",
+    "dimensions": "A1:F17",
+    "hasHeader": false,
+    "recordCount": 17
+  },
+  {
+    "sheet": "MADUREZ_METODOLOGICA_CD",
+    "file": "MADUREZ_METODOLOGICA_CD.json",
+    "dimensions": "A1:H15",
+    "hasHeader": false,
+    "recordCount": 15
+  },
+  {
+    "sheet": "AUDITORIA_GLOBAL_AD",
+    "file": "AUDITORIA_GLOBAL_AD.json",
+    "dimensions": "A1:K17",
+    "hasHeader": false,
+    "recordCount": 17
+  },
+  {
+    "sheet": "MATRIZ_REDUNDANCIAS_GLOBAL",
+    "file": "MATRIZ_REDUNDANCIAS_GLOBAL.json",
+    "dimensions": "A1:J15",
+    "hasHeader": false,
+    "recordCount": 15
+  },
+  {
+    "sheet": "OPTIMIZACION_MENOS100",
+    "file": "OPTIMIZACION_MENOS100.json",
+    "dimensions": "A1:J22",
+    "hasHeader": false,
+    "recordCount": 22
+  },
+  {
+    "sheet": "SELECCION_FINAL_95",
+    "file": "SELECCION_FINAL_95.json",
+    "dimensions": "A1:G13",
+    "hasHeader": false,
+    "recordCount": 13
+  },
+  {
+    "sheet": "DICTAMEN_GLOBAL_AD",
+    "file": "DICTAMEN_GLOBAL_AD.json",
+    "dimensions": "A1:F15",
+    "hasHeader": false,
+    "recordCount": 15
+  },
+  {
+    "sheet": "MODELO_FINAL_AD",
+    "file": "MODELO_FINAL_AD.json",
+    "dimensions": "A1:H15",
+    "hasHeader": false,
+    "recordCount": 15
+  },
+  {
+    "sheet": "EQUILIBRIO_GLOBAL_AD",
+    "file": "EQUILIBRIO_GLOBAL_AD.json",
+    "dimensions": "A1:I15",
+    "hasHeader": false,
+    "recordCount": 15
+  },
+  {
+    "sheet": "GOBERNANZA_GLOBAL_AD",
+    "file": "GOBERNANZA_GLOBAL_AD.json",
+    "dimensions": "A1:H8",
+    "hasHeader": false,
+    "recordCount": 8
+  },
+  {
+    "sheet": "CONTROL_CONSOLIDACION_AD",
+    "file": "CONTROL_CONSOLIDACION_AD.json",
+    "dimensions": "A1:H11",
+    "hasHeader": false,
+    "recordCount": 11
+  },
+  {
+    "sheet": "DICTAMEN_GLOBAL",
+    "file": "DICTAMEN_GLOBAL.json",
+    "dimensions": "A1:B7",
+    "hasHeader": true,
+    "recordCount": 6
+  },
+  {
+    "sheet": "CHECKLIST_FINAL",
+    "file": "CHECKLIST_FINAL.json",
+    "dimensions": "A1:B5",
+    "hasHeader": true,
+    "recordCount": 4
+  },
+  {
+    "sheet": "RESUMEN_EJECUTIVO_FINAL",
+    "file": "RESUMEN_EJECUTIVO_FINAL.json",
+    "dimensions": "A1:B5",
+    "hasHeader": true,
+    "recordCount": 4
+  },
+  {
+    "sheet": "ROADMAP_PILOTAJE",
+    "file": "ROADMAP_PILOTAJE.json",
+    "dimensions": "A1:B5",
+    "hasHeader": true,
+    "recordCount": 4
+  },
+  {
+    "sheet": "RECONSTRUCCION_WM_BQ",
+    "file": "RECONSTRUCCION_WM_BQ.json",
+    "dimensions": "A1:F21",
+    "hasHeader": false,
+    "recordCount": 21
+  },
+  {
+    "sheet": "REVISION_COBERTURA_B",
+    "file": "REVISION_COBERTURA_B.json",
+    "dimensions": "A1:Z200",
+    "hasHeader": false,
+    "recordCount": 27
+  },
+  {
+    "sheet": "AUDITORIA_COBERTURA_51",
+    "file": "AUDITORIA_COBERTURA_51.json",
+    "dimensions": "A1:Z200",
+    "hasHeader": false,
+    "recordCount": 55
+  },
+  {
+    "sheet": "RESUMEN_COBERTURA_51",
+    "file": "RESUMEN_COBERTURA_51.json",
+    "dimensions": "A1:Z200",
+    "hasHeader": false,
+    "recordCount": 16
+  },
+  {
+    "sheet": "DICCIONARIO_SUBFACTORES",
+    "file": "DICCIONARIO_SUBFACTORES.json",
+    "dimensions": "A1:H52",
+    "hasHeader": true,
+    "recordCount": 51
+  },
+  {
+    "sheet": "VALIDACION_NORMALIZACION",
+    "file": "VALIDACION_NORMALIZACION.json",
+    "dimensions": "A1:F19",
+    "hasHeader": false,
+    "recordCount": 19
+  },
+  {
+    "sheet": "AUD_MET_COBERTURA",
+    "file": "AUD_MET_COBERTURA.json",
+    "dimensions": "A1:M54",
+    "hasHeader": false,
+    "recordCount": 54
+  },
+  {
+    "sheet": "AUD_MET_REDUNDANCIAS",
+    "file": "AUD_MET_REDUNDANCIAS.json",
+    "dimensions": "A1:I200",
+    "hasHeader": false,
+    "recordCount": 10
+  },
+  {
+    "sheet": "AUD_MET_INCONSISTENCIAS",
+    "file": "AUD_MET_INCONSISTENCIAS.json",
+    "dimensions": "A1:E4",
+    "hasHeader": false,
+    "recordCount": 4
+  },
+  {
+    "sheet": "ICM_GLOBAL_AUTO",
+    "file": "ICM_GLOBAL_AUTO.json",
+    "dimensions": "A1:H9",
+    "hasHeader": false,
+    "recordCount": 9
+  },
+  {
+    "sheet": "DICTAMEN_METODOLOGICO",
+    "file": "DICTAMEN_METODOLOGICO.json",
+    "dimensions": "A1:F9",
+    "hasHeader": false,
+    "recordCount": 9
+  },
+  {
+    "sheet": "DASHBOARD_AUDITORIA",
+    "file": "DASHBOARD_AUDITORIA.json",
+    "dimensions": "A1:F9",
+    "hasHeader": false,
+    "recordCount": 9
+  },
+  {
+    "sheet": "GOBERNANZA_WM_BQ",
+    "file": "GOBERNANZA_WM_BQ.json",
+    "dimensions": "A1:B9",
+    "hasHeader": true,
+    "recordCount": 8
+  },
+  {
+    "sheet": "REGLAS_GOBERNANZA",
+    "file": "REGLAS_GOBERNANZA.json",
+    "dimensions": "A1:A7",
+    "hasHeader": false,
+    "recordCount": 7
+  },
+  {
+    "sheet": "TRAZABILIDAD",
+    "file": "TRAZABILIDAD.json",
+    "dimensions": "A1:F2",
+    "hasHeader": true,
+    "recordCount": 1
+  }
+]

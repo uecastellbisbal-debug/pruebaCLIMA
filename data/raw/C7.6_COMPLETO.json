@@ -1,0 +1,39 @@
+{
+  "sheet": "C7.6_COMPLETO",
+  "dimensions": "A1:B8",
+  "header": [
+    "Subfactor",
+    "C.7.6 Accesibilidad"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Estado",
+      "C.7.6 Accesibilidad": "M4 Completo"
+    },
+    {
+      "Subfactor": "Definición",
+      "C.7.6 Accesibilidad": "Disponibilidad y facilidad de acceso físico, digital y organizativo a espacios, recursos y servicios para todas las personas."
+    },
+    {
+      "Subfactor": "Dimensiones",
+      "C.7.6 Accesibilidad": "Accesibilidad física; digital; comunicativa; organizativa; inclusión"
+    },
+    {
+      "Subfactor": "Preguntas seleccionadas",
+      "C.7.6 Accesibilidad": "1. Dispongo de los recursos y espacios accesibles que necesito.\n2. Las herramientas digitales son accesibles.\n3. Cuando necesito adaptaciones, la organización responde adecuadamente."
+    },
+    {
+      "Subfactor": "Banco candidato",
+      "C.7.6 Accesibilidad": "3 seleccionadas, 2 reserva, 2 descartadas"
+    },
+    {
+      "Subfactor": "Auditoría",
+      "C.7.6 Accesibilidad": "Claridad: Alta; Unidimensionalidad: Alta; Deseabilidad: Media; Discriminación: Alta; Redundancias: bajas"
+    },
+    {
+      "Subfactor": "Decisión",
+      "C.7.6 Accesibilidad": "Subfactor consolidado"
+    }
+  ]
+}

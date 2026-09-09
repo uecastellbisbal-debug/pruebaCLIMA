@@ -1,0 +1,158 @@
+{
+  "sheet": "MODELO_FINAL_AD",
+  "dimensions": "A1:H15",
+  "header": null,
+  "rows_raw": [
+    [
+      "WellnessMETER · Consolidación del modelo final A–D · v6.27.0-I3",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel",
+      "Ámbito",
+      "Factores",
+      "Subfactores",
+      "Preguntas finales",
+      "Peso",
+      "Unidad de análisis",
+      "Criterio de consolidación"
+    ],
+    [
+      "A",
+      "Persona",
+      "A.1–A.3",
+      13,
+      25,
+      0.2631578947368421,
+      "Experiencia individual",
+      "Mantener el núcleo individual; evitar confundir percepción personal con prácticas del equipo o de la organización."
+    ],
+    [
+      "B",
+      "Equipo",
+      "B.4–B.6",
+      15,
+      13,
+      0.1368421052631579,
+      "Dinámica del equipo y jefatura directa",
+      "Conservar el núcleo mínimo de funcionamiento colectivo; no reducir antes del pilotaje."
+    ],
+    [
+      "C",
+      "Empresa",
+      "C.7–C.9",
+      18,
+      44,
+      0.4631578947368421,
+      "Sistemas, entorno y prácticas organizativas",
+      "Aplicar la mayor reducción por redundancia, preservando seguridad, liderazgo y cultura."
+    ],
+    [
+      "D",
+      "Propósito/FIT",
+      "D.10",
+      5,
+      13,
+      0.1368421052631579,
+      "Encaje persona–organización y propósito",
+      "Separar encaje, vocación, metas, desarrollo e intereses; mantener control discriminante con A y C."
+    ],
+    [
+      "TOTAL",
+      "WellnessMETER",
+      "10 factores",
+      51,
+      95,
+      1,
+      "Arquitectura multinivel",
+      "Versión candidata consolidada para pilotaje; validación empírica todavía pendiente."
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reglas de interpretación y puntuación",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "R1",
+      "No calcular una puntuación global única A–D antes de confirmar la estructura factorial.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "R2",
+      "Reportar resultados por subfactor y nivel, con agregaciones superiores solo cuando el pilotaje las respalde.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "R3",
+      "Mantener diferenciadas las fuentes de actuación: persona, responsable, RRHH y organización.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "R4",
+      "No declarar validación psicométrica hasta completar AFE/ESEM, AFC, fiabilidad, HTMT e invariancia.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "R5",
+      "La selección de 95 preguntas es candidata; cualquier reducción posterior debe basarse en datos empíricos.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

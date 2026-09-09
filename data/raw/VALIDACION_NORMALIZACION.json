@@ -1,0 +1,160 @@
+{
+  "sheet": "VALIDACION_NORMALIZACION",
+  "dimensions": "A1:F19",
+  "header": null,
+  "rows_raw": [
+    [
+      "VALIDACIÓN DE LA NORMALIZACIÓN ESTRUCTURAL DEL WM-BQ",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Control",
+      "Resultado",
+      "Valor observado",
+      "Criterio",
+      "Estado",
+      "Observaciones"
+    ],
+    [
+      "Registros revisados",
+      "278",
+      "278",
+      "Todos los registros activos del WM-BQ",
+      "CUMPLE",
+      "Revisión completa de A–D"
+    ],
+    [
+      "Subfactores oficiales presentes",
+      "51",
+      "51",
+      "Coincidir con el diccionario maestro",
+      "CUMPLE",
+      "Cobertura estructural completa"
+    ],
+    [
+      "Registros sin subfactor",
+      "0",
+      "0",
+      "Ningún registro vacío",
+      "CUMPLE",
+      null
+    ],
+    [
+      "Códigos no válidos",
+      "0",
+      "0",
+      "Formato A.x.x–D.10.x",
+      "CUMPLE",
+      null
+    ],
+    [
+      "Coherencia Nivel–Subfactor",
+      "278/278",
+      "278/278",
+      "La letra del código coincide con la columna Factor/Nivel",
+      "CUMPLE",
+      null
+    ],
+    [
+      "Coherencia Factor–Subfactor",
+      "278/278",
+      "278/278",
+      "El prefijo del subfactor coincide con el factor metodológico",
+      "CUMPLE",
+      null
+    ],
+    [
+      "Columna Subfactor normalizada",
+      "Sí",
+      "H2:H279",
+      "Código + denominación oficial",
+      "CUMPLE",
+      "Sustituye la antigua agregación a nivel de factor"
+    ],
+    [
+      "Campos auxiliares incorporados",
+      "2",
+      "AS:AT",
+      "Código y nombre normalizados separados",
+      "CUMPLE",
+      "Facilitan filtros, tablas dinámicas y exportaciones"
+    ],
+    [
+      "Dictamen",
+      "APROBADO",
+      null,
+      "WM-BQ estructuralmente normalizado",
+      "CUMPLE",
+      "Pendiente únicamente validación empírica de la selección"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Nivel",
+      "Subfactores",
+      "Preguntas banco",
+      "Seleccionadas",
+      null,
+      null
+    ],
+    [
+      "A · Persona",
+      13,
+      105,
+      25,
+      null,
+      null
+    ],
+    [
+      "B · Equipo",
+      15,
+      35,
+      15,
+      null,
+      null
+    ],
+    [
+      "C · Empresa",
+      18,
+      108,
+      44,
+      null,
+      null
+    ],
+    [
+      "D · Propósito/FIT",
+      5,
+      30,
+      13,
+      null,
+      null
+    ],
+    [
+      "TOTAL",
+      51,
+      278,
+      97,
+      null,
+      null
+    ]
+  ],
+  "records": null
+}

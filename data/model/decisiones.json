@@ -1,0 +1,443 @@
+[
+  {
+    "id": "DM-A1-001",
+    "fecha": "2026-07-13",
+    "ambito": "A.1.1 Salario",
+    "decision": "Mantener dos preguntas en la versión reducida: equidad interna y competitividad externa.",
+    "justificacion": "Son los dos ejes salariales con mayor valor diagnóstico y accionabilidad.",
+    "impacto": "Q001 y Q007 seleccionadas; resto permanece en banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A1-002",
+    "fecha": "2026-07-13",
+    "ambito": "A.1.2 Beneficios Sociales",
+    "decision": "Mantener una pregunta global sobre satisfacción con el paquete de beneficios.",
+    "justificacion": "Evita depender de beneficios concretos y preserva comparabilidad entre organizaciones.",
+    "impacto": "Q009 seleccionada; preguntas específicas quedan en versión completa.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A1-003",
+    "fecha": "2026-07-13",
+    "ambito": "A.1.3 Reconocimiento Económico",
+    "decision": "Mantener una pregunta directa sobre reconocimiento a través de la remuneración.",
+    "justificacion": "Resume el constructo con menor redundancia que las formulaciones alternativas.",
+    "impacto": "Q018 seleccionada; Q019–Q025 quedan como alternativas.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A1-004",
+    "fecha": "2026-07-13",
+    "ambito": "A.1.4 Impacto Calidad de Vida",
+    "decision": "Mantener una pregunta sobre seguridad y estabilidad financiera.",
+    "justificacion": "Es el efecto más universal, interpretable y defendible de la remuneración sobre el bienestar.",
+    "impacto": "Q026 seleccionada; el resto aporta matices para la versión completa.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A1-005",
+    "fecha": "2026-07-13",
+    "ambito": "Factor A",
+    "decision": "Fijar cinco preguntas de A.1 Remuneración para la versión reducida.",
+    "justificacion": "Equilibra cobertura de las cuatro subdimensiones con el objetivo global de 80–95 preguntas.",
+    "impacto": "5 seleccionadas de 31 originales.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A2-001",
+    "fecha": "2026-07-14",
+    "ambito": "A.2.1 Formación de calidad",
+    "decision": "Seleccionar calidad global e inversión a largo plazo como síntesis del subfactor.",
+    "justificacion": "Cubren experiencia formativa y compromiso organizativo con mínima redundancia.",
+    "impacto": "Q039 y Q042 seleccionadas; resto permanece en banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A2-002",
+    "fecha": "2026-07-14",
+    "ambito": "A.2.2 Relevancia de la formación recibida",
+    "decision": "Seleccionar alineación con el puesto e impacto en la eficacia laboral.",
+    "justificacion": "Representan pertinencia y transferencia práctica de la formación.",
+    "impacto": "Q043 y Q048 seleccionadas; resto permanece en banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A2-003",
+    "fecha": "2026-07-14",
+    "ambito": "A.2.3 Oportunidades de promoción profesional",
+    "decision": "Seleccionar posibilidades de ascenso y transparencia/equidad de los procesos.",
+    "justificacion": "Son los ejes con mayor capacidad diagnóstica para carrera interna.",
+    "impacto": "Q053 y Q056 seleccionadas; resto permanece en banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A2-004",
+    "fecha": "2026-07-14",
+    "ambito": "A.2.4 Desafíos y retos",
+    "decision": "Seleccionar feedback constructivo y recursos de mentoría/acompñamiento.",
+    "justificacion": "Aportan orientación y apoyo concreto al desarrollo mediante retos.",
+    "impacto": "Q067 y Q069 seleccionadas; resto permanece en banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A2-005",
+    "fecha": "2026-07-14",
+    "ambito": "A.2 Desarrollo",
+    "decision": "Fijar ocho preguntas de A.2 para la versión reducida.",
+    "justificacion": "Equilibra cobertura de las cuatro subdimensiones con el límite global de 80–95 preguntas.",
+    "impacto": "8 seleccionadas de 39 originales.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A3-001",
+    "fecha": "2026-07-17",
+    "ambito": "A.3.1 Alcance de metas personales",
+    "decision": "Seleccionar compatibilidad del trabajo con las metas personales y progreso percibido hacia ellas.",
+    "justificacion": "Cubren la condición facilitadora y el resultado central del subfactor, con alta claridad y accionabilidad.",
+    "impacto": "Q073 y Q076 seleccionadas; resto permanece en banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A3-002",
+    "fecha": "2026-07-17",
+    "ambito": "A.3.2 Sentido de pertenencia a la empresa",
+    "decision": "Seleccionar pertenencia a la comunidad/cultura y orgullo de pertenencia.",
+    "justificacion": "Representan los componentes cognitivo-social y afectivo del sentido de pertenencia con mínima redundancia.",
+    "impacto": "Q078 y Q080 seleccionadas; resto permanece en banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-A3-003",
+    "fecha": "A.3.3 Motivación laboral",
+    "ambito": "Selección metodológica",
+    "decision": "Priorizar motivación intrínseca y propósito en la versión reducida.",
+    "justificacion": "WM-A03-Q083; WM-A03-Q085",
+    "impacto": "3.4",
+    "estado": "2026-07-17"
+  },
+  {
+    "id": "DM-A3-004",
+    "fecha": "A.3.4 Alineación con valores personales",
+    "ambito": "Selección metodológica",
+    "decision": "Priorizar congruencia observable, alineación ética y coherencia práctica con valores personales.",
+    "justificacion": "WM-A03-Q090; WM-A03-Q092; WM-A03-Q094",
+    "impacto": "3.4",
+    "estado": "2026-07-17"
+  },
+  {
+    "id": "DM-A3-005",
+    "fecha": "A.3.5 Sentimiento de realización",
+    "ambito": "Selección metodológica",
+    "decision": "Priorizar realización laboral global, orgullo por logros y realización personal-profesional integrada.",
+    "justificacion": "WM-A03-Q095; WM-A03-Q097; WM-A03-Q100",
+    "impacto": "3.5",
+    "estado": "2026-07-17"
+  },
+  {
+    "id": "DM-A2-004-CORR",
+    "fecha": "A.2.4 Desafíos y retos",
+    "ambito": "Corrección de auditoría",
+    "decision": "Desactivar Q065-Q070 por duplicidad/error de origen y cubrir el constructo mediante reclasificación metodológica de preguntas originales D.10.4, priorizando Q287 y Q289.",
+    "justificacion": "WM-A02-Q065–Q070; WM-A02-Q286–Q290",
+    "impacto": "3.6",
+    "estado": "2026-07-17"
+  },
+  {
+    "id": "DM-B4-001",
+    "fecha": "2026-07-17",
+    "ambito": "B.4.1 Flexibilidad laboral",
+    "decision": "Seleccionar adaptación efectiva del horario y previsibilidad/comunicación horaria.",
+    "justificacion": "Combinan autonomía temporal y capacidad de planificación, evitando depender de modalidades concretas como el trabajo remoto.",
+    "impacto": "Q102 y Q106 seleccionadas; resto permanece en el banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-B4-002",
+    "fecha": "2026-07-17",
+    "ambito": "B.4.2 Conciliación familiar/social",
+    "decision": "Seleccionar respaldo del equipo y promoción activa del equilibrio trabajo-vida.",
+    "justificacion": "Integran apoyo recibido y norma colectiva del equipo con alta universalidad y capacidad de actuación.",
+    "impacto": "Q108 y Q110 seleccionadas; resto permanece en el banco completo.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-B4-003",
+    "fecha": "2026-07-17",
+    "ambito": "B.4 Dinámica",
+    "decision": "Fijar cuatro preguntas para los dos primeros subfactores de B.4.",
+    "justificacion": "Proporciona cobertura equilibrada sin sobrecargar el cuestionario reducido.",
+    "impacto": "4 seleccionadas de 12 preguntas originales analizadas.",
+    "estado": "En desarrollo"
+  },
+  {
+    "id": "DM-C7-001",
+    "fecha": "2026-07-21",
+    "ambito": "C.7.1 Seguridad física",
+    "decision": "Seleccionar Q201 como medida global y Q203 como medida de detección/corrección de condiciones inseguras; mantener Q204–Q205 en reserva y descartar Q206–Q207.",
+    "justificacion": "La combinación seleccionada equilibra universalidad, claridad, cobertura conceptual y accionabilidad con mínima redundancia.",
+    "impacto": "2 seleccionadas de 6 candidatas; el subfactor avanza a M3 y queda pendiente de auditoría psicométrica y cierre transversal.",
+    "estado": "En desarrollo"
+  },
+  {
+    "id": "DM-C7-002",
+    "fecha": "2026-07-21",
+    "ambito": "C.7.2 Seguridad psicológica",
+    "decision": "Mantener Q208 y Q209 como escala breve seleccionada; simplificar Q209; conservar Q202, Q210 y Q211 como reservas y confirmar el descarte de Q212.",
+    "justificacion": "La pareja seleccionada representa dos manifestaciones nucleares y complementarias —voz/desacuerdo y reconocimiento de errores— con claridad, unidimensionalidad y baja redundancia teórica.",
+    "impacto": "C.7.2 alcanza M4 tras auditoría psicométrica teórica. Pendientes comprobación transversal C.7 y validación empírica.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-C7-003",
+    "fecha": "2026-07-22",
+    "ambito": "C.7.3 Ambiente físico saludable",
+    "decision": "Definir el subfactor mediante cinco dimensiones ambientales: aire/ventilación, confort térmico, iluminación, ruido y limpieza/mantenimiento.",
+    "justificacion": "Estas dimensiones cubren las condiciones físicas cotidianas con mayor impacto percibido en salud y confort, y permiten diferenciar el subfactor de seguridad física, ergonomía, recursos y accesibilidad.",
+    "impacto": "C.7.3 alcanza M2 y queda preparado para identificar, revisar y clasificar el banco candidato en la iteración 6.3.2.",
+    "estado": "En desarrollo"
+  },
+  {
+    "id": "C7.3 Iteración 2 completada - Banco candidato",
+    "fecha": null,
+    "ambito": null,
+    "decision": null,
+    "justificacion": null,
+    "impacto": null,
+    "estado": null
+  },
+  {
+    "id": "Actualización C7.3 M4 - Auditoría psicométrica",
+    "fecha": null,
+    "ambito": null,
+    "decision": null,
+    "justificacion": null,
+    "impacto": null,
+    "estado": null
+  },
+  {
+    "id": "DM-C7-004",
+    "fecha": "2026-07-22",
+    "ambito": "C.7.4 Condiciones idóneas en el lugar de trabajo",
+    "decision": "Definir el subfactor mediante cinco dimensiones: ergonomía del puesto, mobiliario cómodo y funcional, suficiencia y distribución del espacio, adaptación a la tarea y capacidad de ajuste.",
+    "justificacion": "La arquitectura separa la adecuación funcional y ergonómica de las condiciones ambientales (C.7.3), los recursos (C.7.5), la seguridad física (C.7.1) y la accesibilidad (C.7.6).",
+    "impacto": "C.7.4 alcanza M2 y queda preparado para recuperar y revisar las preguntas originales 194–198 en la iteración 6.4.2.",
+    "estado": "En desarrollo"
+  },
+  {
+    "id": "DM-C7-005",
+    "fecha": "2026-07-22",
+    "ambito": "C.7.4 Condiciones idóneas en el lugar de trabajo",
+    "decision": "Seleccionar Q221, Q222 y Q223; mantener Q224 y Q225 en reserva; descartar Q219 y Q220.",
+    "justificacion": "La selección cubre ergonomía, mobiliario y espacio con ítems específicos y accionables. Los dos descartes son globales y solapan con C.7.3; las reservas completan adaptación a la tarea y capacidad de ajuste.",
+    "impacto": "3 seleccionadas, 2 reservas y 2 descartadas. C.7.4 alcanza M3.",
+    "estado": "En desarrollo"
+  },
+  {
+    "id": "DM-C7-006",
+    "fecha": "2026-07-22",
+    "ambito": "C.7.4 Condiciones idóneas en el lugar de trabajo",
+    "decision": "Confirmar Q221, Q222 y Q223 como selección provisional; simplificar la redacción de Q221 y Q222; mantener Q224 como reserva prioritaria y Q225 como reserva condicionada; confirmar el descarte de Q219 y Q220.",
+    "justificacion": "La auditoría teórica confirma una escala breve con tres dimensiones complementarias —configuración/ergonomía, mobiliario funcional y suficiencia del espacio—, baja redundancia y alta accionabilidad. Las reservas amplían cobertura, pero requieren validación por colectivos y modalidad.",
+    "impacto": "C.7.4 alcanza M4 con 3 preguntas seleccionadas, 2 reservas y 2 descartadas. Pendientes validación empírica y revisión transversal con C.7.3, C.7.5 y C.7.6.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-C7-007",
+    "fecha": "2026-07-22",
+    "ambito": "C.7.5 Disponibilidad de recursos adecuados",
+    "decision": "Definir el subfactor mediante cinco dimensiones: suficiencia de herramientas/equipos/materiales, adecuación a las tareas, funcionamiento y fiabilidad, acceso oportuno a información y sistemas, y actualización/mantenimiento/soporte.",
+    "justificacion": "La arquitectura delimita los recursos de trabajo respecto a la ergonomía y configuración física del puesto (C.7.4), el ambiente saludable (C.7.3), la seguridad física (C.7.1), la accesibilidad (C.7.6) y la formación (A.2).",
+    "impacto": "C.7.5 alcanza M2 y queda preparado para recuperar, revisar y clasificar el banco candidato en la iteración 6.5.2.",
+    "estado": "En desarrollo"
+  },
+  {
+    "id": "DM-D10-001",
+    "fecha": "2026-07-22",
+    "ambito": "D.10.1 Contribución a la misión",
+    "decision": "Seleccionar Q300, Q301 y Q302; mantener Q303 y Q304 en reserva; descartar Q305.",
+    "justificacion": "La selección cubre contribución, sentido de propósito e impacto percibido con baja redundancia.",
+    "impacto": "3 seleccionadas, 2 reservas y 1 descartada.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-D10-002",
+    "fecha": "2026-07-22",
+    "ambito": "D.10.2 Adecuación al puesto de trabajo",
+    "decision": "Seleccionar Q306, Q307 y Q308; mantener Q309 y Q310 en reserva; descartar Q311.",
+    "justificacion": "La selección representa ajuste capacidades-demandas y preferencias-características, diferenciándolo de condiciones, recursos y satisfacción.",
+    "impacto": "3 seleccionadas, 2 reservas y 1 descartada. Hojas reconstruidas en v6.24.1.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-D10-003",
+    "fecha": "2026-07-22",
+    "ambito": "D.10.3 Vocación profesional",
+    "decision": "Seleccionar Q312, Q313 y Q314; mantener Q315 y Q316 en reserva; descartar Q317.",
+    "justificacion": "La selección cubre identidad profesional, vocación y conexión con la profesión.",
+    "impacto": "3 seleccionadas, 2 reservas y 1 descartada.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-D10-004",
+    "fecha": "2026-07-22",
+    "ambito": "D.10.4 Desarrollo profesional",
+    "decision": "Seleccionar Q318, Q319 y Q320; mantener Q321 y Q322 en reserva; descartar Q323.",
+    "justificacion": "La selección mide encaje del itinerario profesional y evita confundirlo con oportunidades ofrecidas por A.2/C.8.4.",
+    "impacto": "3 seleccionadas, 2 reservas y 1 descartada.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-D10-005",
+    "fecha": "2026-07-22",
+    "ambito": "D.10.5 Intereses personales",
+    "decision": "Seleccionar Q324, Q325 y Q326; mantener Q327 y Q328 en reserva; descartar Q329.",
+    "justificacion": "La selección cubre compatibilidad de intereses y preferencias con la experiencia laboral.",
+    "impacto": "3 seleccionadas, 2 reservas y 1 descartada.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-CD-EST-001",
+    "fecha": "2026-07-23",
+    "ambito": "Auditoría transversal C–D",
+    "decision": "Cerrar las no conformidades de integridad y trazabilidad detectadas en v6.24.0.",
+    "justificacion": "D.10.2 ha sido reconstruido y las hojas maestras principales se han sincronizado con la arquitectura C–D.",
+    "impacto": "Base estructural apta para iniciar la auditoría psicométrica transversal.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-CD-PSI-001",
+    "fecha": "2026-07-23",
+    "ambito": "Auditoría psicométrica transversal C–D",
+    "decision": "Aprobar teóricamente la estructura C–D para pilotaje condicionado, manteniendo control reforzado sobre pertenencia, desarrollo profesional, liderazgo general y FIT.",
+    "justificacion": "La revisión confirma cobertura y estructura suficiente, pero detecta redundancias críticas y pares de alta proximidad que deben contrastarse empíricamente.",
+    "impacto": "Se incorporan matriz de redundancias, equilibrio de 67 ítems seleccionados y plan AFE/AFC/HTMT/invariancia.",
+    "estado": "Cierre provisional"
+  },
+  {
+    "id": "DM-CD-CIE-001",
+    "fecha": "2026-07-23",
+    "ambito": "Cierre metodológico C–D",
+    "decision": "Aprobar el cierre metodológico teórico de los 23 subfactores de C y D en madurez M5.",
+    "justificacion": "La arquitectura, cobertura, delimitación y riesgos han sido revisados transversalmente y disponen de acciones correctivas explícitas.",
+    "impacto": "C y D quedan aptos para auditoría global y pilotaje condicionado.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-CD-CIE-002",
+    "fecha": "2026-07-23",
+    "ambito": "Riesgos críticos C–D",
+    "decision": "Mantener C.8.4 y D.10.4 como constructos separados, y transferir la depuración definitiva de C.9.3 a la auditoría global A–D.",
+    "justificacion": "La separación es conceptualmente defendible, pero requiere evidencia discriminante y eliminación de formulaciones equivalentes.",
+    "impacto": "Dos riesgos críticos permanecen controlados, no resueltos empíricamente.",
+    "estado": "Cierre condicionado"
+  },
+  {
+    "id": "DM-CD-CIE-003",
+    "fecha": "2026-07-23",
+    "ambito": "Gobernanza psicométrica",
+    "decision": "No autorizar puntuaciones globales simples de C o D ni declarar validación psicométrica sin datos de pilotaje.",
+    "justificacion": "La estructura superior y la validez discriminante deben confirmarse mediante AFE/ESEM, AFC, HTMT, invariancia y validez incremental.",
+    "impacto": "Evita sobreinterpretación y preserva rigor metodológico.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-AD-CON-001",
+    "fecha": "2026-07-23",
+    "ambito": "Consolidación global A–D",
+    "decision": "Aprobar 95 preguntas como versión candidata consolidada para pilotaje condicionado.",
+    "justificacion": "La selección cumple el límite operativo, conserva cobertura multinivel y formaliza riesgos residuales.",
+    "impacto": "Modelo final A–D consolidado.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "DM-AD-CON-002",
+    "fecha": "2026-07-23",
+    "ambito": "Equilibrio del instrumento",
+    "decision": "Mantener la distribución 25/13/44/13 hasta disponer de evidencia empírica.",
+    "justificacion": "Reducir B o D aumentaría el riesgo de infrarrepresentación; C concentra la mayor amplitud conceptual.",
+    "impacto": "Equilibrio aprobado condicionado.",
+    "estado": "Cierre condicionado"
+  },
+  {
+    "id": "DM-AD-CON-003",
+    "fecha": "2026-07-23",
+    "ambito": "Gobernanza y scoring",
+    "decision": "Prohibir un índice global A–D y cambios de ítems sin validación, control de versión y trazabilidad.",
+    "justificacion": "La multidimensionalidad y validez discriminante siguen pendientes de confirmación.",
+    "impacto": "Protección frente a sobreinterpretación.",
+    "estado": "Cerrada"
+  },
+  {
+    "id": "v6.27.0-I4",
+    "fecha": "Dictamen final",
+    "ambito": null,
+    "decision": null,
+    "justificacion": null,
+    "impacto": null,
+    "estado": null
+  },
+  {
+    "id": "DM-GLOB-028",
+    "fecha": "2026-07-23",
+    "ambito": "Global",
+    "decision": "Reconstruir WM-BQ como fuente única de verdad",
+    "justificacion": "Aprobada",
+    "impacto": "Se incorporan 119 registros ausentes y se sincroniza la selección <100.",
+    "estado": "v6.28.0"
+  },
+  {
+    "id": "DM-GLOB-029",
+    "fecha": "2026-07-23",
+    "ambito": "Global",
+    "decision": "Fijar la versión candidata en 95 preguntas",
+    "justificacion": "Aprobada",
+    "impacto": "Distribución: A25, B13, C44, D13.",
+    "estado": "v6.28.0"
+  },
+  {
+    "id": "DM-C8-028",
+    "fecha": "2026-07-23",
+    "ambito": "C.8 Liderazgo",
+    "decision": "Resolver colisiones de IDs C.8.1/C.8.2",
+    "justificacion": "Aprobada",
+    "impacto": "C.8.2 utiliza identificadores canónicos TRF; C.8.1 conserva Q232–Q236.",
+    "estado": "v6.28.0"
+  },
+  {
+    "id": "DM-C7-028",
+    "fecha": "2026-07-23",
+    "ambito": "C.7.6 Accesibilidad",
+    "decision": "Crear IDs maestros",
+    "justificacion": "Aprobada",
+    "impacto": "Se crean IDs ACC para accesibilidad física, digital e informacional.",
+    "estado": "v6.28.0"
+  },
+  {
+    "id": "DM-AD-COB-001",
+    "fecha": "2026-07-24",
+    "ambito": "Cobertura Nivel B",
+    "decision": "Elevar B de 13 a 15 ítems, uno por subfactor, manteniendo el total global en 97.",
+    "justificacion": "Evitar subfactores activos sin medida directa.",
+    "impacto": "Aprobada",
+    "estado": "v6.29.0"
+  },
+  {
+    "id": "DM-AD-COB-002",
+    "fecha": "2026-07-24",
+    "ambito": "Interpretación psicométrica",
+    "decision": "Tratar los subfactores de un solo ítem como indicadores simples, no como escalas con fiabilidad interna.",
+    "justificacion": "La cobertura estructural no equivale a validación psicométrica.",
+    "impacto": "Aprobada",
+    "estado": "v6.29.0"
+  },
+  {
+    "id": "DM-AD-COB-003",
+    "fecha": "2026-07-24",
+    "ambito": "Pilotaje",
+    "decision": "Usar la auditoría ICM para priorizar recuperación de ítems de reserva tras analizar cargas, omega/alfa, HTMT e invariancia.",
+    "justificacion": "Optimizar con evidencia empírica sin superar 100 ítems salvo justificación.",
+    "impacto": "Aprobada",
+    "estado": "v6.29.0"
+  }
+]

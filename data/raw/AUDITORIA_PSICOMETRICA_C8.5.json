@@ -1,0 +1,42 @@
+{
+  "sheet": "AUDITORIA_PSICOMETRICA_C8.5",
+  "dimensions": "A1:C7",
+  "header": [
+    "Pregunta",
+    "Estado",
+    "Observación"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Pregunta": "Q252",
+      "Estado": "Seleccionada",
+      "Observación": "Comunicación clara"
+    },
+    {
+      "Pregunta": "Q253",
+      "Estado": "Seleccionada",
+      "Observación": "Feedback bidireccional"
+    },
+    {
+      "Pregunta": "Q254",
+      "Estado": "Reserva v6.27.0",
+      "Observación": "Información oportuna"
+    },
+    {
+      "Pregunta": "Q255",
+      "Estado": "Reserva",
+      "Observación": "Canales"
+    },
+    {
+      "Pregunta": "Q256",
+      "Estado": "Reserva",
+      "Observación": "Consistencia"
+    },
+    {
+      "Pregunta": "Q257",
+      "Estado": "Descartada",
+      "Observación": "Redundante"
+    }
+  ]
+}

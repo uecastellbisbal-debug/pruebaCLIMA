@@ -1,0 +1,128 @@
+{
+  "sheet": "C8.1_COMPLETO",
+  "dimensions": "A1:C24",
+  "header": null,
+  "rows_raw": [
+    [
+      "C.8.1 MODELO DE LIDERAZGO - SUBFACTOR COMPLETO",
+      null,
+      null
+    ],
+    [
+      "Estado",
+      "M4",
+      null
+    ],
+    [
+      "Constructo",
+      "Modelo de liderazgo percibido",
+      null
+    ],
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      "Arquitectura metodológica",
+      null,
+      null
+    ],
+    [
+      "Dimensiones",
+      "Ejemplaridad; Dirección; Confianza; Desarrollo; Coherencia",
+      null
+    ],
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      "Banco candidato",
+      null,
+      null
+    ],
+    [
+      "ID",
+      "Pregunta",
+      "Estado"
+    ],
+    [
+      "WM-C08-Q232",
+      "Mi responsable actúa como ejemplo de los valores de la organización.",
+      "Seleccionada"
+    ],
+    [
+      "WM-C08-Q233",
+      "Mi responsable comunica una dirección clara para el equipo.",
+      "Seleccionada"
+    ],
+    [
+      "WM-C08-Q234",
+      "Confío en las decisiones de mi responsable.",
+      "Reserva v6.27.0"
+    ],
+    [
+      "WM-C08-Q235",
+      "Mi responsable favorece mi desarrollo profesional.",
+      "Reserva"
+    ],
+    [
+      "WM-C08-Q236",
+      "El estilo de liderazgo dificulta nuestro trabajo.",
+      "Descartada"
+    ],
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      "Auditoría psicométrica",
+      null,
+      null
+    ],
+    [
+      "Criterio",
+      "Resultado",
+      null
+    ],
+    [
+      "Claridad",
+      "Alta",
+      null
+    ],
+    [
+      "Unidimensionalidad",
+      "Adecuada",
+      null
+    ],
+    [
+      "Deseabilidad social",
+      "Media",
+      null
+    ],
+    [
+      "Capacidad discriminativa",
+      "Alta",
+      null
+    ],
+    [
+      "Accionabilidad",
+      "Alta",
+      null
+    ],
+    [
+      "Redundancias",
+      "No relevantes",
+      null
+    ],
+    [
+      "Decisión metodológica",
+      "DM-C8-001",
+      null
+    ]
+  ],
+  "records": null
+}

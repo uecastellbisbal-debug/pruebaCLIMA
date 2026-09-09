@@ -1,0 +1,55 @@
+{
+  "sheet": "CRITERIOS_METODOLOGICOS",
+  "dimensions": "A1:D8",
+  "header": [
+    "Criterio",
+    "Definición",
+    "Escala",
+    "Uso en Factor A"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Criterio": "Claridad",
+      "Definición": "La pregunta admite una interpretación principal y un lenguaje comprensible.",
+      "Escala": "Alta / Media / Baja",
+      "Uso en Factor A": "Prioriza formulaciones directas y universales."
+    },
+    {
+      "Criterio": "Relevancia",
+      "Definición": "El contenido representa una dimensión importante del bienestar organizacional.",
+      "Escala": "Alta / Media / Baja",
+      "Uso en Factor A": "Determina el valor sustantivo de la pregunta."
+    },
+    {
+      "Criterio": "Accionabilidad",
+      "Definición": "El resultado puede traducirse en decisiones o actuaciones identificables.",
+      "Escala": "Alta / Media / Baja",
+      "Uso en Factor A": "Favorece preguntas sobre políticas y prácticas modificables."
+    },
+    {
+      "Criterio": "No redundancia",
+      "Definición": "La pregunta aporta información incremental respecto a otras.",
+      "Escala": "Alta / Media / Baja",
+      "Uso en Factor A": "Reduce solapamientos en la versión <100."
+    },
+    {
+      "Criterio": "Sensibilidad al cambio",
+      "Definición": "La percepción puede variar tras intervenciones organizativas.",
+      "Escala": "Alta / Media / Baja",
+      "Uso en Factor A": "Distingue efectos rápidos de condicionantes estructurales."
+    },
+    {
+      "Criterio": "Prioridad",
+      "Definición": "Valor relativo para formar parte del cuestionario reducido.",
+      "Escala": "Alta / Media / Baja",
+      "Uso en Factor A": "Alta para las cinco preguntas seleccionadas."
+    },
+    {
+      "Criterio": "Madurez",
+      "Definición": "Grado de desarrollo documental y metodológico.",
+      "Escala": "M0–M5",
+      "Uso en Factor A": "Factor A cerrado en M3 · Revisada."
+    }
+  ]
+}

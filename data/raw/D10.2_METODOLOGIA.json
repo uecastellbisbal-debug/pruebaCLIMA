@@ -1,0 +1,44 @@
+{
+  "sheet": "D10.2_METODOLOGIA",
+  "dimensions": "A1:B9",
+  "header": null,
+  "rows_raw": [
+    [
+      "D.10.2 · Adecuación al puesto de trabajo — Metodología consolidada",
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Campo",
+      "Valor"
+    ],
+    [
+      "Subfactor",
+      "D.10.2 Adecuación al puesto de trabajo"
+    ],
+    [
+      "Objetivo",
+      "Evaluar el ajuste percibido entre las capacidades, conocimientos y preferencias de la persona y las demandas reales de su puesto."
+    ],
+    [
+      "Constructo nuclear",
+      "Ajuste persona–puesto (person–job fit): correspondencia entre capacidades y demandas, y entre necesidades/preferencias y características del trabajo."
+    ],
+    [
+      "Frontera conceptual",
+      "Mide compatibilidad personal con el puesto; no las condiciones físicas, los recursos disponibles ni la satisfacción general."
+    ],
+    [
+      "Decisión metodológica",
+      "DM-D10-002"
+    ],
+    [
+      "Estado",
+      "M4 · Auditoría psicométrica teórica completada"
+    ]
+  ],
+  "records": null
+}

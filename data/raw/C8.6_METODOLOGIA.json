@@ -1,0 +1,15 @@
+{
+  "sheet": "C8.6_METODOLOGIA",
+  "dimensions": "A1:B2",
+  "header": [
+    "Subfactor",
+    "C.8.6 Resolución de conflictos"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Subfactor": "Estado",
+      "C.8.6 Resolución de conflictos": "M4"
+    }
+  ]
+}

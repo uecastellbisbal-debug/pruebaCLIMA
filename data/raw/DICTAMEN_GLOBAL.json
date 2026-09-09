@@ -1,0 +1,35 @@
+{
+  "sheet": "DICTAMEN_GLOBAL",
+  "dimensions": "A1:B7",
+  "header": [
+    "Sección",
+    "Contenido"
+  ],
+  "rows_raw": null,
+  "records": [
+    {
+      "Sección": "Estado",
+      "Contenido": "Conforme con observaciones"
+    },
+    {
+      "Sección": "Conclusión",
+      "Contenido": "Preparado para pilotaje empírico"
+    },
+    {
+      "Sección": "NC Mayores",
+      "Contenido": 0
+    },
+    {
+      "Sección": "NC Menores",
+      "Contenido": 3
+    },
+    {
+      "Sección": "Riesgos",
+      "Contenido": "Validación empírica pendiente"
+    },
+    {
+      "Sección": "Recomendación",
+      "Contenido": "Iniciar v7.0 RC1"
+    }
+  ]
+}
